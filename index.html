@@ -688,7 +688,7 @@ async function submitForm() {
   btn.disabled = true;
   btn.textContent = 'Submitting…';
 
-  // Build Formspree payload — flat structure for easy reading in dashboard
+  // Build Formspree payload — field names match Power Automate mapping exactly
   const payload = {
     _replyto: email,
     'First Name': firstName,
@@ -697,11 +697,13 @@ async function submitForm() {
     'Phone': phone || 'Not provided',
     'Tiebreaker': tb,
     'Pairings Purchased': parseInt(qtyVal, 10),
-  };pairingData.forEach((p, i) => {
+  };
+
+  pairingData.forEach((p, i) => {
     const n = i + 1;
     payload[`P${n} Golfer 1`] = `${p.golfers[0].name} (Tier ${p.golfers[0].tier === 'M' ? 'Manual' : p.golfers[0].tier})`;
     payload[`P${n} Golfer 2`] = `${p.golfers[1].name} (Tier ${p.golfers[1].tier === 'M' ? 'Manual' : p.golfers[1].tier})`;
-    payload[`P${n] Golfer 3`] = `${p.golfers[2].name} (Tier ${p.golfers[2].tier === 'M' ? 'Manual' : p.golfers[2].tier})`;
+    payload[`P${n} Golfer 3`] = `${p.golfers[2].name} (Tier ${p.golfers[2].tier === 'M' ? 'Manual' : p.golfers[2].tier})`;
   });
 
   // Submit to Formspree
