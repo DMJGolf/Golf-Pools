@@ -249,84 +249,85 @@
 <script>
 const TOURNAMENT_CONFIG = {
   name: "2026 US Open",
-  venue: "Shinnecock Hill Golf Club",
+  venue: "Oakmont Country Club",
   par: 70,
-  golfers:[
-    // TIER 1 — Top 5 OWGR
+  golfers: [
+    // TIER 1
     { name: "Scottie Scheffler",    tier: 1 },
     { name: "Rory McIlroy",         tier: 1 },
-    { name: "Cameron Young",        tier: 1 },
     { name: "Matt Fitzpatrick",     tier: 1 },
-    { name: "Russell Henley",       tier: 1 },
-    // TIER 2 — OWGR 6-10 + elevation (OWGR #7 not in field, Chris Gotterup #11 elevated)
-    { name: "Justin Rose",          tier: 2 },
+    { name: "Cameron Young",        tier: 1 },
+    { name: "Justin Rose",          tier: 1 },
+    { name: "Jon Rahm",             tier: 1 },
+    { name: "Bryson DeChambeau",    tier: 1 },
+    // TIER 2
+    { name: "Collin Morikawa",      tier: 2 },
     { name: "Tommy Fleetwood",      tier: 2 },
-    { name: "J.J. Spaun",           tier: 2 },
+    { name: "Russell Henley",       tier: 2 },
     { name: "Xander Schauffele",    tier: 2 },
-    { name: "Chris Gotterup",       tier: 2 },
-    // TIER 3 — OWGR 11+
-    { name: "Aaron Rai",            tier: 3 },
-    { name: "Ben Griffin",          tier: 3 },
-    { name: "Ludvig Aberg",         tier: 3 },
-    { name: "Justin Thomas",        tier: 3 },
+    { name: "J.J. Spaun",           tier: 2 },
+    // TIER 3
+    { name: "Chris Gotterup",       tier: 3 },
     { name: "Robert MacIntyre",     tier: 3 },
-    { name: "Sepp Straka",          tier: 3 },
-    { name: "Si Woo Kim",           tier: 3 },
+    { name: "Ludvig Aberg",         tier: 3 },
     { name: "Hideki Matsuyama",     tier: 3 },
-    { name: "Alex Noren",           tier: 3 },
+    { name: "Ben Griffin",          tier: 3 },
+    { name: "Justin Thomas",        tier: 3 },
     { name: "Harris English",       tier: 3 },
     { name: "Jacob Bridgeman",      tier: 3 },
-    { name: "Kristoffer Reitan",    tier: 3 },
+    { name: "Patrick Reed",         tier: 3 },
+    { name: "Alex Noren",           tier: 3 },
+    { name: "Tyrrell Hatton",       tier: 3 },
     { name: "Akshay Bhatia",        tier: 3 },
-    { name: "Nicolai Hojgaard",     tier: 3 },
-    { name: "Kurt Kitayama",        tier: 3 },
-    { name: "Min Woo Lee",          tier: 3 },
-    { name: "Patrick Cantlay",      tier: 3 },
+    { name: "Si Woo Kim",           tier: 3 },
+    { name: "Viktor Hovland",       tier: 3 },
+    { name: "Keegan Bradley",       tier: 3 },
     { name: "Sam Burns",            tier: 3 },
     { name: "Maverick McNealy",     tier: 3 },
+    { name: "Min Woo Lee",          tier: 3 },
+    { name: "Patrick Cantlay",      tier: 3 },
     { name: "Ryan Gerard",          tier: 3 },
-    { name: "Keegan Bradley",       tier: 3 },
-    { name: "Alex Smalley",         tier: 3 },
-    { name: "Rickie Fowler",        tier: 3 },
-    { name: "Jake Knapp",           tier: 3 },
+    { name: "Kurt Kitayama",        tier: 3 },
     { name: "Shane Lowry",          tier: 3 },
-    { name: "Daniel Berger",        tier: 3 },
-    { name: "Gary Woodland",        tier: 3 },
+    { name: "Jake Knapp",           tier: 3 },
+    { name: "Nicolai Hojgaard",     tier: 3 },
+    { name: "Marco Penge",          tier: 3 },
     { name: "Jason Day",            tier: 3 },
-    { name: "Wyndham Clark",        tier: 3 },
+    { name: "Daniel Berger",        tier: 3 },
+    { name: "Aaron Rai",            tier: 3 },
+    { name: "Nicolas Echavarria",   tier: 3 },
     { name: "Michael Kim",          tier: 3 },
-    { name: "Nico Echavarria",      tier: 3 },
-    { name: "Jordan Spieth",        tier: 3 },
-    { name: "Adam Scott",           tier: 3 },
-    { name: "Brian Campbell",       tier: 3 },
-    { name: "Bud Cauley",           tier: 3 },
-    { name: "Eric Cole",            tier: 3 },
-    { name: "Pierceson Coody",      tier: 3 },
-    { name: "Alex Fitzpatrick",     tier: 3 },
-    { name: "Tony Finau",           tier: 3 },
-    { name: "Ryan Fox",             tier: 3 },
-    { name: "Lucas Glover",         tier: 3 },
-    { name: "Harry Hall",           tier: 3 },
-    { name: "Brian Harman",         tier: 3 },
-    { name: "Ryo Hisatsune",        tier: 3 },
-    { name: "Tom Hoge",             tier: 3 },
-    { name: "Billy Horschel",       tier: 3 },
-    { name: "Mark Hubbard",         tier: 3 },
-    { name: "Sungjae Im",           tier: 3 },
-    { name: "Matt Kuchar",          tier: 3 },
+    { name: "Corey Conners",        tier: 3 },
+    { name: "Samuel Stevens",       tier: 3 },
     { name: "Matt McCarty",         tier: 3 },
-    { name: "Mac Meissner",         tier: 3 },
+    { name: "Kristoffer Reitan",    tier: 3 },
+    { name: "Michael Brennan",      tier: 3 },
+    { name: "Jordan Spieth",        tier: 3 },
+    { name: "Brian Harman",         tier: 3 },
     { name: "Andrew Novak",         tier: 3 },
-    { name: "Taylor Pendrith",      tier: 3 },
-    { name: "J.T. Poston",          tier: 3 },
-    { name: "Patrick Rodgers",      tier: 3 },
-    { name: "Brandt Snedeker",      tier: 3 },
-    { name: "Sam Stevens",          tier: 3 },
+    { name: "Pierceson Coody",      tier: 3 },
+    { name: "Adam Scott",           tier: 3 },
+    { name: "Ryan Fox",             tier: 3 },
+    { name: "Rickie Fowler",        tier: 3 },
+    { name: "Ryo Hisatsune",        tier: 3 },
+    { name: "Michael Thorbjornsen", tier: 3 },
+    { name: "Rasmus Hojgaard",      tier: 3 },
+    { name: "David Puig",           tier: 3 },
+    { name: "Thomas Detry",         tier: 3 },
+    { name: "Jayden Schaper",       tier: 3 },
+    { name: "Harry Hall",           tier: 3 },
+    { name: "Bud Cauley",           tier: 3 },
     { name: "Nick Taylor",          tier: 3 },
+    { name: "Jordan Smith",         tier: 3 },
+    { name: "Max Greyserman",       tier: 3 },
+    { name: "Matt Wallace",         tier: 3 },
+    { name: "Wyndham Clark",        tier: 3 },
     { name: "Sahith Theegala",      tier: 3 },
-    { name: "Jhonattan Vegas",      tier: 3 },
-    { name: "Denny McCarthy",       tier: 3 }
-  ] };
+    { name: "Casey Jarvis",         tier: 3 },
+    { name: "John Keefer",          tier: 3 },
+    { name: "Patrick Rodgers",      tier: 3 }
+  ]
+};
 </script>
 
 <header class="site-header">
@@ -438,7 +439,7 @@ const TOURNAMENT_CONFIG = {
   <!-- Submit -->
   <div class="submit-section">
     <button class="btn-submit" id="btn-submit" onclick="submitForm()">Submit My Entry &nbsp;(Please make sure you are online)</button>
-    <div class="submit-note">Your entry will be submitted automatically and a confirmation emailed to you. A copy will also download to your device for your records.</div>
+    <div class="submit-note">Your entry will be submitted automatically and a copy will download to your device for your records.</div>
   </div>
 
 </div>
@@ -687,22 +688,23 @@ async function submitForm() {
   btn.disabled = true;
   btn.textContent = 'Submitting…';
 
-  // Build Formspree payload — field names match Intake sheet column headers exactly
+  // Build Formspree payload — flat structure for easy reading in dashboard
   const payload = {
     _replyto: email,
-    'First Name': firstName,
-    'Last Name': lastName,
-    'Email': email,
-    'Phone': phone || 'Not provided',
-    'Tiebreaker': tb,
-    'Pairings Purchased': parseInt(qtyVal, 10),
+    tournament: TOURNAMENT_CONFIG.name,
+    first_name: firstName,
+    last_name: lastName,
+    email: email,
+    phone: phone || 'Not provided',
+    tiebreaker: tb,
+    pairings_purchased: qtyVal,
   };
 
   pairingData.forEach((p, i) => {
     const n = i + 1;
-    payload[`P${n} Golfer 1`] = `${p.golfers[0].name} (Tier ${p.golfers[0].tier === 'M' ? 'Manual' : p.golfers[0].tier})`;
-    payload[`P${n} Golfer 2`] = `${p.golfers[1].name} (Tier ${p.golfers[1].tier === 'M' ? 'Manual' : p.golfers[1].tier})`;
-    payload[`P${n} Golfer 3`] = `${p.golfers[2].name} (Tier ${p.golfers[2].tier === 'M' ? 'Manual' : p.golfers[2].tier})`;
+    payload[`pairing_${n}_golfer1`] = `${p.golfers[0].name} (Tier ${p.golfers[0].tier === 'M' ? 'Manual' : p.golfers[0].tier})`;
+    payload[`pairing_${n}_golfer2`] = `${p.golfers[1].name} (Tier ${p.golfers[1].tier === 'M' ? 'Manual' : p.golfers[1].tier})`;
+    payload[`pairing_${n}_golfer3`] = `${p.golfers[2].name} (Tier ${p.golfers[2].tier === 'M' ? 'Manual' : p.golfers[2].tier})`;
   });
 
   // Submit to Formspree
@@ -732,14 +734,9 @@ async function submitForm() {
   btn.textContent = 'Submit My Entry  (Please make sure you are online)';
 
   // Show modal
-  const statusLine = submissionOk
-    ? '✅ Your entry has been received and a confirmation email is on its way to <strong>' + email + '</strong>.'
-    : '⚠️ Your entry file downloaded but there was a problem sending it automatically. Please email the downloaded file to the pool organizer.';
-
   const body = `<strong>${firstName} ${lastName}</strong><br>
     ${pairingData.length} pairing${pairingData.length > 1 ? 's' : ''} · Tiebreaker: ${tb}<br><br>
-    ${statusLine}<br><br>
-    A copy of your entry has also downloaded to your device for your records.`;
+    Your submission has been received and contained all valid entries. You will now get a download of your Pairings for your records. You won't get further confirmation, nor do you need to email your submission anywhere. All is good!`;
 
   document.getElementById('modal-body').innerHTML = body;
   document.getElementById('modal').classList.add('visible');
