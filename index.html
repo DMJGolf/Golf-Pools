@@ -691,16 +691,13 @@ async function submitForm() {
   // Build Formspree payload — flat structure for easy reading in dashboard
   const payload = {
     _replyto: email,
-    tournament: TOURNAMENT_CONFIG.name,
-    first_name: firstName,
-    last_name: lastName,
-    email: email,
-    phone: phone || 'Not provided',
-    tiebreaker: tb,
-    pairings_purchased: qtyVal,
-  };
-
-  pairingData.forEach((p, i) => {
+    'First Name': firstName,
+    'Last Name': lastName,
+    'Email': email,
+    'Phone': phone || 'Not provided',
+    'Tiebreaker': tb,
+    'Pairings Purchased': parseInt(qtyVal, 10),
+  };((p, i) => {
     const n = i + 1;
     payload[`pairing_${n}_golfer1`] = `${p.golfers[0].name} (Tier ${p.golfers[0].tier === 'M' ? 'Manual' : p.golfers[0].tier})`;
     payload[`pairing_${n}_golfer2`] = `${p.golfers[1].name} (Tier ${p.golfers[1].tier === 'M' ? 'Manual' : p.golfers[1].tier})`;
