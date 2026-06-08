@@ -697,11 +697,11 @@ async function submitForm() {
     'Phone': phone || 'Not provided',
     'Tiebreaker': tb,
     'Pairings Purchased': parseInt(qtyVal, 10),
-  };((p, i) => {
+  };pairingData.forEach((p, i) => {
     const n = i + 1;
-    payload[`pairing_${n}_golfer1`] = `${p.golfers[0].name} (Tier ${p.golfers[0].tier === 'M' ? 'Manual' : p.golfers[0].tier})`;
-    payload[`pairing_${n}_golfer2`] = `${p.golfers[1].name} (Tier ${p.golfers[1].tier === 'M' ? 'Manual' : p.golfers[1].tier})`;
-    payload[`pairing_${n}_golfer3`] = `${p.golfers[2].name} (Tier ${p.golfers[2].tier === 'M' ? 'Manual' : p.golfers[2].tier})`;
+    payload[`P${n} Golfer1`] = `${p.golfers[0].name} (Tier ${p.golfers[0].tier === 'M' ? 'Manual' : p.golfers[0].tier})`;
+    payload[`P${n} Golfer2`] = `${p.golfers[1].name} (Tier ${p.golfers[1].tier === 'M' ? 'Manual' : p.golfers[1].tier})`;
+    payload[`P${n{ Golfer3`] = `${p.golfers[2].name} (Tier ${p.golfers[2].tier === 'M' ? 'Manual' : p.golfers[2].tier})`;
   });
 
   // Submit to Formspree
