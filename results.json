@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T20:13:50.433601+00:00",
+  "last_updated": "2026-07-17T20:34:24.644503+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Jeff Barton",
@@ -64,37 +64,6 @@
       "rank": 2
     },
     {
-      "entrant_full_name": "Mark Johnson",
-      "label": "Mark J",
-      "pairing_id": "Mark J-4",
-      "golfers": [
-        {
-          "name": "Bryson DeChambeau",
-          "score": -7,
-          "thru": 18,
-          "today": -4,
-          "status": "LIVE"
-        },
-        {
-          "name": "Collin Morikawa",
-          "score": -2,
-          "thru": 18,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Robert MacIntyre",
-          "score": -4,
-          "thru": 18,
-          "today": -1,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -13,
-      "status": "LIVE",
-      "rank": 3
-    },
-    {
       "entrant_full_name": "Michael Eckloff",
       "label": "Michael E",
       "pairing_id": "Michael E-2",
@@ -123,7 +92,7 @@
       ],
       "total_score": -13,
       "status": "LIVE",
-      "rank": 4
+      "rank": 3
     },
     {
       "entrant_full_name": "Broc Mushet",
@@ -154,7 +123,7 @@
       ],
       "total_score": -12,
       "status": "LIVE",
-      "rank": 5
+      "rank": 4
     },
     {
       "entrant_full_name": "Dale Johnson",
@@ -185,7 +154,7 @@
       ],
       "total_score": -12,
       "status": "LIVE",
-      "rank": 6
+      "rank": 5
     },
     {
       "entrant_full_name": "Kristina Kinard",
@@ -216,7 +185,7 @@
       ],
       "total_score": -12,
       "status": "LIVE",
-      "rank": 7
+      "rank": 6
     },
     {
       "entrant_full_name": "Bradley Schatz",
@@ -247,7 +216,7 @@
       ],
       "total_score": -11,
       "status": "LIVE",
-      "rank": 8
+      "rank": 7
     },
     {
       "entrant_full_name": "Jennifer Thomas",
@@ -278,7 +247,7 @@
       ],
       "total_score": -11,
       "status": "LIVE",
-      "rank": 9
+      "rank": 8
     },
     {
       "entrant_full_name": "John Caruthers",
@@ -304,6 +273,37 @@
           "score": -3,
           "thru": 18,
           "today": -2,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -11,
+      "status": "LIVE",
+      "rank": 9
+    },
+    {
+      "entrant_full_name": "Mark Johnson",
+      "label": "Mark J",
+      "pairing_id": "Mark J-4",
+      "golfers": [
+        {
+          "name": "Bryson DeChambeau",
+          "score": -5,
+          "thru": 18,
+          "today": -2,
+          "status": "LIVE"
+        },
+        {
+          "name": "Collin Morikawa",
+          "score": -2,
+          "thru": 18,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Robert MacIntyre",
+          "score": -4,
+          "thru": 18,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -2048,37 +2048,6 @@
       "rank": 66
     },
     {
-      "entrant_full_name": "Jennifer Thomas",
-      "label": "Jennifer T",
-      "pairing_id": "Jennifer T-4",
-      "golfers": [
-        {
-          "name": "Bryson DeChambeau",
-          "score": -7,
-          "thru": 18,
-          "today": -4,
-          "status": "LIVE"
-        },
-        {
-          "name": "Justin Rose",
-          "score": 3,
-          "thru": 18,
-          "today": -2,
-          "status": "LIVE"
-        },
-        {
-          "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 18,
-          "today": -1,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -4,
-      "status": "LIVE",
-      "rank": 67
-    },
-    {
       "entrant_full_name": "Mark Johnson",
       "label": "Mark J",
       "pairing_id": "Mark J-1",
@@ -2107,7 +2076,7 @@
       ],
       "total_score": -4,
       "status": "LIVE",
-      "rank": 68
+      "rank": 67
     },
     {
       "entrant_full_name": "Max Hensley",
@@ -2138,7 +2107,7 @@
       ],
       "total_score": -4,
       "status": "LIVE",
-      "rank": 69
+      "rank": 68
     },
     {
       "entrant_full_name": "Max Hensley",
@@ -2169,7 +2138,7 @@
       ],
       "total_score": -4,
       "status": "LIVE",
-      "rank": 70
+      "rank": 69
     },
     {
       "entrant_full_name": "Niall Johnston",
@@ -2200,7 +2169,7 @@
       ],
       "total_score": -4,
       "status": "LIVE",
-      "rank": 71
+      "rank": 70
     },
     {
       "entrant_full_name": "Scott Henderson",
@@ -2231,7 +2200,7 @@
       ],
       "total_score": -4,
       "status": "LIVE",
-      "rank": 72
+      "rank": 71
     },
     {
       "entrant_full_name": "Teddy Minner",
@@ -2262,7 +2231,7 @@
       ],
       "total_score": -4,
       "status": "LIVE",
-      "rank": 73
+      "rank": 72
     },
     {
       "entrant_full_name": "Amy Foley",
@@ -2293,7 +2262,7 @@
       ],
       "total_score": -3,
       "status": "LIVE",
-      "rank": 74
+      "rank": 73
     },
     {
       "entrant_full_name": "Donovan Jacob",
@@ -2324,7 +2293,7 @@
       ],
       "total_score": -3,
       "status": "LIVE",
-      "rank": 75
+      "rank": 74
     },
     {
       "entrant_full_name": "John Jerome",
@@ -2355,7 +2324,7 @@
       ],
       "total_score": -3,
       "status": "LIVE",
-      "rank": 76
+      "rank": 75
     },
     {
       "entrant_full_name": "Patrick Shanley",
@@ -2386,7 +2355,7 @@
       ],
       "total_score": -3,
       "status": "LIVE",
-      "rank": 77
+      "rank": 76
     },
     {
       "entrant_full_name": "Scott Calkins",
@@ -2417,7 +2386,7 @@
       ],
       "total_score": -3,
       "status": "LIVE",
-      "rank": 78
+      "rank": 77
     },
     {
       "entrant_full_name": "Shawn Kicherer",
@@ -2448,7 +2417,7 @@
       ],
       "total_score": -3,
       "status": "LIVE",
-      "rank": 79
+      "rank": 78
     },
     {
       "entrant_full_name": "Steve Sawtell",
@@ -2479,7 +2448,7 @@
       ],
       "total_score": -3,
       "status": "LIVE",
-      "rank": 80
+      "rank": 79
     },
     {
       "entrant_full_name": "Amy Foley",
@@ -2510,7 +2479,7 @@
       ],
       "total_score": -2,
       "status": "LIVE",
-      "rank": 81
+      "rank": 80
     },
     {
       "entrant_full_name": "Amy Foley",
@@ -2541,7 +2510,7 @@
       ],
       "total_score": -2,
       "status": "LIVE",
-      "rank": 82
+      "rank": 81
     },
     {
       "entrant_full_name": "Donovan Jacob",
@@ -2572,7 +2541,7 @@
       ],
       "total_score": -2,
       "status": "LIVE",
-      "rank": 83
+      "rank": 82
     },
     {
       "entrant_full_name": "Erik Hetzel",
@@ -2603,7 +2572,7 @@
       ],
       "total_score": -2,
       "status": "LIVE",
-      "rank": 84
+      "rank": 83
     },
     {
       "entrant_full_name": "James Clark",
@@ -2634,7 +2603,7 @@
       ],
       "total_score": -2,
       "status": "LIVE",
-      "rank": 85
+      "rank": 84
     },
     {
       "entrant_full_name": "James Clark",
@@ -2660,6 +2629,37 @@
           "score": 1,
           "thru": 18,
           "today": 1,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -2,
+      "status": "LIVE",
+      "rank": 85
+    },
+    {
+      "entrant_full_name": "Jennifer Thomas",
+      "label": "Jennifer T",
+      "pairing_id": "Jennifer T-4",
+      "golfers": [
+        {
+          "name": "Bryson DeChambeau",
+          "score": -5,
+          "thru": 18,
+          "today": -2,
+          "status": "LIVE"
+        },
+        {
+          "name": "Justin Rose",
+          "score": 3,
+          "thru": 18,
+          "today": -2,
+          "status": "LIVE"
+        },
+        {
+          "name": "Xander Schauffele",
+          "score": 0,
+          "thru": 18,
+          "today": -1,
           "status": "LIVE"
         }
       ],
