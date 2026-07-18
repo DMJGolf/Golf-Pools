@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T09:08:53.112371+00:00",
+  "last_updated": "2026-07-18T10:38:50.963982+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Jeff Barton",
@@ -860,7 +860,7 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
@@ -922,7 +922,7 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
@@ -939,7 +939,7 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         },
@@ -1015,7 +1015,7 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
@@ -1070,7 +1070,7 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         },
@@ -1108,7 +1108,7 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
@@ -1428,37 +1428,6 @@
       "rank": 46
     },
     {
-      "entrant_full_name": "Dennis Picht",
-      "label": "Dennis P",
-      "pairing_id": "Dennis P-7",
-      "golfers": [
-        {
-          "name": "Jon Rahm",
-          "score": -4,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Tyrrell Hatton",
-          "score": -3,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Min Woo Lee",
-          "score": 1,
-          "thru": 3,
-          "today": 0,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -6,
-      "status": "LIVE",
-      "rank": 47
-    },
-    {
       "entrant_full_name": "Jeff Barton",
       "label": "Jeff B",
       "pairing_id": "Jeff B-3",
@@ -1487,7 +1456,7 @@
       ],
       "total_score": -6,
       "status": "LIVE",
-      "rank": 48
+      "rank": 47
     },
     {
       "entrant_full_name": "Dale Johnson",
@@ -1511,14 +1480,14 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
       ],
       "total_score": -5,
       "status": "LIVE",
-      "rank": 49
+      "rank": 48
     },
     {
       "entrant_full_name": "Erik Hetzel",
@@ -1542,14 +1511,14 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
       ],
       "total_score": -5,
       "status": "LIVE",
-      "rank": 50
+      "rank": 49
     },
     {
       "entrant_full_name": "Max Hensley",
@@ -1573,14 +1542,14 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
       ],
       "total_score": -5,
       "status": "LIVE",
-      "rank": 51
+      "rank": 50
     },
     {
       "entrant_full_name": "Scott Henderson",
@@ -1611,7 +1580,7 @@
       ],
       "total_score": -5,
       "status": "LIVE",
-      "rank": 52
+      "rank": 51
     },
     {
       "entrant_full_name": "Teddy Minner",
@@ -1635,12 +1604,43 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
       ],
       "total_score": -5,
+      "status": "LIVE",
+      "rank": 52
+    },
+    {
+      "entrant_full_name": "Dennis Picht",
+      "label": "Dennis P",
+      "pairing_id": "Dennis P-7",
+      "golfers": [
+        {
+          "name": "Jon Rahm",
+          "score": -4,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Tyrrell Hatton",
+          "score": -3,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Min Woo Lee",
+          "score": 3,
+          "thru": 11,
+          "today": 2,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -4,
       "status": "LIVE",
       "rank": 53
     },
@@ -1659,7 +1659,7 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         },
@@ -1728,7 +1728,7 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
@@ -1759,7 +1759,7 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
@@ -1789,13 +1789,13 @@
         },
         {
           "name": "Min Woo Lee",
-          "score": 1,
-          "thru": 3,
-          "today": 0,
+          "score": 3,
+          "thru": 11,
+          "today": 2,
           "status": "LIVE"
         }
       ],
-      "total_score": -2,
+      "total_score": 0,
       "status": "LIVE",
       "rank": 58
     },
@@ -1984,7 +1984,7 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         },
@@ -2192,7 +2192,7 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
@@ -2391,7 +2391,7 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
@@ -2533,9 +2533,9 @@
         },
         {
           "name": "Min Woo Lee",
-          "score": 1,
-          "thru": 3,
-          "today": 0,
+          "score": 3,
+          "thru": 11,
+          "today": 2,
           "status": "LIVE"
         }
       ],
@@ -2619,7 +2619,7 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
@@ -2675,7 +2675,7 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
@@ -2840,9 +2840,9 @@
         },
         {
           "name": "Alex Noren",
-          "score": 0,
-          "thru": 0,
-          "today": 0,
+          "score": -1,
+          "thru": 7,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -2869,9 +2869,9 @@
         },
         {
           "name": "Alex Noren",
-          "score": 0,
-          "thru": 0,
-          "today": 0,
+          "score": -1,
+          "thru": 7,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -3009,7 +3009,7 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
@@ -3288,7 +3288,7 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         },
@@ -3463,7 +3463,7 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
@@ -3518,9 +3518,9 @@
         },
         {
           "name": "Min Woo Lee",
-          "score": 1,
-          "thru": 3,
-          "today": 0,
+          "score": 3,
+          "thru": 11,
+          "today": 2,
           "status": "LIVE"
         }
       ],
@@ -3548,7 +3548,7 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
@@ -3689,7 +3689,7 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
@@ -3718,7 +3718,7 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
@@ -3840,9 +3840,9 @@
       "golfers": [
         {
           "name": "Russell Henley",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 2,
+          "thru": 12,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -3876,9 +3876,9 @@
         },
         {
           "name": "Min Woo Lee",
-          "score": 1,
-          "thru": 3,
-          "today": 0,
+          "score": 3,
+          "thru": 11,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -3964,9 +3964,9 @@
         },
         {
           "name": "Min Woo Lee",
-          "score": 1,
-          "thru": 3,
-          "today": 0,
+          "score": 3,
+          "thru": 11,
+          "today": 2,
           "status": "LIVE"
         }
       ],
@@ -3994,7 +3994,7 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
@@ -4077,7 +4077,7 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
@@ -4099,7 +4099,7 @@
         {
           "name": "Xander Schauffele",
           "score": 0,
-          "thru": 0,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         },
