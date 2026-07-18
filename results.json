@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T18:34:06.279176+00:00",
+  "last_updated": "2026-07-18T18:46:37.949509+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Jeff Barton",
@@ -15,20 +15,20 @@
         },
         {
           "name": "Sam Burns",
-          "score": -9,
-          "thru": 16,
-          "today": -4,
+          "score": -10,
+          "thru": 17,
+          "today": -5,
           "status": "LIVE"
         },
         {
           "name": "Si Woo Kim",
           "score": -8,
-          "thru": 17,
+          "thru": 18,
           "today": -3,
           "status": "LIVE"
         }
       ],
-      "total_score": -21,
+      "total_score": -22,
       "status": "LIVE",
       "rank": 1
     },
@@ -53,13 +53,13 @@
         },
         {
           "name": "Sam Burns",
-          "score": -9,
-          "thru": 16,
-          "today": -4,
+          "score": -10,
+          "thru": 17,
+          "today": -5,
           "status": "LIVE"
         }
       ],
-      "total_score": -18,
+      "total_score": -19,
       "status": "LIVE",
       "rank": 2
     },
@@ -71,7 +71,7 @@
         {
           "name": "Cameron Young",
           "score": -4,
-          "thru": 16,
+          "thru": 17,
           "today": 2,
           "status": "LIVE"
         },
@@ -84,15 +84,46 @@
         },
         {
           "name": "Sam Burns",
-          "score": -9,
-          "thru": 16,
-          "today": -4,
+          "score": -10,
+          "thru": 17,
+          "today": -5,
           "status": "LIVE"
         }
       ],
-      "total_score": -15,
+      "total_score": -16,
       "status": "LIVE",
       "rank": 3
+    },
+    {
+      "entrant_full_name": "Scott Hobbs",
+      "label": "Scott Hobbs",
+      "pairing_id": "Scott Hobbs-1",
+      "golfers": [
+        {
+          "name": "Scottie Scheffler",
+          "score": -4,
+          "thru": 18,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Collin Morikawa",
+          "score": -2,
+          "thru": 18,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Sam Burns",
+          "score": -10,
+          "thru": 17,
+          "today": -5,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -16,
+      "status": "LIVE",
+      "rank": 4
     },
     {
       "entrant_full_name": "Niall Johnston",
@@ -116,39 +147,8 @@
         {
           "name": "Si Woo Kim",
           "score": -8,
-          "thru": 17,
+          "thru": 18,
           "today": -3,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -15,
-      "status": "LIVE",
-      "rank": 4
-    },
-    {
-      "entrant_full_name": "Scott Hobbs",
-      "label": "Scott Hobbs",
-      "pairing_id": "Scott Hobbs-1",
-      "golfers": [
-        {
-          "name": "Scottie Scheffler",
-          "score": -4,
-          "thru": 18,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Collin Morikawa",
-          "score": -2,
-          "thru": 18,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Sam Burns",
-          "score": -9,
-          "thru": 16,
-          "today": -4,
           "status": "LIVE"
         }
       ],
@@ -178,7 +178,7 @@
         {
           "name": "Si Woo Kim",
           "score": -8,
-          "thru": 17,
+          "thru": 18,
           "today": -3,
           "status": "LIVE"
         }
@@ -209,7 +209,7 @@
         {
           "name": "Si Woo Kim",
           "score": -8,
-          "thru": 17,
+          "thru": 18,
           "today": -3,
           "status": "LIVE"
         }
@@ -250,6 +250,37 @@
       "rank": 8
     },
     {
+      "entrant_full_name": "Broc Mushet",
+      "label": "Broc M",
+      "pairing_id": "Broc M-3",
+      "golfers": [
+        {
+          "name": "Scottie Scheffler",
+          "score": -4,
+          "thru": 18,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Sam Burns",
+          "score": -10,
+          "thru": 17,
+          "today": -5,
+          "status": "LIVE"
+        },
+        {
+          "name": "Tyrrell Hatton",
+          "score": 1,
+          "thru": 18,
+          "today": 4,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -13,
+      "status": "LIVE",
+      "rank": 9
+    },
+    {
       "entrant_full_name": "Christian Kress",
       "label": "Christian K",
       "pairing_id": "Christian K-1",
@@ -278,7 +309,7 @@
       ],
       "total_score": -13,
       "status": "LIVE",
-      "rank": 9
+      "rank": 10
     },
     {
       "entrant_full_name": "Erik Hetzel",
@@ -309,7 +340,7 @@
       ],
       "total_score": -13,
       "status": "LIVE",
-      "rank": 10
+      "rank": 11
     },
     {
       "entrant_full_name": "James Clark",
@@ -340,7 +371,7 @@
       ],
       "total_score": -13,
       "status": "LIVE",
-      "rank": 11
+      "rank": 12
     },
     {
       "entrant_full_name": "John Jerome",
@@ -371,7 +402,7 @@
       ],
       "total_score": -13,
       "status": "LIVE",
-      "rank": 12
+      "rank": 13
     },
     {
       "entrant_full_name": "Michael Eckloff",
@@ -402,7 +433,7 @@
       ],
       "total_score": -13,
       "status": "LIVE",
-      "rank": 13
+      "rank": 14
     },
     {
       "entrant_full_name": "Nick Lopez",
@@ -433,7 +464,7 @@
       ],
       "total_score": -13,
       "status": "LIVE",
-      "rank": 14
+      "rank": 15
     },
     {
       "entrant_full_name": "Patrick Shanley",
@@ -464,7 +495,7 @@
       ],
       "total_score": -13,
       "status": "LIVE",
-      "rank": 15
+      "rank": 16
     },
     {
       "entrant_full_name": "Scott Hobbs",
@@ -494,37 +525,6 @@
         }
       ],
       "total_score": -13,
-      "status": "LIVE",
-      "rank": 16
-    },
-    {
-      "entrant_full_name": "Broc Mushet",
-      "label": "Broc M",
-      "pairing_id": "Broc M-3",
-      "golfers": [
-        {
-          "name": "Scottie Scheffler",
-          "score": -4,
-          "thru": 18,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Sam Burns",
-          "score": -9,
-          "thru": 16,
-          "today": -4,
-          "status": "LIVE"
-        },
-        {
-          "name": "Tyrrell Hatton",
-          "score": 1,
-          "thru": 18,
-          "today": 4,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -12,
       "status": "LIVE",
       "rank": 17
     },
@@ -870,6 +870,37 @@
       "rank": 28
     },
     {
+      "entrant_full_name": "Sean Hogan",
+      "label": "Sean Hogan",
+      "pairing_id": "Sean Hogan-3",
+      "golfers": [
+        {
+          "name": "Rory McIlroy",
+          "score": -2,
+          "thru": 18,
+          "today": -1,
+          "status": "LIVE"
+        },
+        {
+          "name": "Sam Burns",
+          "score": -10,
+          "thru": 17,
+          "today": -5,
+          "status": "LIVE"
+        },
+        {
+          "name": "Tyrrell Hatton",
+          "score": 1,
+          "thru": 18,
+          "today": 4,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -11,
+      "status": "LIVE",
+      "rank": 29
+    },
+    {
       "entrant_full_name": "Teddy Minner",
       "label": "Teddy M",
       "pairing_id": "Teddy M-4",
@@ -898,7 +929,7 @@
       ],
       "total_score": -11,
       "status": "LIVE",
-      "rank": 29
+      "rank": 30
     },
     {
       "entrant_full_name": "Bradley Schatz",
@@ -929,7 +960,7 @@
       ],
       "total_score": -10,
       "status": "LIVE",
-      "rank": 30
+      "rank": 31
     },
     {
       "entrant_full_name": "Patrick Shanley",
@@ -960,7 +991,7 @@
       ],
       "total_score": -10,
       "status": "LIVE",
-      "rank": 31
+      "rank": 32
     },
     {
       "entrant_full_name": "Sean Hutchison",
@@ -986,37 +1017,6 @@
           "score": -3,
           "thru": 18,
           "today": 1,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -10,
-      "status": "LIVE",
-      "rank": 32
-    },
-    {
-      "entrant_full_name": "Sean Hogan",
-      "label": "Sean Hogan",
-      "pairing_id": "Sean Hogan-3",
-      "golfers": [
-        {
-          "name": "Rory McIlroy",
-          "score": -2,
-          "thru": 18,
-          "today": -1,
-          "status": "LIVE"
-        },
-        {
-          "name": "Sam Burns",
-          "score": -9,
-          "thru": 16,
-          "today": -4,
-          "status": "LIVE"
-        },
-        {
-          "name": "Tyrrell Hatton",
-          "score": 1,
-          "thru": 18,
-          "today": 4,
           "status": "LIVE"
         }
       ],
@@ -1904,7 +1904,7 @@
         {
           "name": "Si Woo Kim",
           "score": -8,
-          "thru": 17,
+          "thru": 18,
           "today": -3,
           "status": "LIVE"
         }
@@ -2066,7 +2066,7 @@
         {
           "name": "Cameron Young",
           "score": -4,
-          "thru": 16,
+          "thru": 17,
           "today": 2,
           "status": "LIVE"
         },
@@ -3084,7 +3084,7 @@
         {
           "name": "Cameron Young",
           "score": -4,
-          "thru": 16,
+          "thru": 17,
           "today": 2,
           "status": "LIVE"
         },
@@ -3223,7 +3223,7 @@
         {
           "name": "Cameron Young",
           "score": -4,
-          "thru": 16,
+          "thru": 17,
           "today": 2,
           "status": "LIVE"
         },
@@ -3234,9 +3234,9 @@
         },
         {
           "name": "Sam Burns",
-          "score": -9,
-          "thru": 16,
-          "today": -4,
+          "score": -10,
+          "thru": 17,
+          "today": -5,
           "status": "LIVE"
         }
       ],
@@ -3371,7 +3371,7 @@
         {
           "name": "Si Woo Kim",
           "score": -8,
-          "thru": 17,
+          "thru": 18,
           "today": -3,
           "status": "LIVE"
         },
@@ -4011,7 +4011,7 @@
         {
           "name": "Cameron Young",
           "score": -4,
-          "thru": 16,
+          "thru": 17,
           "today": 2,
           "status": "LIVE"
         },
@@ -4217,9 +4217,9 @@
         },
         {
           "name": "Sam Burns",
-          "score": -9,
-          "thru": 16,
-          "today": -4,
+          "score": -10,
+          "thru": 17,
+          "today": -5,
           "status": "LIVE"
         }
       ],
@@ -4320,7 +4320,7 @@
         {
           "name": "Cameron Young",
           "score": -4,
-          "thru": 16,
+          "thru": 17,
           "today": 2,
           "status": "LIVE"
         },
