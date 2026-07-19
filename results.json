@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T08:45:14.481574+00:00",
+  "last_updated": "2026-07-19T09:00:19.904684+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Jeff Barton",
@@ -116,7 +116,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": -1,
-          "thru": 4,
+          "thru": 5,
           "today": -2,
           "status": "LIVE"
         }
@@ -550,7 +550,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": -1,
-          "thru": 4,
+          "thru": 5,
           "today": -2,
           "status": "LIVE"
         }
@@ -984,7 +984,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": -1,
-          "thru": 4,
+          "thru": 5,
           "today": -2,
           "status": "LIVE"
         }
@@ -1015,7 +1015,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": -1,
-          "thru": 4,
+          "thru": 5,
           "today": -2,
           "status": "LIVE"
         }
@@ -1087,6 +1087,37 @@
       "rank": 35
     },
     {
+      "entrant_full_name": "Teddy Minner",
+      "label": "Teddy M",
+      "pairing_id": "Teddy M-6",
+      "golfers": [
+        {
+          "name": "Rory McIlroy",
+          "score": -2,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "J.J. Spaun",
+          "score": -1,
+          "thru": 1,
+          "today": -1,
+          "status": "LIVE"
+        },
+        {
+          "name": "Ludvig Aberg",
+          "score": -6,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -9,
+      "status": "LIVE",
+      "rank": 36
+    },
+    {
       "entrant_full_name": "John Jerome",
       "label": "John J",
       "pairing_id": "John J-2",
@@ -1115,7 +1146,7 @@
       ],
       "total_score": -8,
       "status": "LIVE",
-      "rank": 36
+      "rank": 37
     },
     {
       "entrant_full_name": "Patrick Shanley",
@@ -1139,39 +1170,8 @@
         {
           "name": "Tyrrell Hatton",
           "score": -1,
-          "thru": 4,
+          "thru": 5,
           "today": -2,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -8,
-      "status": "LIVE",
-      "rank": 37
-    },
-    {
-      "entrant_full_name": "Teddy Minner",
-      "label": "Teddy M",
-      "pairing_id": "Teddy M-6",
-      "golfers": [
-        {
-          "name": "Rory McIlroy",
-          "score": -2,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "J.J. Spaun",
-          "score": 0,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Ludvig Aberg",
-          "score": -6,
-          "thru": 0,
-          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -1318,7 +1318,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": -1,
-          "thru": 4,
+          "thru": 5,
           "today": -2,
           "status": "LIVE"
         },
@@ -1356,7 +1356,7 @@
         {
           "name": "Sepp Straka",
           "score": 3,
-          "thru": 5,
+          "thru": 6,
           "today": 1,
           "status": "LIVE"
         }
@@ -1418,7 +1418,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": -1,
-          "thru": 4,
+          "thru": 5,
           "today": -2,
           "status": "LIVE"
         }
@@ -1480,7 +1480,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": -1,
-          "thru": 4,
+          "thru": 5,
           "today": -2,
           "status": "LIVE"
         }
@@ -1573,7 +1573,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": -1,
-          "thru": 4,
+          "thru": 5,
           "today": -2,
           "status": "LIVE"
         }
@@ -1635,7 +1635,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": -1,
-          "thru": 4,
+          "thru": 5,
           "today": -2,
           "status": "LIVE"
         }
@@ -1659,14 +1659,14 @@
         {
           "name": "Tyrrell Hatton",
           "score": -1,
-          "thru": 4,
+          "thru": 5,
           "today": -2,
           "status": "LIVE"
         },
         {
           "name": "Min Woo Lee",
           "score": 2,
-          "thru": 4,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
@@ -1728,7 +1728,7 @@
         {
           "name": "Sepp Straka",
           "score": 3,
-          "thru": 5,
+          "thru": 6,
           "today": 1,
           "status": "LIVE"
         }
@@ -1790,7 +1790,7 @@
         {
           "name": "Min Woo Lee",
           "score": 2,
-          "thru": 4,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
@@ -1874,9 +1874,9 @@
         },
         {
           "name": "J.J. Spaun",
-          "score": 0,
-          "thru": 0,
-          "today": 0,
+          "score": -1,
+          "thru": 1,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -2534,7 +2534,7 @@
         {
           "name": "Min Woo Lee",
           "score": 2,
-          "thru": 4,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
@@ -2592,7 +2592,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": -1,
-          "thru": 4,
+          "thru": 5,
           "today": -2,
           "status": "LIVE"
         }
@@ -2834,7 +2834,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": -1,
-          "thru": 4,
+          "thru": 5,
           "today": -2,
           "status": "LIVE"
         },
@@ -2924,7 +2924,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": -1,
-          "thru": 4,
+          "thru": 5,
           "today": -2,
           "status": "LIVE"
         }
@@ -3405,7 +3405,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": -1,
-          "thru": 4,
+          "thru": 5,
           "today": -2,
           "status": "LIVE"
         }
@@ -3492,7 +3492,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": -1,
-          "thru": 4,
+          "thru": 5,
           "today": -2,
           "status": "LIVE"
         }
@@ -3519,7 +3519,7 @@
         {
           "name": "Min Woo Lee",
           "score": 2,
-          "thru": 4,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
@@ -3877,7 +3877,7 @@
         {
           "name": "Min Woo Lee",
           "score": 2,
-          "thru": 4,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         },
@@ -3965,7 +3965,7 @@
         {
           "name": "Min Woo Lee",
           "score": 2,
-          "thru": 4,
+          "thru": 5,
           "today": 0,
           "status": "LIVE"
         }
@@ -4106,7 +4106,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": -1,
-          "thru": 4,
+          "thru": 5,
           "today": -2,
           "status": "LIVE"
         }
@@ -4384,7 +4384,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": -1,
-          "thru": 4,
+          "thru": 5,
           "today": -2,
           "status": "LIVE"
         }
