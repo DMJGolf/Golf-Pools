@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T10:01:26.813546+00:00",
+  "last_updated": "2026-07-19T10:13:34.522016+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Jeff Barton",
@@ -271,7 +271,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": 1,
-          "thru": 10,
+          "thru": 11,
           "today": 0,
           "status": "LIVE"
         }
@@ -567,7 +567,7 @@
         {
           "name": "Chris Gotterup",
           "score": -1,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         },
@@ -891,7 +891,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": 1,
-          "thru": 10,
+          "thru": 11,
           "today": 0,
           "status": "LIVE"
         }
@@ -953,7 +953,7 @@
         {
           "name": "Corey Conners",
           "score": -1,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         }
@@ -1039,7 +1039,7 @@
         {
           "name": "J.J. Spaun",
           "score": -1,
-          "thru": 6,
+          "thru": 7,
           "today": -1,
           "status": "LIVE"
         },
@@ -1070,7 +1070,7 @@
         {
           "name": "Chris Gotterup",
           "score": -1,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         },
@@ -1101,7 +1101,7 @@
         {
           "name": "Chris Gotterup",
           "score": -1,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         },
@@ -1139,7 +1139,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": 1,
-          "thru": 10,
+          "thru": 11,
           "today": 0,
           "status": "LIVE"
         }
@@ -1170,7 +1170,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": 1,
-          "thru": 10,
+          "thru": 11,
           "today": 0,
           "status": "LIVE"
         }
@@ -1225,7 +1225,7 @@
         {
           "name": "Chris Gotterup",
           "score": -1,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         },
@@ -1349,7 +1349,7 @@
         {
           "name": "Chris Gotterup",
           "score": -1,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         },
@@ -1397,6 +1397,37 @@
       "rank": 45
     },
     {
+      "entrant_full_name": "Todd Smith",
+      "label": "Todd S",
+      "pairing_id": "Todd S-3",
+      "golfers": [
+        {
+          "name": "Scottie Scheffler",
+          "score": -4,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Chris Gotterup",
+          "score": -1,
+          "thru": 6,
+          "today": -1,
+          "status": "LIVE"
+        },
+        {
+          "name": "Patrick Reed",
+          "score": -2,
+          "thru": 2,
+          "today": -1,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -7,
+      "status": "LIVE",
+      "rank": 46
+    },
+    {
       "entrant_full_name": "Dale Johnson",
       "label": "Dale J",
       "pairing_id": "Dale J-7",
@@ -1411,7 +1442,7 @@
         {
           "name": "Chris Gotterup",
           "score": -1,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         },
@@ -1425,7 +1456,7 @@
       ],
       "total_score": -6,
       "status": "LIVE",
-      "rank": 46
+      "rank": 47
     },
     {
       "entrant_full_name": "Patrick Shanley",
@@ -1449,38 +1480,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": 1,
-          "thru": 10,
-          "today": 0,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -6,
-      "status": "LIVE",
-      "rank": 47
-    },
-    {
-      "entrant_full_name": "Todd Smith",
-      "label": "Todd S",
-      "pairing_id": "Todd S-3",
-      "golfers": [
-        {
-          "name": "Scottie Scheffler",
-          "score": -4,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 5,
-          "today": -1,
-          "status": "LIVE"
-        },
-        {
-          "name": "Patrick Reed",
-          "score": -1,
-          "thru": 1,
+          "thru": 11,
           "today": 0,
           "status": "LIVE"
         }
@@ -1488,6 +1488,37 @@
       "total_score": -6,
       "status": "LIVE",
       "rank": 48
+    },
+    {
+      "entrant_full_name": "Jeff Barton",
+      "label": "Jeff B",
+      "pairing_id": "Jeff B-3",
+      "golfers": [
+        {
+          "name": "Collin Morikawa",
+          "score": -2,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Chris Gotterup",
+          "score": -1,
+          "thru": 6,
+          "today": -1,
+          "status": "LIVE"
+        },
+        {
+          "name": "Patrick Reed",
+          "score": -2,
+          "thru": 2,
+          "today": -1,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -5,
+      "status": "LIVE",
+      "rank": 49
     },
     {
       "entrant_full_name": "Mark Johnson",
@@ -1504,7 +1535,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": 1,
-          "thru": 10,
+          "thru": 11,
           "today": 0,
           "status": "LIVE"
         },
@@ -1518,7 +1549,38 @@
       ],
       "total_score": -5,
       "status": "LIVE",
-      "rank": 49
+      "rank": 50
+    },
+    {
+      "entrant_full_name": "Scott Henderson",
+      "label": "Scott H",
+      "pairing_id": "Scott H-5",
+      "golfers": [
+        {
+          "name": "Rory McIlroy",
+          "score": -2,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Chris Gotterup",
+          "score": -1,
+          "thru": 6,
+          "today": -1,
+          "status": "LIVE"
+        },
+        {
+          "name": "Patrick Reed",
+          "score": -2,
+          "thru": 2,
+          "today": -1,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -5,
+      "status": "LIVE",
+      "rank": 51
     },
     {
       "entrant_full_name": "Scott Henderson",
@@ -1542,45 +1604,14 @@
         {
           "name": "Tyrrell Hatton",
           "score": 1,
-          "thru": 10,
+          "thru": 11,
           "today": 0,
           "status": "LIVE"
         }
       ],
       "total_score": -5,
       "status": "LIVE",
-      "rank": 50
-    },
-    {
-      "entrant_full_name": "Jeff Barton",
-      "label": "Jeff B",
-      "pairing_id": "Jeff B-3",
-      "golfers": [
-        {
-          "name": "Collin Morikawa",
-          "score": -2,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 5,
-          "today": -1,
-          "status": "LIVE"
-        },
-        {
-          "name": "Patrick Reed",
-          "score": -1,
-          "thru": 1,
-          "today": 0,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -4,
-      "status": "LIVE",
-      "rank": 51
+      "rank": 52
     },
     {
       "entrant_full_name": "John Jerome",
@@ -1604,14 +1635,14 @@
         {
           "name": "Tyrrell Hatton",
           "score": 1,
-          "thru": 10,
+          "thru": 11,
           "today": 0,
           "status": "LIVE"
         }
       ],
       "total_score": -4,
       "status": "LIVE",
-      "rank": 52
+      "rank": 53
     },
     {
       "entrant_full_name": "Nick Lopez",
@@ -1628,45 +1659,14 @@
         {
           "name": "Chris Gotterup",
           "score": -1,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         },
         {
           "name": "Tyrrell Hatton",
           "score": 1,
-          "thru": 10,
-          "today": 0,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -4,
-      "status": "LIVE",
-      "rank": 53
-    },
-    {
-      "entrant_full_name": "Scott Henderson",
-      "label": "Scott H",
-      "pairing_id": "Scott H-5",
-      "golfers": [
-        {
-          "name": "Rory McIlroy",
-          "score": -2,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 5,
-          "today": -1,
-          "status": "LIVE"
-        },
-        {
-          "name": "Patrick Reed",
-          "score": -1,
-          "thru": 1,
+          "thru": 11,
           "today": 0,
           "status": "LIVE"
         }
@@ -1697,7 +1697,7 @@
         {
           "name": "Min Woo Lee",
           "score": 1,
-          "thru": 10,
+          "thru": 11,
           "today": -1,
           "status": "LIVE"
         }
@@ -1752,14 +1752,14 @@
         {
           "name": "Chris Gotterup",
           "score": -1,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         },
         {
           "name": "Tyrrell Hatton",
           "score": 1,
-          "thru": 10,
+          "thru": 11,
           "today": 0,
           "status": "LIVE"
         }
@@ -1783,14 +1783,14 @@
         {
           "name": "Tyrrell Hatton",
           "score": 1,
-          "thru": 10,
+          "thru": 11,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Min Woo Lee",
           "score": 1,
-          "thru": 10,
+          "thru": 11,
           "today": -1,
           "status": "LIVE"
         }
@@ -1814,7 +1814,7 @@
         {
           "name": "Chris Gotterup",
           "score": -1,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         },
@@ -1875,7 +1875,7 @@
         {
           "name": "J.J. Spaun",
           "score": -1,
-          "thru": 6,
+          "thru": 7,
           "today": -1,
           "status": "LIVE"
         }
@@ -1921,7 +1921,7 @@
         {
           "name": "Chris Gotterup",
           "score": -1,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         },
@@ -2333,7 +2333,7 @@
         {
           "name": "Alex Fitzpatrick",
           "score": 1,
-          "thru": 3,
+          "thru": 4,
           "today": 2,
           "status": "LIVE"
         }
@@ -2357,7 +2357,7 @@
         {
           "name": "Chris Gotterup",
           "score": -1,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         },
@@ -2413,7 +2413,7 @@
         {
           "name": "Chris Gotterup",
           "score": -1,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         },
@@ -2527,14 +2527,14 @@
         {
           "name": "Chris Gotterup",
           "score": -1,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         },
         {
           "name": "Min Woo Lee",
           "score": 1,
-          "thru": 10,
+          "thru": 11,
           "today": -1,
           "status": "LIVE"
         }
@@ -2592,7 +2592,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": 1,
-          "thru": 10,
+          "thru": 11,
           "today": 0,
           "status": "LIVE"
         }
@@ -2641,7 +2641,7 @@
         {
           "name": "Chris Gotterup",
           "score": -1,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         },
@@ -2834,7 +2834,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": 1,
-          "thru": 10,
+          "thru": 11,
           "today": 0,
           "status": "LIVE"
         },
@@ -2924,7 +2924,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": 1,
-          "thru": 10,
+          "thru": 11,
           "today": 0,
           "status": "LIVE"
         }
@@ -3033,7 +3033,7 @@
         {
           "name": "Chris Gotterup",
           "score": -1,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         },
@@ -3172,7 +3172,7 @@
         {
           "name": "Chris Gotterup",
           "score": -1,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         },
@@ -3201,7 +3201,7 @@
         {
           "name": "Chris Gotterup",
           "score": -1,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         },
@@ -3405,7 +3405,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": 1,
-          "thru": 10,
+          "thru": 11,
           "today": 0,
           "status": "LIVE"
         }
@@ -3456,7 +3456,7 @@
         {
           "name": "Chris Gotterup",
           "score": -1,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         },
@@ -3492,7 +3492,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": 1,
-          "thru": 10,
+          "thru": 11,
           "today": 0,
           "status": "LIVE"
         }
@@ -3519,7 +3519,7 @@
         {
           "name": "Min Woo Lee",
           "score": 1,
-          "thru": 10,
+          "thru": 11,
           "today": -1,
           "status": "LIVE"
         }
@@ -3577,7 +3577,7 @@
         {
           "name": "Corey Conners",
           "score": -1,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         }
@@ -3848,7 +3848,7 @@
         {
           "name": "Chris Gotterup",
           "score": -1,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         },
@@ -3870,14 +3870,14 @@
         {
           "name": "Chris Gotterup",
           "score": -1,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         },
         {
           "name": "Min Woo Lee",
           "score": 1,
-          "thru": 10,
+          "thru": 11,
           "today": -1,
           "status": "LIVE"
         },
@@ -3904,7 +3904,7 @@
         {
           "name": "Chris Gotterup",
           "score": -1,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         },
@@ -3931,7 +3931,7 @@
         {
           "name": "Chris Gotterup",
           "score": -1,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         },
@@ -3965,7 +3965,7 @@
         {
           "name": "Min Woo Lee",
           "score": 1,
-          "thru": 10,
+          "thru": 11,
           "today": -1,
           "status": "LIVE"
         }
@@ -4106,7 +4106,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": 1,
-          "thru": 10,
+          "thru": 11,
           "today": 0,
           "status": "LIVE"
         }
@@ -4211,7 +4211,7 @@
         {
           "name": "Chris Gotterup",
           "score": -1,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         },
@@ -4271,7 +4271,7 @@
         {
           "name": "Chris Gotterup",
           "score": -1,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         },
@@ -4384,7 +4384,7 @@
         {
           "name": "Tyrrell Hatton",
           "score": 1,
-          "thru": 10,
+          "thru": 11,
           "today": 0,
           "status": "LIVE"
         }
