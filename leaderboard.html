@@ -299,7 +299,7 @@
 
 <script>
 async function loadResults() {
-  const res = await fetch('results.json', { cache: 'no-store' });
+  const res = await fetch('results.json?t=' + Date.now(), { cache: 'no-store' });
   return res.json();
 }
 
@@ -427,13 +427,13 @@ document.getElementById('toggle-count').addEventListener('click', () => {
   if (currentData) render(currentData, document.getElementById('entrant-search').value);
 });
 
-// Auto-refresh every 5 minutes to match the live data cadence
+// Auto-refresh every 15 minutes to match the live data cadence
 setInterval(() => {
   loadResults().then(data => {
     currentData = data;
     render(data, document.getElementById('entrant-search').value);
   });
-}, 5 * 60 * 1000);
+}, 15 * 60 * 1000);
 </script>
 
 </body>
