@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T08:30:18.931329+00:00",
+  "last_updated": "2026-07-19T08:40:40.248644+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Jeff Barton",
@@ -1645,37 +1645,6 @@
       "rank": 53
     },
     {
-      "entrant_full_name": "Dennis Picht",
-      "label": "Dennis P",
-      "pairing_id": "Dennis P-7",
-      "golfers": [
-        {
-          "name": "Jon Rahm",
-          "score": -4,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Tyrrell Hatton",
-          "score": -1,
-          "thru": 3,
-          "today": -2,
-          "status": "LIVE"
-        },
-        {
-          "name": "Min Woo Lee",
-          "score": 2,
-          "thru": 2,
-          "today": 0,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -3,
-      "status": "LIVE",
-      "rank": 54
-    },
-    {
       "entrant_full_name": "Jeff Barton",
       "label": "Jeff B",
       "pairing_id": "Jeff B-3",
@@ -1704,7 +1673,7 @@
       ],
       "total_score": -3,
       "status": "LIVE",
-      "rank": 55
+      "rank": 54
     },
     {
       "entrant_full_name": "Jennifer Thomas",
@@ -1735,7 +1704,7 @@
       ],
       "total_score": -3,
       "status": "LIVE",
-      "rank": 56
+      "rank": 55
     },
     {
       "entrant_full_name": "Scott Henderson",
@@ -1766,6 +1735,37 @@
       ],
       "total_score": -3,
       "status": "LIVE",
+      "rank": 56
+    },
+    {
+      "entrant_full_name": "Dennis Picht",
+      "label": "Dennis P",
+      "pairing_id": "Dennis P-7",
+      "golfers": [
+        {
+          "name": "Jon Rahm",
+          "score": -4,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Tyrrell Hatton",
+          "score": -1,
+          "thru": 3,
+          "today": -2,
+          "status": "LIVE"
+        },
+        {
+          "name": "Min Woo Lee",
+          "score": 3,
+          "thru": 3,
+          "today": 1,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -2,
+      "status": "LIVE",
       "rank": 57
     },
     {
@@ -1789,13 +1789,13 @@
         },
         {
           "name": "Min Woo Lee",
-          "score": 2,
-          "thru": 2,
-          "today": 0,
+          "score": 3,
+          "thru": 3,
+          "today": 1,
           "status": "LIVE"
         }
       ],
-      "total_score": -2,
+      "total_score": -1,
       "status": "LIVE",
       "rank": 58
     },
@@ -2533,9 +2533,9 @@
         },
         {
           "name": "Min Woo Lee",
-          "score": 2,
-          "thru": 2,
-          "today": 0,
+          "score": 3,
+          "thru": 3,
+          "today": 1,
           "status": "LIVE"
         }
       ],
@@ -3518,9 +3518,9 @@
         },
         {
           "name": "Min Woo Lee",
-          "score": 2,
-          "thru": 2,
-          "today": 0,
+          "score": 3,
+          "thru": 3,
+          "today": 1,
           "status": "LIVE"
         }
       ],
@@ -3876,9 +3876,9 @@
         },
         {
           "name": "Min Woo Lee",
-          "score": 2,
-          "thru": 2,
-          "today": 0,
+          "score": 3,
+          "thru": 3,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -3964,9 +3964,9 @@
         },
         {
           "name": "Min Woo Lee",
-          "score": 2,
-          "thru": 2,
-          "today": 0,
+          "score": 3,
+          "thru": 3,
+          "today": 1,
           "status": "LIVE"
         }
       ],
