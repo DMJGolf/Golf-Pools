@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T07:30:18.249281+00:00",
+  "last_updated": "2026-07-19T07:45:13.414774+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Jeff Barton",
@@ -1118,37 +1118,6 @@
       "rank": 36
     },
     {
-      "entrant_full_name": "Mark Johnson",
-      "label": "Mark J",
-      "pairing_id": "Mark J-5",
-      "golfers": [
-        {
-          "name": "Scottie Scheffler",
-          "score": -4,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Ludvig Aberg",
-          "score": -6,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Sepp Straka",
-          "score": 2,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -8,
-      "status": "LIVE",
-      "rank": 37
-    },
-    {
       "entrant_full_name": "Teddy Minner",
       "label": "Teddy M",
       "pairing_id": "Teddy M-6",
@@ -1177,7 +1146,7 @@
       ],
       "total_score": -8,
       "status": "LIVE",
-      "rank": 38
+      "rank": 37
     },
     {
       "entrant_full_name": "Dennis Picht",
@@ -1208,7 +1177,7 @@
       ],
       "total_score": -7,
       "status": "LIVE",
-      "rank": 39
+      "rank": 38
     },
     {
       "entrant_full_name": "Donovan Jacob",
@@ -1239,7 +1208,7 @@
       ],
       "total_score": -7,
       "status": "LIVE",
-      "rank": 40
+      "rank": 39
     },
     {
       "entrant_full_name": "Eric Cheeks",
@@ -1270,7 +1239,7 @@
       ],
       "total_score": -7,
       "status": "LIVE",
-      "rank": 41
+      "rank": 40
     },
     {
       "entrant_full_name": "John Jerome",
@@ -1296,6 +1265,37 @@
           "score": -3,
           "thru": 0,
           "today": 0,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -7,
+      "status": "LIVE",
+      "rank": 41
+    },
+    {
+      "entrant_full_name": "Mark Johnson",
+      "label": "Mark J",
+      "pairing_id": "Mark J-5",
+      "golfers": [
+        {
+          "name": "Scottie Scheffler",
+          "score": -4,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Ludvig Aberg",
+          "score": -6,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Sepp Straka",
+          "score": 3,
+          "thru": 1,
+          "today": 1,
           "status": "LIVE"
         }
       ],
@@ -1552,37 +1552,6 @@
       "rank": 50
     },
     {
-      "entrant_full_name": "Jennifer Thomas",
-      "label": "Jennifer T",
-      "pairing_id": "Jennifer T-3",
-      "golfers": [
-        {
-          "name": "Jon Rahm",
-          "score": -4,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Collin Morikawa",
-          "score": -2,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Sepp Straka",
-          "score": 2,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -4,
-      "status": "LIVE",
-      "rank": 51
-    },
-    {
       "entrant_full_name": "John Jerome",
       "label": "John J",
       "pairing_id": "John J-5",
@@ -1611,7 +1580,7 @@
       ],
       "total_score": -4,
       "status": "LIVE",
-      "rank": 52
+      "rank": 51
     },
     {
       "entrant_full_name": "Jeff Barton",
@@ -1637,6 +1606,37 @@
           "score": -1,
           "thru": 0,
           "today": 0,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -3,
+      "status": "LIVE",
+      "rank": 52
+    },
+    {
+      "entrant_full_name": "Jennifer Thomas",
+      "label": "Jennifer T",
+      "pairing_id": "Jennifer T-3",
+      "golfers": [
+        {
+          "name": "Jon Rahm",
+          "score": -4,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Collin Morikawa",
+          "score": -2,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Sepp Straka",
+          "score": 3,
+          "thru": 1,
+          "today": 1,
           "status": "LIVE"
         }
       ],
