@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T16:45:14.659319+00:00",
+  "last_updated": "2026-07-23T16:53:31.435497+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -299,9 +299,9 @@
         },
         {
           "name": "Hideki Matsuyama",
-          "score": -1,
-          "thru": 15,
-          "today": -1,
+          "score": -2,
+          "thru": 16,
+          "today": -2,
           "status": "LIVE"
         }
       ],
