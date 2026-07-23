@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T17:00:23.929778+00:00",
+  "last_updated": "2026-07-23T17:15:14.203007+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -407,9 +407,9 @@
         },
         {
           "name": "Corey Conners",
-          "score": 0,
-          "thru": 17,
-          "today": 0,
+          "score": -1,
+          "thru": 18,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -2731,9 +2731,9 @@
         },
         {
           "name": "Corey Conners",
-          "score": 0,
-          "thru": 17,
-          "today": 0,
+          "score": -1,
+          "thru": 18,
+          "today": -1,
           "status": "LIVE"
         }
       ],
