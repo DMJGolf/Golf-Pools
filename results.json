@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T13:57:16.985618+00:00",
+  "last_updated": "2026-07-26T15:01:36.996618+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -407,9 +407,9 @@
         },
         {
           "name": "Corey Conners",
-          "score": -8,
-          "thru": 0,
-          "today": 0,
+          "score": -9,
+          "thru": 4,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -435,7 +435,7 @@
         {
           "name": "Tom Kim",
           "score": -9,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -570,7 +570,7 @@
         {
           "name": "Tom Kim",
           "score": -9,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -653,7 +653,7 @@
         {
           "name": "Tom Kim",
           "score": -9,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -809,7 +809,7 @@
         {
           "name": "Tom Kim",
           "score": -9,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -1321,7 +1321,7 @@
         {
           "name": "Tom Kim",
           "score": -9,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -1985,7 +1985,7 @@
         {
           "name": "Tom Kim",
           "score": -9,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -2731,9 +2731,9 @@
         },
         {
           "name": "Corey Conners",
-          "score": -8,
-          "thru": 0,
-          "today": 0,
+          "score": -9,
+          "thru": 4,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -2965,7 +2965,7 @@
         {
           "name": "Tom Kim",
           "score": -9,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -3194,7 +3194,7 @@
         {
           "name": "Tom Kim",
           "score": -9,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -3246,7 +3246,7 @@
         {
           "name": "Tom Kim",
           "score": -9,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -3629,7 +3629,7 @@
         {
           "name": "Tom Kim",
           "score": -9,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -3808,7 +3808,7 @@
         {
           "name": "Tom Kim",
           "score": -9,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
