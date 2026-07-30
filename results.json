@@ -1,6 +1,37 @@
 {
-  "last_updated": "2026-07-30T09:40:41.073052+00:00",
+  "last_updated": "2026-07-30T11:32:25.028255+00:00",
   "leaderboard": [
+    {
+      "entrant_full_name": "Bilal Ashraf",
+      "label": "Bilal A",
+      "pairing_id": "Bilal A-3",
+      "golfers": [
+        {
+          "name": "Cameron Young",
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Wyndham Clark",
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Hideki Matsuyama",
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": 0,
+      "status": "LIVE",
+      "rank": 1
+    },
     {
       "entrant_full_name": "Amy Foley",
       "label": "Amy F",
@@ -8,15 +39,15 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Viktor Hovland",
@@ -45,8 +76,10 @@
         },
         {
           "name": "Harris English",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -70,8 +103,10 @@
         },
         {
           "name": "J.J. Spaun",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -85,8 +120,10 @@
       "golfers": [
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Collin Morikawa",
@@ -95,8 +132,10 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -110,8 +149,10 @@
       "golfers": [
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Tommy Fleetwood",
@@ -135,10 +176,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Tommy Fleetwood",
@@ -147,8 +186,10 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -192,8 +233,10 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Shane Lowry",
@@ -212,15 +255,15 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Robert MacIntyre",
@@ -269,8 +312,10 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Tyrrell Hatton",
@@ -285,41 +330,12 @@
     {
       "entrant_full_name": "Bilal Ashraf",
       "label": "Bilal A",
-      "pairing_id": "Bilal A-3",
-      "golfers": [
-        {
-          "name": "Cameron Young",
-          "score": null,
-          "status": "NOT_FOUND"
-        },
-        {
-          "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
-        },
-        {
-          "name": "Hideki Matsuyama",
-          "score": -20,
-          "thru": 18,
-          "today": -7,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": null,
-      "status": "INCOMPLETE_DATA",
-      "rank": null
-    },
-    {
-      "entrant_full_name": "Bilal Ashraf",
-      "label": "Bilal A",
       "pairing_id": "Bilal A-4",
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Tommy Fleetwood",
@@ -378,10 +394,8 @@
         },
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         }
       ],
       "total_score": null,
@@ -395,10 +409,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Tommy Fleetwood",
@@ -407,9 +419,9 @@
         },
         {
           "name": "Corey Conners",
-          "score": -10,
-          "thru": 18,
-          "today": -2,
+          "score": 0,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -434,10 +446,8 @@
         },
         {
           "name": "Tom Kim",
-          "score": -14,
-          "thru": 18,
-          "today": -5,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         }
       ],
       "total_score": null,
@@ -461,8 +471,10 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -476,10 +488,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Sam Burns",
@@ -503,10 +513,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Tommy Fleetwood",
@@ -515,8 +523,10 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -530,10 +540,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Tommy Fleetwood",
@@ -557,10 +565,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Tommy Fleetwood",
@@ -569,10 +575,8 @@
         },
         {
           "name": "Tom Kim",
-          "score": -14,
-          "thru": 18,
-          "today": -5,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         }
       ],
       "total_score": null,
@@ -586,10 +590,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Tommy Fleetwood",
@@ -613,15 +615,15 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Robert MacIntyre",
@@ -640,22 +642,20 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
-        },
-        {
-          "name": "Wyndham Clark",
           "score": null,
           "status": "NOT_FOUND"
         },
         {
-          "name": "Tom Kim",
-          "score": -14,
-          "thru": 18,
-          "today": -5,
+          "name": "Wyndham Clark",
+          "score": 0,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
+        },
+        {
+          "name": "Tom Kim",
+          "score": null,
+          "status": "NOT_FOUND"
         }
       ],
       "total_score": null,
@@ -679,8 +679,10 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -699,8 +701,10 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Robert MacIntyre",
@@ -719,10 +723,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Justin Rose",
@@ -746,15 +748,15 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Alex Fitzpatrick",
@@ -803,15 +805,15 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Tom Kim",
-          "score": -14,
-          "thru": 18,
-          "today": -5,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         }
       ],
       "total_score": null,
@@ -835,8 +837,10 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -855,8 +859,10 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Viktor Hovland",
@@ -900,10 +906,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Tommy Fleetwood",
@@ -927,10 +931,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Justin Rose",
@@ -984,8 +986,10 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Min Woo Lee",
@@ -1034,8 +1038,10 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Tyrrell Hatton",
@@ -1054,15 +1060,15 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Robert MacIntyre",
@@ -1081,15 +1087,15 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Robert MacIntyre",
@@ -1138,13 +1144,17 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -1168,8 +1178,10 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -1188,8 +1200,10 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Ludvig Aberg",
@@ -1208,8 +1222,10 @@
       "golfers": [
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Tommy Fleetwood",
@@ -1243,8 +1259,10 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -1258,10 +1276,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Tommy Fleetwood",
@@ -1270,8 +1286,10 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -1290,8 +1308,10 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Viktor Hovland",
@@ -1320,10 +1340,8 @@
         },
         {
           "name": "Tom Kim",
-          "score": -14,
-          "thru": 18,
-          "today": -5,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         }
       ],
       "total_score": null,
@@ -1362,15 +1380,15 @@
       "golfers": [
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Tommy Fleetwood",
@@ -1519,8 +1537,10 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Daniel Berger",
@@ -1594,8 +1614,10 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Patrick Reed",
@@ -1614,10 +1636,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Sam Burns",
@@ -1626,8 +1646,10 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -1641,10 +1663,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Tommy Fleetwood",
@@ -1728,8 +1748,10 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -1743,10 +1765,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Tommy Fleetwood",
@@ -1775,8 +1795,10 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Viktor Hovland",
@@ -1820,10 +1842,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Tommy Fleetwood",
@@ -1832,8 +1852,10 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -1857,8 +1879,10 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -1872,13 +1896,17 @@
       "golfers": [
         {
           "name": "Cameron Young",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Viktor Hovland",
@@ -1902,8 +1930,10 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Robert MacIntyre",
@@ -1947,15 +1977,15 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Robert MacIntyre",
@@ -1984,10 +2014,8 @@
         },
         {
           "name": "Tom Kim",
-          "score": -14,
-          "thru": 18,
-          "today": -5,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         }
       ],
       "total_score": null,
@@ -2006,8 +2034,10 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Viktor Hovland",
@@ -2026,10 +2056,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Tommy Fleetwood",
@@ -2058,8 +2086,10 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Viktor Hovland",
@@ -2078,13 +2108,17 @@
       "golfers": [
         {
           "name": "Cameron Young",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Sam Burns",
@@ -2103,10 +2137,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Viktor Hovland",
@@ -2160,8 +2192,10 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Justin Rose",
@@ -2205,10 +2239,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Ludvig Aberg",
@@ -2257,10 +2289,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Tommy Fleetwood",
@@ -2284,15 +2314,15 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Robert MacIntyre",
@@ -2321,8 +2351,10 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -2341,8 +2373,10 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Viktor Hovland",
@@ -2386,10 +2420,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Tommy Fleetwood",
@@ -2398,8 +2430,10 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -2413,8 +2447,10 @@
       "golfers": [
         {
           "name": "Cameron Young",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Collin Morikawa",
@@ -2443,8 +2479,10 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Robert MacIntyre",
@@ -2468,13 +2506,17 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -2498,8 +2540,10 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -2513,10 +2557,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Justin Rose",
@@ -2595,8 +2637,10 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Tyrrell Hatton",
@@ -2625,8 +2669,10 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -2640,10 +2686,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Collin Morikawa",
@@ -2667,10 +2711,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Tommy Fleetwood",
@@ -2719,10 +2761,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Justin Rose",
@@ -2731,9 +2771,9 @@
         },
         {
           "name": "Corey Conners",
-          "score": -10,
-          "thru": 18,
-          "today": -2,
+          "score": 0,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -2798,10 +2838,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Collin Morikawa",
@@ -2810,8 +2848,10 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -2850,10 +2890,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Collin Morikawa",
@@ -2877,10 +2915,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Justin Rose",
@@ -2889,8 +2925,10 @@
         },
         {
           "name": "Nicolai Hojgaard",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -2914,8 +2952,10 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -2939,8 +2979,10 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -2964,10 +3006,8 @@
         },
         {
           "name": "Tom Kim",
-          "score": -14,
-          "thru": 18,
-          "today": -5,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         }
       ],
       "total_score": null,
@@ -2991,8 +3031,10 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -3011,8 +3053,10 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Patrick Reed",
@@ -3036,8 +3080,10 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Tyrrell Hatton",
@@ -3056,10 +3102,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Collin Morikawa",
@@ -3138,8 +3182,10 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Robert MacIntyre",
@@ -3158,13 +3204,17 @@
       "golfers": [
         {
           "name": "Russell Henley",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Aaron Rai",
@@ -3183,8 +3233,10 @@
       "golfers": [
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Min Woo Lee",
@@ -3193,10 +3245,8 @@
         },
         {
           "name": "Tom Kim",
-          "score": -14,
-          "thru": 18,
-          "today": -5,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         }
       ],
       "total_score": null,
@@ -3215,8 +3265,10 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Viktor Hovland",
@@ -3240,15 +3292,15 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Tom Kim",
-          "score": -14,
-          "thru": 18,
-          "today": -5,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         }
       ],
       "total_score": null,
@@ -3312,20 +3364,22 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -3339,8 +3393,10 @@
       "golfers": [
         {
           "name": "Cameron Young",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Justin Rose",
@@ -3394,13 +3450,17 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -3419,8 +3479,10 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Robert MacIntyre",
@@ -3449,8 +3511,10 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -3469,8 +3533,10 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Tyrrell Hatton",
@@ -3489,10 +3555,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Justin Rose",
@@ -3521,8 +3585,10 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Robert MacIntyre",
@@ -3551,8 +3617,10 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -3571,13 +3639,17 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Jordan Spieth",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -3596,8 +3668,10 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Sam Burns",
@@ -3616,10 +3690,8 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Tommy Fleetwood",
@@ -3628,10 +3700,8 @@
         },
         {
           "name": "Tom Kim",
-          "score": -14,
-          "thru": 18,
-          "today": -5,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         }
       ],
       "total_score": null,
@@ -3670,15 +3740,15 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Viktor Hovland",
@@ -3732,8 +3802,10 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -3747,8 +3819,10 @@
       "golfers": [
         {
           "name": "Cameron Young",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Justin Rose",
@@ -3757,8 +3831,10 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -3777,8 +3853,10 @@
         },
         {
           "name": "J.J. Spaun",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Ludvig Aberg",
@@ -3807,10 +3885,8 @@
         },
         {
           "name": "Tom Kim",
-          "score": -14,
-          "thru": 18,
-          "today": -5,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         }
       ],
       "total_score": null,
@@ -3829,8 +3905,10 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Tyrrell Hatton",
@@ -3849,15 +3927,15 @@
       "golfers": [
         {
           "name": "Scottie Scheffler",
-          "score": -22,
-          "thru": 18,
-          "today": -8,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Chris Gotterup",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Patrick Reed",
