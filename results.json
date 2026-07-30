@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T22:00:48.956050+00:00",
+  "last_updated": "2026-07-30T23:16:49.295548+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Bilal Ashraf",
@@ -77,7 +77,7 @@
         {
           "name": "Harris English",
           "score": -3,
-          "thru": 17,
+          "thru": 18,
           "today": -3,
           "status": "LIVE"
         }
@@ -186,9 +186,9 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": -3,
-          "thru": 17,
-          "today": -3,
+          "score": -2,
+          "thru": 18,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -2926,7 +2926,7 @@
         {
           "name": "Nicolai Hojgaard",
           "score": -4,
-          "thru": 16,
+          "thru": 18,
           "today": -4,
           "status": "LIVE"
         }
@@ -3031,9 +3031,9 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": -3,
-          "thru": 17,
-          "today": -3,
+          "score": -2,
+          "thru": 18,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -3646,9 +3646,9 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": -3,
-          "thru": 17,
-          "today": -3,
+          "score": -2,
+          "thru": 18,
+          "today": -2,
           "status": "LIVE"
         }
       ],
