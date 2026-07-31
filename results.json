@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T17:59:31.342957+00:00",
+  "last_updated": "2026-07-31T19:36:30.343350+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Bilal Ashraf",
@@ -15,9 +15,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 2,
+          "thru": 11,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -28,7 +28,7 @@
           "status": "LIVE"
         }
       ],
-      "total_score": -14,
+      "total_score": -13,
       "status": "LIVE",
       "rank": 1
     },
@@ -44,9 +44,9 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -120,9 +120,9 @@
       "golfers": [
         {
           "name": "Wyndham Clark",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 2,
+          "thru": 11,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -132,9 +132,9 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": -1,
-          "thru": 3,
-          "today": 0,
+          "score": -3,
+          "thru": 9,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -149,9 +149,9 @@
       "golfers": [
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -233,9 +233,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         },
         {
@@ -260,9 +260,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 2,
+          "thru": 11,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -312,9 +312,9 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -471,9 +471,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -523,9 +523,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -620,9 +620,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 2,
+          "thru": 11,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -647,9 +647,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 2,
+          "thru": 11,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -679,9 +679,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -701,9 +701,9 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -753,9 +753,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 2,
+          "thru": 11,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -805,9 +805,9 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -837,9 +837,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -859,9 +859,9 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -986,9 +986,9 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -1038,9 +1038,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 2,
+          "thru": 11,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -1065,9 +1065,9 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -1092,9 +1092,9 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -1144,16 +1144,16 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 2,
+          "thru": 11,
+          "today": 1,
           "status": "LIVE"
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -1178,9 +1178,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -1200,9 +1200,9 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -1222,9 +1222,9 @@
       "golfers": [
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -1259,9 +1259,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -1286,9 +1286,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -1308,9 +1308,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 2,
+          "thru": 11,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -1380,9 +1380,9 @@
       "golfers": [
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         },
         {
@@ -1537,9 +1537,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 2,
+          "thru": 11,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -1614,9 +1614,9 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -1646,9 +1646,9 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": -1,
-          "thru": 3,
-          "today": 0,
+          "score": -3,
+          "thru": 9,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -1748,9 +1748,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -1795,9 +1795,9 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -1852,9 +1852,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -1879,9 +1879,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -1903,9 +1903,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 2,
+          "thru": 11,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -1930,9 +1930,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 2,
+          "thru": 11,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -1982,9 +1982,9 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -2034,9 +2034,9 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -2086,9 +2086,9 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -2115,9 +2115,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 2,
+          "thru": 11,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -2192,9 +2192,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         },
         {
@@ -2319,9 +2319,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         },
         {
@@ -2351,9 +2351,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -2373,9 +2373,9 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": -1,
-          "thru": 3,
-          "today": 0,
+          "score": -3,
+          "thru": 9,
+          "today": -2,
           "status": "LIVE"
         },
         {
@@ -2430,9 +2430,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -2479,9 +2479,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 2,
+          "thru": 11,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -2506,16 +2506,16 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -2540,9 +2540,9 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": -1,
-          "thru": 3,
-          "today": 0,
+          "score": -3,
+          "thru": 9,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -2637,9 +2637,9 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -2669,9 +2669,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -2848,9 +2848,9 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": -1,
-          "thru": 3,
-          "today": 0,
+          "score": -3,
+          "thru": 9,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -2952,9 +2952,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -2979,9 +2979,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -3053,9 +3053,9 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -3080,9 +3080,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         },
         {
@@ -3182,9 +3182,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 2,
+          "thru": 11,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -3211,9 +3211,9 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -3233,9 +3233,9 @@
       "golfers": [
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -3265,9 +3265,9 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -3292,9 +3292,9 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -3369,16 +3369,16 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 2,
+          "thru": 11,
+          "today": 1,
           "status": "LIVE"
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -3450,16 +3450,16 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -3479,9 +3479,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 2,
+          "thru": 11,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -3511,9 +3511,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -3533,9 +3533,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         },
         {
@@ -3585,9 +3585,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 2,
+          "thru": 11,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -3617,9 +3617,9 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": -1,
-          "thru": 3,
-          "today": 0,
+          "score": -3,
+          "thru": 9,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -3639,9 +3639,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 2,
+          "thru": 11,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -3668,9 +3668,9 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -3745,9 +3745,9 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
@@ -3802,9 +3802,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": -5,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 10,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -3831,9 +3831,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 2,
+          "thru": 11,
+          "today": 1,
           "status": "LIVE"
         }
       ],
@@ -3905,9 +3905,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 2,
+          "thru": 11,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -3932,9 +3932,9 @@
         },
         {
           "name": "Chris Gotterup",
-          "score": -1,
-          "thru": 3,
-          "today": 1,
+          "score": 0,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         },
         {
