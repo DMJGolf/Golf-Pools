@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T18:54:39.912710+00:00",
+  "last_updated": "2026-08-01T20:05:12.513347+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -70,9 +70,9 @@
         },
         {
           "name": "J.J. Spaun",
-          "score": -7,
-          "thru": 13,
-          "today": -1,
+          "score": -6,
+          "thru": 18,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -149,9 +149,9 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": -8,
-          "thru": 15,
-          "today": -2,
+          "score": -6,
+          "thru": 18,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -197,7 +197,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         },
@@ -294,7 +294,7 @@
         {
           "name": "Cameron Young",
           "score": -11,
-          "thru": 4,
+          "thru": 10,
           "today": -1,
           "status": "LIVE"
         },
@@ -407,9 +407,9 @@
         },
         {
           "name": "Corey Conners",
-          "score": -9,
-          "thru": 13,
-          "today": -3,
+          "score": -7,
+          "thru": 18,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -460,7 +460,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         }
@@ -512,7 +512,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         }
@@ -664,7 +664,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         }
@@ -816,7 +816,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         }
@@ -1118,7 +1118,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         }
@@ -1145,7 +1145,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         }
@@ -1222,7 +1222,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         }
@@ -1249,7 +1249,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         }
@@ -1341,7 +1341,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         },
@@ -1705,7 +1705,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         }
@@ -1807,7 +1807,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         }
@@ -1834,7 +1834,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         }
@@ -1851,7 +1851,7 @@
         {
           "name": "Cameron Young",
           "score": -11,
-          "thru": 4,
+          "thru": 10,
           "today": -1,
           "status": "LIVE"
         },
@@ -2053,7 +2053,7 @@
         {
           "name": "Cameron Young",
           "score": -11,
-          "thru": 4,
+          "thru": 10,
           "today": -1,
           "status": "LIVE"
         },
@@ -2135,7 +2135,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         },
@@ -2262,7 +2262,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         },
@@ -2294,7 +2294,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         }
@@ -2373,7 +2373,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         }
@@ -2390,7 +2390,7 @@
         {
           "name": "Cameron Young",
           "score": -11,
-          "thru": 4,
+          "thru": 10,
           "today": -1,
           "status": "LIVE"
         },
@@ -2452,7 +2452,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         }
@@ -2606,7 +2606,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         }
@@ -2707,9 +2707,9 @@
         },
         {
           "name": "Corey Conners",
-          "score": -9,
-          "thru": 13,
-          "today": -3,
+          "score": -7,
+          "thru": 18,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -2889,7 +2889,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         }
@@ -2916,7 +2916,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         }
@@ -2967,9 +2967,9 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": -8,
-          "thru": 15,
-          "today": -2,
+          "score": -6,
+          "thru": 18,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -3015,7 +3015,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         },
@@ -3137,7 +3137,7 @@
         {
           "name": "Russell Henley",
           "score": -9,
-          "thru": 13,
+          "thru": 18,
           "today": -3,
           "status": "LIVE"
         },
@@ -3299,7 +3299,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         }
@@ -3316,7 +3316,7 @@
         {
           "name": "Cameron Young",
           "score": -11,
-          "thru": 4,
+          "thru": 10,
           "today": -1,
           "status": "LIVE"
         },
@@ -3378,7 +3378,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         }
@@ -3430,7 +3430,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         }
@@ -3452,7 +3452,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         },
@@ -3560,9 +3560,9 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": -8,
-          "thru": 15,
-          "today": -2,
+          "score": -6,
+          "thru": 18,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -3713,7 +3713,7 @@
         {
           "name": "Xander Schauffele",
           "score": -10,
-          "thru": 8,
+          "thru": 12,
           "today": -2,
           "status": "LIVE"
         }
@@ -3730,7 +3730,7 @@
         {
           "name": "Cameron Young",
           "score": -11,
-          "thru": 4,
+          "thru": 10,
           "today": -1,
           "status": "LIVE"
         },
@@ -3761,9 +3761,9 @@
         },
         {
           "name": "J.J. Spaun",
-          "score": -7,
-          "thru": 13,
-          "today": -1,
+          "score": -6,
+          "thru": 18,
+          "today": 0,
           "status": "LIVE"
         },
         {
