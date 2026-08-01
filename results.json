@@ -1,37 +1,6 @@
 {
-  "last_updated": "2026-08-01T11:04:07.568459+00:00",
+  "last_updated": "2026-08-01T12:11:10.406229+00:00",
   "leaderboard": [
-    {
-      "entrant_full_name": "Bilal Ashraf",
-      "label": "Bilal A",
-      "pairing_id": "Bilal A-3",
-      "golfers": [
-        {
-          "name": "Cameron Young",
-          "score": -10,
-          "thru": 18,
-          "today": -9,
-          "status": "LIVE"
-        },
-        {
-          "name": "Wyndham Clark",
-          "score": 5,
-          "thru": 18,
-          "today": 4,
-          "status": "LIVE"
-        },
-        {
-          "name": "Hideki Matsuyama",
-          "score": -5,
-          "thru": 18,
-          "today": -2,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -10,
-      "status": "LIVE",
-      "rank": 1
-    },
     {
       "entrant_full_name": "Amy Foley",
       "label": "Amy F",
@@ -45,9 +14,7 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Viktor Hovland",
@@ -56,7 +23,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -77,8 +44,8 @@
         {
           "name": "Harris English",
           "score": -4,
-          "thru": 18,
-          "today": -1,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -104,8 +71,8 @@
         {
           "name": "J.J. Spaun",
           "score": -6,
-          "thru": 18,
-          "today": -3,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -121,9 +88,7 @@
         {
           "name": "Wyndham Clark",
           "score": 5,
-          "thru": 18,
-          "today": 4,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Collin Morikawa",
@@ -133,13 +98,13 @@
         {
           "name": "Si Woo Kim",
           "score": -5,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -150,9 +115,7 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Tommy Fleetwood",
@@ -166,7 +129,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -187,8 +150,8 @@
         {
           "name": "Jordan Spieth",
           "score": -6,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -234,8 +197,8 @@
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -261,9 +224,7 @@
         {
           "name": "Wyndham Clark",
           "score": 5,
-          "thru": 18,
-          "today": 4,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Robert MacIntyre",
@@ -272,7 +233,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -313,9 +274,7 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Tyrrell Hatton",
@@ -324,7 +283,36 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
+      "rank": null
+    },
+    {
+      "entrant_full_name": "Bilal Ashraf",
+      "label": "Bilal A",
+      "pairing_id": "Bilal A-3",
+      "golfers": [
+        {
+          "name": "Cameron Young",
+          "score": -10,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Wyndham Clark",
+          "score": 5,
+          "status": "CUT"
+        },
+        {
+          "name": "Hideki Matsuyama",
+          "score": -5,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": null,
+      "status": "CUT",
       "rank": null
     },
     {
@@ -420,8 +408,8 @@
         {
           "name": "Corey Conners",
           "score": -6,
-          "thru": 18,
-          "today": -3,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -472,8 +460,8 @@
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -524,8 +512,8 @@
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -621,9 +609,7 @@
         {
           "name": "Wyndham Clark",
           "score": 5,
-          "thru": 18,
-          "today": 4,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Robert MacIntyre",
@@ -632,7 +618,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -648,9 +634,7 @@
         {
           "name": "Wyndham Clark",
           "score": 5,
-          "thru": 18,
-          "today": 4,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Tom Kim",
@@ -659,7 +643,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -680,8 +664,8 @@
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -702,9 +686,7 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Robert MacIntyre",
@@ -713,7 +695,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -754,9 +736,7 @@
         {
           "name": "Wyndham Clark",
           "score": 5,
-          "thru": 18,
-          "today": 4,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Alex Fitzpatrick",
@@ -765,7 +745,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -806,9 +786,7 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Tom Kim",
@@ -817,7 +795,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -838,8 +816,8 @@
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -860,9 +838,7 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Viktor Hovland",
@@ -871,7 +847,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -987,9 +963,7 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Min Woo Lee",
@@ -998,7 +972,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -1039,9 +1013,7 @@
         {
           "name": "Wyndham Clark",
           "score": 5,
-          "thru": 18,
-          "today": 4,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Tyrrell Hatton",
@@ -1050,7 +1022,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -1066,9 +1038,7 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Robert MacIntyre",
@@ -1077,7 +1047,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -1093,9 +1063,7 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Robert MacIntyre",
@@ -1104,7 +1072,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -1145,20 +1113,18 @@
         {
           "name": "Wyndham Clark",
           "score": 5,
-          "thru": 18,
-          "today": 4,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -1179,8 +1145,8 @@
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -1201,9 +1167,7 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Ludvig Aberg",
@@ -1212,7 +1176,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -1223,9 +1187,7 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Tommy Fleetwood",
@@ -1239,7 +1201,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -1260,8 +1222,8 @@
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -1287,8 +1249,8 @@
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -1309,9 +1271,7 @@
         {
           "name": "Wyndham Clark",
           "score": 5,
-          "thru": 18,
-          "today": 4,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Viktor Hovland",
@@ -1320,7 +1280,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -1381,8 +1341,8 @@
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -1538,9 +1498,7 @@
         {
           "name": "Wyndham Clark",
           "score": 5,
-          "thru": 18,
-          "today": 4,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Daniel Berger",
@@ -1549,7 +1507,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -1615,9 +1573,7 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Patrick Reed",
@@ -1626,7 +1582,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -1647,8 +1603,8 @@
         {
           "name": "Si Woo Kim",
           "score": -5,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -1749,8 +1705,8 @@
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -1796,9 +1752,7 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Viktor Hovland",
@@ -1807,7 +1761,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -1853,8 +1807,8 @@
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -1880,8 +1834,8 @@
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -1897,16 +1851,14 @@
         {
           "name": "Cameron Young",
           "score": -10,
-          "thru": 18,
-          "today": -9,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Wyndham Clark",
           "score": 5,
-          "thru": 18,
-          "today": 4,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Viktor Hovland",
@@ -1915,7 +1867,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -1931,9 +1883,7 @@
         {
           "name": "Wyndham Clark",
           "score": 5,
-          "thru": 18,
-          "today": 4,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Robert MacIntyre",
@@ -1942,7 +1892,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -1983,9 +1933,7 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Robert MacIntyre",
@@ -1994,7 +1942,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -2035,9 +1983,7 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Viktor Hovland",
@@ -2046,7 +1992,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -2087,9 +2033,7 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Viktor Hovland",
@@ -2098,7 +2042,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -2109,16 +2053,14 @@
         {
           "name": "Cameron Young",
           "score": -10,
-          "thru": 18,
-          "today": -9,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Wyndham Clark",
           "score": 5,
-          "thru": 18,
-          "today": 4,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Sam Burns",
@@ -2127,7 +2069,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -2193,8 +2135,8 @@
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -2320,8 +2262,8 @@
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -2352,8 +2294,8 @@
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -2374,8 +2316,8 @@
         {
           "name": "Si Woo Kim",
           "score": -5,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -2431,8 +2373,8 @@
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -2448,8 +2390,8 @@
         {
           "name": "Cameron Young",
           "score": -10,
-          "thru": 18,
-          "today": -9,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -2480,9 +2422,7 @@
         {
           "name": "Wyndham Clark",
           "score": 5,
-          "thru": 18,
-          "today": 4,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Robert MacIntyre",
@@ -2491,7 +2431,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -2507,20 +2447,18 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -2541,8 +2479,8 @@
         {
           "name": "Si Woo Kim",
           "score": -5,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -2638,9 +2576,7 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Tyrrell Hatton",
@@ -2649,7 +2585,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -2670,8 +2606,8 @@
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -2772,8 +2708,8 @@
         {
           "name": "Corey Conners",
           "score": -6,
-          "thru": 18,
-          "today": -3,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -2849,8 +2785,8 @@
         {
           "name": "Si Woo Kim",
           "score": -5,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -2926,8 +2862,8 @@
         {
           "name": "Nicolai Hojgaard",
           "score": -5,
-          "thru": 18,
-          "today": -1,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -2953,8 +2889,8 @@
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -2980,8 +2916,8 @@
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -3032,8 +2968,8 @@
         {
           "name": "Jordan Spieth",
           "score": -6,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -3054,9 +2990,7 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Patrick Reed",
@@ -3065,7 +2999,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -3081,8 +3015,8 @@
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -3183,9 +3117,7 @@
         {
           "name": "Wyndham Clark",
           "score": 5,
-          "thru": 18,
-          "today": 4,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Robert MacIntyre",
@@ -3194,7 +3126,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -3205,16 +3137,14 @@
         {
           "name": "Russell Henley",
           "score": -6,
-          "thru": 18,
-          "today": -3,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Aaron Rai",
@@ -3223,7 +3153,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -3234,9 +3164,7 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Min Woo Lee",
@@ -3250,7 +3178,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -3266,9 +3194,7 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Viktor Hovland",
@@ -3277,7 +3203,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -3293,9 +3219,7 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Tom Kim",
@@ -3304,7 +3228,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -3370,20 +3294,18 @@
         {
           "name": "Wyndham Clark",
           "score": 5,
-          "thru": 18,
-          "today": 4,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -3394,8 +3316,8 @@
         {
           "name": "Cameron Young",
           "score": -10,
-          "thru": 18,
-          "today": -9,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -3451,20 +3373,18 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -3480,9 +3400,7 @@
         {
           "name": "Wyndham Clark",
           "score": 5,
-          "thru": 18,
-          "today": 4,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Robert MacIntyre",
@@ -3491,7 +3409,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -3512,8 +3430,8 @@
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -3534,8 +3452,8 @@
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -3586,9 +3504,7 @@
         {
           "name": "Wyndham Clark",
           "score": 5,
-          "thru": 18,
-          "today": 4,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Robert MacIntyre",
@@ -3597,7 +3513,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -3618,8 +3534,8 @@
         {
           "name": "Si Woo Kim",
           "score": -5,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -3640,20 +3556,18 @@
         {
           "name": "Wyndham Clark",
           "score": 5,
-          "thru": 18,
-          "today": 4,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Jordan Spieth",
           "score": -6,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -3669,9 +3583,7 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Sam Burns",
@@ -3680,7 +3592,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -3746,9 +3658,7 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Viktor Hovland",
@@ -3757,7 +3667,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -3803,8 +3713,8 @@
         {
           "name": "Xander Schauffele",
           "score": -8,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -3820,8 +3730,8 @@
         {
           "name": "Cameron Young",
           "score": -10,
-          "thru": 18,
-          "today": -9,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -3832,13 +3742,11 @@
         {
           "name": "Wyndham Clark",
           "score": 5,
-          "thru": 18,
-          "today": 4,
-          "status": "LIVE"
+          "status": "CUT"
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -3854,8 +3762,8 @@
         {
           "name": "J.J. Spaun",
           "score": -6,
-          "thru": 18,
-          "today": -3,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -3906,9 +3814,7 @@
         {
           "name": "Wyndham Clark",
           "score": 5,
-          "thru": 18,
-          "today": 4,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Tyrrell Hatton",
@@ -3917,7 +3823,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -3933,9 +3839,7 @@
         {
           "name": "Chris Gotterup",
           "score": 1,
-          "thru": 18,
-          "today": 3,
-          "status": "LIVE"
+          "status": "CUT"
         },
         {
           "name": "Patrick Reed",
@@ -3944,7 +3848,7 @@
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
