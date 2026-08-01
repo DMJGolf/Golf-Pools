@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T13:51:48.602533+00:00",
+  "last_updated": "2026-08-01T14:51:41.570163+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -44,7 +44,7 @@
         {
           "name": "Harris English",
           "score": -3,
-          "thru": 3,
+          "thru": 7,
           "today": 1,
           "status": "LIVE"
         }
@@ -97,9 +97,9 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": -5,
-          "thru": 0,
-          "today": 0,
+          "score": -6,
+          "thru": 3,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -1602,9 +1602,9 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": -5,
-          "thru": 0,
-          "today": 0,
+          "score": -6,
+          "thru": 3,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -2315,9 +2315,9 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": -5,
-          "thru": 0,
-          "today": 0,
+          "score": -6,
+          "thru": 3,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -2478,9 +2478,9 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": -5,
-          "thru": 0,
-          "today": 0,
+          "score": -6,
+          "thru": 3,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -2784,9 +2784,9 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": -5,
-          "thru": 0,
-          "today": 0,
+          "score": -6,
+          "thru": 3,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -2861,9 +2861,9 @@
         },
         {
           "name": "Nicolai Hojgaard",
-          "score": -5,
-          "thru": 0,
-          "today": 0,
+          "score": -6,
+          "thru": 1,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -3533,9 +3533,9 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": -5,
-          "thru": 0,
-          "today": 0,
+          "score": -6,
+          "thru": 3,
+          "today": -1,
           "status": "LIVE"
         }
       ],
