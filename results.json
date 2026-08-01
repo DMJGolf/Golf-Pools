@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T15:52:46.235232+00:00",
+  "last_updated": "2026-08-01T16:48:37.670326+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -43,9 +43,9 @@
         },
         {
           "name": "Harris English",
-          "score": -1,
-          "thru": 12,
-          "today": 3,
+          "score": -2,
+          "thru": 15,
+          "today": 2,
           "status": "LIVE"
         }
       ],
@@ -71,7 +71,7 @@
         {
           "name": "J.J. Spaun",
           "score": -6,
-          "thru": 0,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         }
@@ -97,9 +97,9 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": -9,
-          "thru": 7,
-          "today": -4,
+          "score": -11,
+          "thru": 12,
+          "today": -6,
           "status": "LIVE"
         }
       ],
@@ -149,9 +149,9 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": -6,
-          "thru": 0,
-          "today": 0,
+          "score": -8,
+          "thru": 5,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -305,9 +305,9 @@
         },
         {
           "name": "Hideki Matsuyama",
-          "score": -6,
-          "thru": 5,
-          "today": -1,
+          "score": -7,
+          "thru": 9,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -407,9 +407,9 @@
         },
         {
           "name": "Corey Conners",
-          "score": -6,
-          "thru": 0,
-          "today": 0,
+          "score": -8,
+          "thru": 3,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -1602,9 +1602,9 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": -9,
-          "thru": 7,
-          "today": -4,
+          "score": -11,
+          "thru": 12,
+          "today": -6,
           "status": "LIVE"
         }
       ],
@@ -2315,9 +2315,9 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": -9,
-          "thru": 7,
-          "today": -4,
+          "score": -11,
+          "thru": 12,
+          "today": -6,
           "status": "LIVE"
         },
         {
@@ -2478,9 +2478,9 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": -9,
-          "thru": 7,
-          "today": -4,
+          "score": -11,
+          "thru": 12,
+          "today": -6,
           "status": "LIVE"
         }
       ],
@@ -2707,9 +2707,9 @@
         },
         {
           "name": "Corey Conners",
-          "score": -6,
-          "thru": 0,
-          "today": 0,
+          "score": -8,
+          "thru": 3,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -2784,9 +2784,9 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": -9,
-          "thru": 7,
-          "today": -4,
+          "score": -11,
+          "thru": 12,
+          "today": -6,
           "status": "LIVE"
         }
       ],
@@ -2861,9 +2861,9 @@
         },
         {
           "name": "Nicolai Hojgaard",
-          "score": -8,
-          "thru": 6,
-          "today": -3,
+          "score": -6,
+          "thru": 10,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -2967,9 +2967,9 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": -6,
-          "thru": 0,
-          "today": 0,
+          "score": -8,
+          "thru": 5,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -3136,9 +3136,9 @@
       "golfers": [
         {
           "name": "Russell Henley",
-          "score": -6,
-          "thru": 0,
-          "today": 0,
+          "score": -8,
+          "thru": 3,
+          "today": -2,
           "status": "LIVE"
         },
         {
@@ -3533,9 +3533,9 @@
         },
         {
           "name": "Si Woo Kim",
-          "score": -9,
-          "thru": 7,
-          "today": -4,
+          "score": -11,
+          "thru": 12,
+          "today": -6,
           "status": "LIVE"
         }
       ],
@@ -3560,9 +3560,9 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": -6,
-          "thru": 0,
-          "today": 0,
+          "score": -8,
+          "thru": 5,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -3762,7 +3762,7 @@
         {
           "name": "J.J. Spaun",
           "score": -6,
-          "thru": 0,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
