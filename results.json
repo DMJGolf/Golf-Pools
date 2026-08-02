@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T15:19:43.730028+00:00",
+  "last_updated": "2026-08-02T16:26:51.544394+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -70,9 +70,9 @@
         },
         {
           "name": "J.J. Spaun",
-          "score": -6,
-          "thru": 0,
-          "today": 0,
+          "score": -4,
+          "thru": 4,
+          "today": 2,
           "status": "LIVE"
         }
       ],
@@ -150,7 +150,7 @@
         {
           "name": "Jordan Spieth",
           "score": -6,
-          "thru": 0,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         }
@@ -305,9 +305,9 @@
         },
         {
           "name": "Hideki Matsuyama",
-          "score": -8,
-          "thru": 2,
-          "today": -1,
+          "score": -10,
+          "thru": 6,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -408,7 +408,7 @@
         {
           "name": "Corey Conners",
           "score": -7,
-          "thru": 1,
+          "thru": 6,
           "today": 0,
           "status": "LIVE"
         }
@@ -2708,7 +2708,7 @@
         {
           "name": "Corey Conners",
           "score": -7,
-          "thru": 1,
+          "thru": 6,
           "today": 0,
           "status": "LIVE"
         }
@@ -2861,9 +2861,9 @@
         },
         {
           "name": "Nicolai Hojgaard",
-          "score": -5,
-          "thru": 0,
-          "today": 0,
+          "score": -4,
+          "thru": 2,
+          "today": 1,
           "status": "LIVE"
         }
       ],
@@ -2968,7 +2968,7 @@
         {
           "name": "Jordan Spieth",
           "score": -6,
-          "thru": 0,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         }
@@ -3136,9 +3136,9 @@
       "golfers": [
         {
           "name": "Russell Henley",
-          "score": -9,
-          "thru": 0,
-          "today": 0,
+          "score": -10,
+          "thru": 3,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -3561,7 +3561,7 @@
         {
           "name": "Jordan Spieth",
           "score": -6,
-          "thru": 0,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         }
@@ -3761,9 +3761,9 @@
         },
         {
           "name": "J.J. Spaun",
-          "score": -6,
-          "thru": 0,
-          "today": 0,
+          "score": -4,
+          "thru": 4,
+          "today": 2,
           "status": "LIVE"
         },
         {
