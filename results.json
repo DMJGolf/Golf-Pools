@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T15:37:15.484311+00:00",
+  "last_updated": "2026-08-07T16:32:07.142075+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -145,9 +145,9 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": -4,
-          "thru": 14,
-          "today": -2,
+          "score": -3,
+          "thru": 17,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -300,7 +300,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": -6,
-          "thru": 14,
+          "thru": 18,
           "today": -1,
           "status": "LIVE"
         }
@@ -1442,9 +1442,9 @@
         },
         {
           "name": "Alex Noren",
-          "score": -8,
-          "thru": 14,
-          "today": -4,
+          "score": -9,
+          "thru": 17,
+          "today": -5,
           "status": "LIVE"
         }
       ],
@@ -1469,9 +1469,9 @@
         },
         {
           "name": "Alex Noren",
-          "score": -8,
-          "thru": 14,
-          "today": -4,
+          "score": -9,
+          "thru": 17,
+          "today": -5,
           "status": "LIVE"
         }
       ],
@@ -1671,9 +1671,9 @@
         },
         {
           "name": "Sepp Straka",
-          "score": 1,
-          "thru": 13,
-          "today": -2,
+          "score": 2,
+          "thru": 16,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -2179,9 +2179,9 @@
         },
         {
           "name": "Sepp Straka",
-          "score": 1,
-          "thru": 13,
-          "today": -2,
+          "score": 2,
+          "thru": 16,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -2935,9 +2935,9 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": -4,
-          "thru": 14,
-          "today": -2,
+          "score": -3,
+          "thru": 17,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -3520,9 +3520,9 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": -4,
-          "thru": 14,
-          "today": -2,
+          "score": -3,
+          "thru": 17,
+          "today": -1,
           "status": "LIVE"
         }
       ],
