@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T14:44:41.091268+00:00",
+  "last_updated": "2026-08-07T15:37:15.484311+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -145,9 +145,9 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": -3,
-          "thru": 10,
-          "today": -1,
+          "score": -4,
+          "thru": 14,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -299,9 +299,9 @@
         },
         {
           "name": "Hideki Matsuyama",
-          "score": -5,
-          "thru": 11,
-          "today": 0,
+          "score": -6,
+          "thru": 14,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -1443,7 +1443,7 @@
         {
           "name": "Alex Noren",
           "score": -8,
-          "thru": 11,
+          "thru": 14,
           "today": -4,
           "status": "LIVE"
         }
@@ -1470,7 +1470,7 @@
         {
           "name": "Alex Noren",
           "score": -8,
-          "thru": 11,
+          "thru": 14,
           "today": -4,
           "status": "LIVE"
         }
@@ -1672,7 +1672,7 @@
         {
           "name": "Sepp Straka",
           "score": 1,
-          "thru": 10,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         }
@@ -2180,7 +2180,7 @@
         {
           "name": "Sepp Straka",
           "score": 1,
-          "thru": 10,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         }
@@ -2935,9 +2935,9 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": -3,
-          "thru": 10,
-          "today": -1,
+          "score": -4,
+          "thru": 14,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -3520,9 +3520,9 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": -3,
-          "thru": 10,
-          "today": -1,
+          "score": -4,
+          "thru": 14,
+          "today": -2,
           "status": "LIVE"
         }
       ],
