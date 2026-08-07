@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T13:47:36.743155+00:00",
+  "last_updated": "2026-08-07T14:44:41.091268+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -146,7 +146,7 @@
         {
           "name": "Jordan Spieth",
           "score": -3,
-          "thru": 7,
+          "thru": 10,
           "today": -1,
           "status": "LIVE"
         }
@@ -299,9 +299,9 @@
         },
         {
           "name": "Hideki Matsuyama",
-          "score": -8,
-          "thru": 8,
-          "today": -3,
+          "score": -5,
+          "thru": 11,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -1442,9 +1442,9 @@
         },
         {
           "name": "Alex Noren",
-          "score": -7,
-          "thru": 7,
-          "today": -3,
+          "score": -8,
+          "thru": 11,
+          "today": -4,
           "status": "LIVE"
         }
       ],
@@ -1469,9 +1469,9 @@
         },
         {
           "name": "Alex Noren",
-          "score": -7,
-          "thru": 7,
-          "today": -3,
+          "score": -8,
+          "thru": 11,
+          "today": -4,
           "status": "LIVE"
         }
       ],
@@ -1671,9 +1671,9 @@
         },
         {
           "name": "Sepp Straka",
-          "score": 0,
-          "thru": 6,
-          "today": -3,
+          "score": 1,
+          "thru": 10,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -2179,9 +2179,9 @@
         },
         {
           "name": "Sepp Straka",
-          "score": 0,
-          "thru": 6,
-          "today": -3,
+          "score": 1,
+          "thru": 10,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -2936,7 +2936,7 @@
         {
           "name": "Jordan Spieth",
           "score": -3,
-          "thru": 7,
+          "thru": 10,
           "today": -1,
           "status": "LIVE"
         }
@@ -3521,7 +3521,7 @@
         {
           "name": "Jordan Spieth",
           "score": -3,
-          "thru": 7,
+          "thru": 10,
           "today": -1,
           "status": "LIVE"
         }
