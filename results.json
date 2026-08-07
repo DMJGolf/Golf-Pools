@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T18:28:17.607879+00:00",
+  "last_updated": "2026-08-07T19:28:57.709829+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -44,7 +44,7 @@
         {
           "name": "Harris English",
           "score": 2,
-          "thru": 6,
+          "thru": 10,
           "today": -2,
           "status": "LIVE"
         }
@@ -287,9 +287,9 @@
       "golfers": [
         {
           "name": "Cameron Young",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 0,
+          "thru": 8,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -326,9 +326,9 @@
         },
         {
           "name": "Aaron Rai",
-          "score": -2,
-          "thru": 3,
-          "today": -1,
+          "score": -3,
+          "thru": 7,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -428,9 +428,9 @@
         },
         {
           "name": "Tom Kim",
-          "score": -6,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 7,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -555,9 +555,9 @@
         },
         {
           "name": "Tom Kim",
-          "score": -6,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 7,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -632,9 +632,9 @@
         },
         {
           "name": "Tom Kim",
-          "score": -6,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 7,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -709,9 +709,9 @@
         },
         {
           "name": "Aaron Rai",
-          "score": -2,
-          "thru": 3,
-          "today": -1,
+          "score": -3,
+          "thru": 7,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -736,9 +736,9 @@
         },
         {
           "name": "Alex Fitzpatrick",
-          "score": -5,
-          "thru": 4,
-          "today": -1,
+          "score": -7,
+          "thru": 8,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -788,9 +788,9 @@
         },
         {
           "name": "Tom Kim",
-          "score": -6,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 7,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -1290,9 +1290,9 @@
         },
         {
           "name": "Tom Kim",
-          "score": -6,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 7,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -1838,9 +1838,9 @@
       "golfers": [
         {
           "name": "Cameron Young",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 0,
+          "thru": 8,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -1950,9 +1950,9 @@
         },
         {
           "name": "Tom Kim",
-          "score": -6,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 7,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -2042,9 +2042,9 @@
       "golfers": [
         {
           "name": "Cameron Young",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 0,
+          "thru": 8,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -2371,9 +2371,9 @@
       "golfers": [
         {
           "name": "Cameron Young",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 0,
+          "thru": 8,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -2908,9 +2908,9 @@
         },
         {
           "name": "Tom Kim",
-          "score": -6,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 7,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -3112,9 +3112,9 @@
         },
         {
           "name": "Aaron Rai",
-          "score": -2,
-          "thru": 3,
-          "today": -1,
+          "score": -3,
+          "thru": 7,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -3139,9 +3139,9 @@
         },
         {
           "name": "Tom Kim",
-          "score": -6,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 7,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -3191,9 +3191,9 @@
         },
         {
           "name": "Tom Kim",
-          "score": -6,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 7,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -3283,9 +3283,9 @@
       "golfers": [
         {
           "name": "Cameron Young",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 0,
+          "thru": 8,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -3572,9 +3572,9 @@
         },
         {
           "name": "Tom Kim",
-          "score": -6,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 7,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -3599,9 +3599,9 @@
         },
         {
           "name": "Justin Thomas",
-          "score": -5,
-          "thru": 4,
-          "today": -1,
+          "score": -7,
+          "thru": 9,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -3651,9 +3651,9 @@
         },
         {
           "name": "Aaron Rai",
-          "score": -2,
-          "thru": 3,
-          "today": -1,
+          "score": -3,
+          "thru": 7,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -3693,9 +3693,9 @@
       "golfers": [
         {
           "name": "Cameron Young",
-          "score": 1,
-          "thru": 4,
-          "today": 0,
+          "score": 0,
+          "thru": 8,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -3755,9 +3755,9 @@
         },
         {
           "name": "Tom Kim",
-          "score": -6,
-          "thru": 3,
-          "today": -1,
+          "score": -7,
+          "thru": 7,
+          "today": -2,
           "status": "LIVE"
         }
       ],
