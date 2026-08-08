@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T10:57:22.835808+00:00",
+  "last_updated": "2026-08-08T11:24:11.053863+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -44,13 +44,11 @@
         {
           "name": "Harris English",
           "score": 0,
-          "thru": 18,
-          "today": -4,
-          "status": "LIVE"
+          "status": "CUT"
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -146,8 +144,8 @@
         {
           "name": "Jordan Spieth",
           "score": -3,
-          "thru": 18,
-          "today": -1,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -288,8 +286,8 @@
         {
           "name": "Cameron Young",
           "score": -3,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -300,8 +298,8 @@
         {
           "name": "Hideki Matsuyama",
           "score": -6,
-          "thru": 18,
-          "today": -1,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -327,8 +325,8 @@
         {
           "name": "Aaron Rai",
           "score": -4,
-          "thru": 18,
-          "today": -3,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -429,8 +427,8 @@
         {
           "name": "Tom Kim",
           "score": -8,
-          "thru": 18,
-          "today": -3,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -556,8 +554,8 @@
         {
           "name": "Tom Kim",
           "score": -8,
-          "thru": 18,
-          "today": -3,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -633,8 +631,8 @@
         {
           "name": "Tom Kim",
           "score": -8,
-          "thru": 18,
-          "today": -3,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -710,8 +708,8 @@
         {
           "name": "Aaron Rai",
           "score": -4,
-          "thru": 18,
-          "today": -3,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -737,8 +735,8 @@
         {
           "name": "Alex Fitzpatrick",
           "score": -6,
-          "thru": 18,
-          "today": -2,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -789,8 +787,8 @@
         {
           "name": "Tom Kim",
           "score": -8,
-          "thru": 18,
-          "today": -3,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -1291,8 +1289,8 @@
         {
           "name": "Tom Kim",
           "score": -8,
-          "thru": 18,
-          "today": -3,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -1443,8 +1441,8 @@
         {
           "name": "Alex Noren",
           "score": -9,
-          "thru": 18,
-          "today": -5,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -1470,8 +1468,8 @@
         {
           "name": "Alex Noren",
           "score": -9,
-          "thru": 18,
-          "today": -5,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -1672,13 +1670,11 @@
         {
           "name": "Sepp Straka",
           "score": 3,
-          "thru": 18,
-          "today": 0,
-          "status": "LIVE"
+          "status": "CUT"
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -1839,8 +1835,8 @@
         {
           "name": "Cameron Young",
           "score": -3,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -1951,8 +1947,8 @@
         {
           "name": "Tom Kim",
           "score": -8,
-          "thru": 18,
-          "today": -3,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -2043,8 +2039,8 @@
         {
           "name": "Cameron Young",
           "score": -3,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -2180,13 +2176,11 @@
         {
           "name": "Sepp Straka",
           "score": 3,
-          "thru": 18,
-          "today": 0,
-          "status": "LIVE"
+          "status": "CUT"
         }
       ],
       "total_score": null,
-      "status": "INCOMPLETE_DATA",
+      "status": "CUT",
       "rank": null
     },
     {
@@ -2372,8 +2366,8 @@
         {
           "name": "Cameron Young",
           "score": -3,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -2909,8 +2903,8 @@
         {
           "name": "Tom Kim",
           "score": -8,
-          "thru": 18,
-          "today": -3,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -2936,8 +2930,8 @@
         {
           "name": "Jordan Spieth",
           "score": -3,
-          "thru": 18,
-          "today": -1,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -3113,8 +3107,8 @@
         {
           "name": "Aaron Rai",
           "score": -4,
-          "thru": 18,
-          "today": -3,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -3140,8 +3134,8 @@
         {
           "name": "Tom Kim",
           "score": -8,
-          "thru": 18,
-          "today": -3,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -3192,8 +3186,8 @@
         {
           "name": "Tom Kim",
           "score": -8,
-          "thru": 18,
-          "today": -3,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -3284,8 +3278,8 @@
         {
           "name": "Cameron Young",
           "score": -3,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -3521,8 +3515,8 @@
         {
           "name": "Jordan Spieth",
           "score": -3,
-          "thru": 18,
-          "today": -1,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -3573,8 +3567,8 @@
         {
           "name": "Tom Kim",
           "score": -8,
-          "thru": 18,
-          "today": -3,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -3600,7 +3594,7 @@
         {
           "name": "Justin Thomas",
           "score": -4,
-          "thru": 18,
+          "thru": 0,
           "today": 0,
           "status": "LIVE"
         }
@@ -3652,8 +3646,8 @@
         {
           "name": "Aaron Rai",
           "score": -4,
-          "thru": 18,
-          "today": -3,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -3694,8 +3688,8 @@
         {
           "name": "Cameron Young",
           "score": -3,
-          "thru": 18,
-          "today": -4,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -3756,8 +3750,8 @@
         {
           "name": "Tom Kim",
           "score": -8,
-          "thru": 18,
-          "today": -3,
+          "thru": 0,
+          "today": 0,
           "status": "LIVE"
         }
       ],
