@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T15:53:46.210958+00:00",
+  "last_updated": "2026-08-08T16:20:45.266217+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -298,7 +298,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": -6,
-          "thru": 1,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         }
@@ -325,7 +325,7 @@
         {
           "name": "Aaron Rai",
           "score": -4,
-          "thru": 13,
+          "thru": 14,
           "today": 0,
           "status": "LIVE"
         }
@@ -708,7 +708,7 @@
         {
           "name": "Aaron Rai",
           "score": -4,
-          "thru": 13,
+          "thru": 14,
           "today": 0,
           "status": "LIVE"
         }
@@ -734,9 +734,9 @@
         },
         {
           "name": "Alex Fitzpatrick",
-          "score": -5,
-          "thru": 4,
-          "today": 1,
+          "score": -4,
+          "thru": 7,
+          "today": 2,
           "status": "LIVE"
         }
       ],
@@ -3107,7 +3107,7 @@
         {
           "name": "Aaron Rai",
           "score": -4,
-          "thru": 13,
+          "thru": 14,
           "today": 0,
           "status": "LIVE"
         }
@@ -3593,9 +3593,9 @@
         },
         {
           "name": "Justin Thomas",
-          "score": -6,
-          "thru": 12,
-          "today": -2,
+          "score": -7,
+          "thru": 13,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -3646,7 +3646,7 @@
         {
           "name": "Aaron Rai",
           "score": -4,
-          "thru": 13,
+          "thru": 14,
           "today": 0,
           "status": "LIVE"
         }
