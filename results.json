@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T14:04:12.036414+00:00",
+  "last_updated": "2026-08-08T14:47:29.412285+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -144,7 +144,7 @@
         {
           "name": "Jordan Spieth",
           "score": -6,
-          "thru": 9,
+          "thru": 13,
           "today": -3,
           "status": "LIVE"
         }
@@ -285,9 +285,9 @@
       "golfers": [
         {
           "name": "Cameron Young",
-          "score": -3,
-          "thru": 13,
-          "today": 0,
+          "score": -2,
+          "thru": 16,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -324,9 +324,9 @@
         },
         {
           "name": "Aaron Rai",
-          "score": -3,
-          "thru": 4,
-          "today": 1,
+          "score": -4,
+          "thru": 8,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -707,9 +707,9 @@
         },
         {
           "name": "Aaron Rai",
-          "score": -3,
-          "thru": 4,
-          "today": 1,
+          "score": -4,
+          "thru": 8,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -1834,9 +1834,9 @@
       "golfers": [
         {
           "name": "Cameron Young",
-          "score": -3,
-          "thru": 13,
-          "today": 0,
+          "score": -2,
+          "thru": 16,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -2038,9 +2038,9 @@
       "golfers": [
         {
           "name": "Cameron Young",
-          "score": -3,
-          "thru": 13,
-          "today": 0,
+          "score": -2,
+          "thru": 16,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -2365,9 +2365,9 @@
       "golfers": [
         {
           "name": "Cameron Young",
-          "score": -3,
-          "thru": 13,
-          "today": 0,
+          "score": -2,
+          "thru": 16,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -2930,7 +2930,7 @@
         {
           "name": "Jordan Spieth",
           "score": -6,
-          "thru": 9,
+          "thru": 13,
           "today": -3,
           "status": "LIVE"
         }
@@ -3106,9 +3106,9 @@
         },
         {
           "name": "Aaron Rai",
-          "score": -3,
-          "thru": 4,
-          "today": 1,
+          "score": -4,
+          "thru": 8,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -3277,9 +3277,9 @@
       "golfers": [
         {
           "name": "Cameron Young",
-          "score": -3,
-          "thru": 13,
-          "today": 0,
+          "score": -2,
+          "thru": 16,
+          "today": 1,
           "status": "LIVE"
         },
         {
@@ -3515,7 +3515,7 @@
         {
           "name": "Jordan Spieth",
           "score": -6,
-          "thru": 9,
+          "thru": 13,
           "today": -3,
           "status": "LIVE"
         }
@@ -3593,9 +3593,9 @@
         },
         {
           "name": "Justin Thomas",
-          "score": -6,
-          "thru": 3,
-          "today": -2,
+          "score": -7,
+          "thru": 7,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -3645,9 +3645,9 @@
         },
         {
           "name": "Aaron Rai",
-          "score": -3,
-          "thru": 4,
-          "today": 1,
+          "score": -4,
+          "thru": 8,
+          "today": 0,
           "status": "LIVE"
         }
       ],
@@ -3687,9 +3687,9 @@
       "golfers": [
         {
           "name": "Cameron Young",
-          "score": -3,
-          "thru": 13,
-          "today": 0,
+          "score": -2,
+          "thru": 16,
+          "today": 1,
           "status": "LIVE"
         },
         {
