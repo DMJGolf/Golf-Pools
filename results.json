@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T11:51:21.101773+00:00",
+  "last_updated": "2026-08-08T12:26:12.205804+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -143,9 +143,9 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": -3,
-          "thru": 0,
-          "today": 0,
+          "score": -4,
+          "thru": 2,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -286,7 +286,7 @@
         {
           "name": "Cameron Young",
           "score": -3,
-          "thru": 2,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         },
@@ -1835,7 +1835,7 @@
         {
           "name": "Cameron Young",
           "score": -3,
-          "thru": 2,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         },
@@ -2039,7 +2039,7 @@
         {
           "name": "Cameron Young",
           "score": -3,
-          "thru": 2,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         },
@@ -2366,7 +2366,7 @@
         {
           "name": "Cameron Young",
           "score": -3,
-          "thru": 2,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         },
@@ -2929,9 +2929,9 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": -3,
-          "thru": 0,
-          "today": 0,
+          "score": -4,
+          "thru": 2,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -3278,7 +3278,7 @@
         {
           "name": "Cameron Young",
           "score": -3,
-          "thru": 2,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         },
@@ -3514,9 +3514,9 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": -3,
-          "thru": 0,
-          "today": 0,
+          "score": -4,
+          "thru": 2,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -3688,7 +3688,7 @@
         {
           "name": "Cameron Young",
           "score": -3,
-          "thru": 2,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         },
