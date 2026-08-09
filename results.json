@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T16:04:30.023969+00:00",
+  "last_updated": "2026-08-09T16:51:06.314721+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -144,7 +144,7 @@
         {
           "name": "Jordan Spieth",
           "score": -8,
-          "thru": 0,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         }
@@ -325,7 +325,7 @@
         {
           "name": "Aaron Rai",
           "score": -9,
-          "thru": 12,
+          "thru": 16,
           "today": -4,
           "status": "LIVE"
         }
@@ -708,7 +708,7 @@
         {
           "name": "Aaron Rai",
           "score": -9,
-          "thru": 12,
+          "thru": 16,
           "today": -4,
           "status": "LIVE"
         }
@@ -2930,7 +2930,7 @@
         {
           "name": "Jordan Spieth",
           "score": -8,
-          "thru": 0,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         }
@@ -3107,7 +3107,7 @@
         {
           "name": "Aaron Rai",
           "score": -9,
-          "thru": 12,
+          "thru": 16,
           "today": -4,
           "status": "LIVE"
         }
@@ -3515,7 +3515,7 @@
         {
           "name": "Jordan Spieth",
           "score": -8,
-          "thru": 0,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         }
@@ -3594,7 +3594,7 @@
         {
           "name": "Justin Thomas",
           "score": -8,
-          "thru": 0,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         }
@@ -3646,7 +3646,7 @@
         {
           "name": "Aaron Rai",
           "score": -9,
-          "thru": 12,
+          "thru": 16,
           "today": -4,
           "status": "LIVE"
         }
