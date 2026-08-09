@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T15:04:30.379938+00:00",
+  "last_updated": "2026-08-09T15:44:06.331693+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -324,9 +324,9 @@
         },
         {
           "name": "Aaron Rai",
-          "score": -8,
-          "thru": 7,
-          "today": -3,
+          "score": -9,
+          "thru": 10,
+          "today": -4,
           "status": "LIVE"
         }
       ],
@@ -707,9 +707,9 @@
         },
         {
           "name": "Aaron Rai",
-          "score": -8,
-          "thru": 7,
-          "today": -3,
+          "score": -9,
+          "thru": 10,
+          "today": -4,
           "status": "LIVE"
         }
       ],
@@ -734,9 +734,9 @@
         },
         {
           "name": "Alex Fitzpatrick",
-          "score": -3,
-          "thru": 14,
-          "today": 0,
+          "score": -4,
+          "thru": 17,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -3106,9 +3106,9 @@
         },
         {
           "name": "Aaron Rai",
-          "score": -8,
-          "thru": 7,
-          "today": -3,
+          "score": -9,
+          "thru": 10,
+          "today": -4,
           "status": "LIVE"
         }
       ],
@@ -3645,9 +3645,9 @@
         },
         {
           "name": "Aaron Rai",
-          "score": -8,
-          "thru": 7,
-          "today": -3,
+          "score": -9,
+          "thru": 10,
+          "today": -4,
           "status": "LIVE"
         }
       ],
