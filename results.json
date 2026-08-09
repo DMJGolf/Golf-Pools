@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T17:21:37.268797+00:00",
+  "last_updated": "2026-08-09T17:55:16.490756+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -143,9 +143,9 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": -10,
-          "thru": 5,
-          "today": -2,
+          "score": -11,
+          "thru": 8,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -298,7 +298,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": -11,
-          "thru": 1,
+          "thru": 3,
           "today": -1,
           "status": "LIVE"
         }
@@ -1441,7 +1441,7 @@
         {
           "name": "Alex Noren",
           "score": -14,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -1468,7 +1468,7 @@
         {
           "name": "Alex Noren",
           "score": -14,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -2929,9 +2929,9 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": -10,
-          "thru": 5,
-          "today": -2,
+          "score": -11,
+          "thru": 8,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -3514,9 +3514,9 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": -10,
-          "thru": 5,
-          "today": -2,
+          "score": -11,
+          "thru": 8,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -3593,9 +3593,9 @@
         },
         {
           "name": "Justin Thomas",
-          "score": -10,
-          "thru": 5,
-          "today": -2,
+          "score": -11,
+          "thru": 8,
+          "today": -3,
           "status": "LIVE"
         }
       ],
