@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T16:51:06.314721+00:00",
+  "last_updated": "2026-08-09T17:21:37.268797+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -143,9 +143,9 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": -8,
-          "thru": 3,
-          "today": 0,
+          "score": -10,
+          "thru": 5,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -297,9 +297,9 @@
         },
         {
           "name": "Hideki Matsuyama",
-          "score": -10,
-          "thru": 0,
-          "today": 0,
+          "score": -11,
+          "thru": 1,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -324,9 +324,9 @@
         },
         {
           "name": "Aaron Rai",
-          "score": -9,
-          "thru": 16,
-          "today": -4,
+          "score": -8,
+          "thru": 18,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -707,9 +707,9 @@
         },
         {
           "name": "Aaron Rai",
-          "score": -9,
-          "thru": 16,
-          "today": -4,
+          "score": -8,
+          "thru": 18,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -2929,9 +2929,9 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": -8,
-          "thru": 3,
-          "today": 0,
+          "score": -10,
+          "thru": 5,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -3106,9 +3106,9 @@
         },
         {
           "name": "Aaron Rai",
-          "score": -9,
-          "thru": 16,
-          "today": -4,
+          "score": -8,
+          "thru": 18,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -3514,9 +3514,9 @@
         },
         {
           "name": "Jordan Spieth",
-          "score": -8,
-          "thru": 3,
-          "today": 0,
+          "score": -10,
+          "thru": 5,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -3593,9 +3593,9 @@
         },
         {
           "name": "Justin Thomas",
-          "score": -8,
-          "thru": 3,
-          "today": 0,
+          "score": -10,
+          "thru": 5,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -3645,9 +3645,9 @@
         },
         {
           "name": "Aaron Rai",
-          "score": -9,
-          "thru": 16,
-          "today": -4,
+          "score": -8,
+          "thru": 18,
+          "today": -3,
           "status": "LIVE"
         }
       ],
