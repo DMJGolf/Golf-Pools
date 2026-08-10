@@ -201,6 +201,29 @@
     font-size: 12px; color: var(--cream); line-height: 1.6; opacity: 0.9;
   }
 
+  .tb-table { width: 100%; border-collapse: collapse; margin-top: 4px; }
+  .tb-table th {
+    font-size: 11px; text-transform: uppercase; letter-spacing: 1.5px;
+    color: var(--green-dark); font-weight: bold; font-family: Georgia, serif;
+    text-align: left; padding: 6px 10px; border-bottom: 2px solid var(--gold);
+  }
+  .tb-table td {
+    padding: 8px 10px; vertical-align: top; font-size: 14px;
+    border-bottom: 1px dashed #e0d5c0;
+  }
+  .tb-table tr:last-child td { border-bottom: none; }
+  .tb-table td.tb-tourney-name { padding-top: 14px; font-family: Georgia, serif; color: var(--text-mid); white-space: nowrap; }
+  .tb-table input[type=number] {
+    width: 140px; border: 1px solid #c0b090; border-radius: 2px; padding: 9px 12px;
+    font-size: 15px; font-family: Georgia, serif; background: var(--white);
+    color: var(--text-dark); outline: none; transition: border-color 0.2s;
+  }
+  .tb-table input[type=number]:focus { border-color: var(--gold); box-shadow: 0 0 0 3px rgba(201,168,76,0.15); }
+  .tb-positive-warning {
+    margin-top: 8px; padding: 8px 12px; background: #fff3cd; border: 1px solid #c9a84c;
+    border-radius: 3px; font-size: 12px; color: #7a5800; line-height: 1.5; max-width: 320px;
+  }
+
   .submit-section { text-align: center; padding: 8px 0 0; }
   .btn-submit {
     background: linear-gradient(135deg, var(--green-dark), var(--green-mid));
@@ -248,87 +271,79 @@
 
 <script>
 const TOURNAMENT_CONFIG = {
-  name: "2026 The Open Championship",
-  venue: "Royal Birkdale",
-  par: 70,
+  name: "2026 FedEx Cup Playoffs",
+  subtitle: "FedEx St. Jude Championship \u00b7 BMW Championship \u00b7 Tour Championship",
   golfers: [
     { name: "Scottie Scheffler", tier: 1 },
-    { name: "Rory McIlroy", tier: 1 },
-    { name: "Cameron Young", tier: 1 },
     { name: "Matt Fitzpatrick", tier: 1 },
+    { name: "Cameron Young", tier: 1 },
+    { name: "Rory McIlroy", tier: 1 },
     { name: "Russell Henley", tier: 1 },
-    { name: "Jon Rahm", tier: 1 },
-    { name: "Bryson DeChambeau", tier: 1 },
-    { name: "Collin Morikawa", tier: 2 },
-    { name: "Chris Gotterup", tier: 2 },
     { name: "Wyndham Clark", tier: 2 },
+    { name: "Chris Gotterup", tier: 2 },
+    { name: "Collin Morikawa", tier: 2 },
     { name: "Tommy Fleetwood", tier: 2 },
-    { name: "Justin Rose", tier: 2 },
-    { name: "J.J. Spaun", tier: 3 },
-    { name: "Viktor Hovland", tier: 3 },
-    { name: "Xander Schauffele", tier: 3 },
-    { name: "Ben Griffin", tier: 3 },
-    { name: "Aaron Rai", tier: 3 },
-    { name: "Sam Burns", tier: 3 },
-    { name: "Justin Thomas", tier: 3 },
-    { name: "Ludvig Aberg", tier: 3 },
-    { name: "Robert MacIntyre", tier: 3 },
-    { name: "Tyrrell Hatton", tier: 3 },
+    { name: "Xander Schauffele", tier: 2 },
     { name: "Si Woo Kim", tier: 3 },
-    { name: "Sepp Straka", tier: 3 },
-    { name: "Alex Noren", tier: 3 },
-    { name: "Kristoffer Reitan", tier: 3 },
-    { name: "Akshay Bhatia", tier: 3 },
+    { name: "Sam Burns", tier: 3 },
+    { name: "Ludvig Aberg", tier: 3 },
     { name: "Jacob Bridgeman", tier: 3 },
+    { name: "Akshay Bhatia", tier: 3 },
     { name: "Ryan Gerard", tier: 3 },
-    { name: "Harris English", tier: 3 },
-    { name: "Hideki Matsuyama", tier: 3 },
-    { name: "Patrick Reed", tier: 3 },
-    { name: "J.T. Poston", tier: 3 },
-    { name: "Kurt Kitayama", tier: 3 },
-    { name: "Nicolai Hojgaard", tier: 3 },
-    { name: "Patrick Cantlay", tier: 3 },
-    { name: "Maverick McNealy", tier: 3 },
-    { name: "Bud Cauley", tier: 3 },
     { name: "Min Woo Lee", tier: 3 },
-    { name: "Keegan Bradley", tier: 3 },
-    { name: "Rickie Fowler", tier: 3 },
-    { name: "Gary Woodland", tier: 3 },
-    { name: "Alex Smalley", tier: 3 },
-    { name: "Jake Knapp", tier: 3 },
-    { name: "Shane Lowry", tier: 3 },
-    { name: "Sam Stevens", tier: 3 },
-    { name: "Joaquin Niemann", tier: 3 },
-    { name: "Marco Penge", tier: 3 },
-    { name: "Daniel Berger", tier: 3 },
-    { name: "Jason Day", tier: 3 },
-    { name: "Michael Kim", tier: 3 },
-    { name: "Corey Conners", tier: 3 },
-    { name: "Nico Echavarria", tier: 3 },
-    { name: "Jordan Spieth", tier: 3 },
-    { name: "Adam Scott", tier: 3 },
-    { name: "Ryan Fox", tier: 3 },
-    { name: "Matt McCarty", tier: 3 },
-    { name: "Pierceson Coody", tier: 3 },
-    { name: "Eugenio Chacarra", tier: 3 },
-    { name: "Ryo Hisatsune", tier: 3 },
-    { name: "Michael Brennan", tier: 3 },
+    { name: "Kristoffer Reitan", tier: 3 },
     { name: "Alex Fitzpatrick", tier: 3 },
-    { name: "Brian Harman", tier: 3 },
-    { name: "David Puig", tier: 3 },
-    { name: "Andrew Novak", tier: 3 },
+    { name: "Hideki Matsuyama", tier: 3 },
+    { name: "J.J. Spaun", tier: 3 },
+    { name: "Ryan Fox", tier: 3 },
+    { name: "Viktor Hovland", tier: 3 },
+    { name: "Justin Rose", tier: 3 },
+    { name: "Alex Smalley", tier: 3 },
     { name: "Tom Kim", tier: 3 },
-    { name: "Eric Cole", tier: 3 },
-    { name: "Keith Mitchell", tier: 3 },
-    { name: "Matt Wallace", tier: 3 },
-    { name: "Nick Taylor", tier: 3 },
-    { name: "Sami Valimaki", tier: 3 },
-    { name: "Harry Hall", tier: 3 },
-    { name: "Max Homa", tier: 3 },
-    { name: "Thomas Detry", tier: 3 },
-    { name: "Max Greyserman", tier: 3 },
+    { name: "Gary Woodland", tier: 3 },
+    { name: "Rickie Fowler", tier: 3 },
+    { name: "Adam Scott", tier: 3 },
+    { name: "J.T. Poston", tier: 3 },
+    { name: "Robert MacIntyre", tier: 3 },
+    { name: "Nicolai Hojgaard", tier: 3 },
+    { name: "Kurt Kitayama", tier: 3 },
+    { name: "Bud Cauley", tier: 3 },
+    { name: "Aaron Rai", tier: 3 },
+    { name: "Ben Griffin", tier: 3 },
+    { name: "Sepp Straka", tier: 3 },
+    { name: "Michael Thorbjornsen", tier: 3 },
+    { name: "Justin Thomas", tier: 3 },
+    { name: "Jake Knapp", tier: 3 },
+    { name: "Nico Echavarria", tier: 3 },
+    { name: "Patrick Cantlay", tier: 3 },
+    { name: "Ryo Hisatsune", tier: 3 },
     { name: "Sahith Theegala", tier: 3 },
-    { name: "Brooks Koepka", tier: 3 }
+    { name: "Eric Cole", tier: 3 },
+    { name: "Alex Noren", tier: 3 },
+    { name: "Michael Brennan", tier: 3 },
+    { name: "Matt McCarty", tier: 3 },
+    { name: "Keith Mitchell", tier: 3 },
+    { name: "Maverick McNealy", tier: 3 },
+    { name: "Harris English", tier: 3 },
+    { name: "Max Homa", tier: 3 },
+    { name: "Sungjae Im", tier: 3 },
+    { name: "Jordan Spieth", tier: 3 },
+    { name: "Sam Stevens", tier: 3 },
+    { name: "Pierceson Coody", tier: 3 },
+    { name: "Sudarshan Yellamaraju", tier: 3 },
+    { name: "Harry Hall", tier: 3 },
+    { name: "Corey Conners", tier: 3 },
+    { name: "Daniel Berger", tier: 3 },
+    { name: "Michael Kim", tier: 3 },
+    { name: "Shane Lowry", tier: 3 },
+    { name: "Nick Taylor", tier: 3 },
+    { name: "Jordan Smith", tier: 3 },
+    { name: "Brian Harman", tier: 3 },
+    { name: "Patrick Rodgers", tier: 3 },
+    { name: "Aldrich Potgieter", tier: 3 },
+    { name: "Ricky Castillo", tier: 3 },
+    { name: "Matti Schmid", tier: 3 },
+    { name: "Jackson Koivun", tier: 3 }
   ]
 };
 
@@ -351,7 +366,7 @@ const TOURNAMENT_CONFIG = {
       <div class="rules-grid">
         <div class="rule-card t1">
           <div class="rule-tier">Tier 1</div>
-          <div class="rule-desc">Top 5 OWGR + Top 2 LIV. Max ONE per pairing. May differ across pairings.</div>
+          <div class="rule-desc">Top 5 OWGR in the field. Max ONE per pairing. May differ across pairings.</div>
         </div>
         <div class="rule-card t2">
           <div class="rule-tier">Tier 2</div>
@@ -363,7 +378,7 @@ const TOURNAMENT_CONFIG = {
         </div>
       </div>
       <div class="tb-rule">
-        <strong>Tiebreaker:</strong> You will be asked what you think the tournament winner's final score will be (relative to par). This prediction applies to all your pairings. In the event two pairings tie, the closest prediction wins.
+        <strong>Tiebreaker:</strong> You will submit a separate prediction of the winner's final score (relative to par) for each of the three tournaments — St. Jude's, BMW, and Tour Championship. Each prediction applies to all your pairings for that tournament. In the event two pairings tie, the closest prediction for that tournament wins.
       </div>
     </div>
   </div>
@@ -400,14 +415,46 @@ const TOURNAMENT_CONFIG = {
         </div>
       </div>
       <div class="field-row">
-        <div class="field" style="max-width: 320px;">
-          <label for="tiebreaker">What do you think the tournament winner's score will be?</label>
-          <input type="number" id="tiebreaker" placeholder="e.g. -10, -15, -20" min="-40" max="40" oninput="onTiebreakerInput()">
-          <span class="hint">Enter a score relative to par — for example, -15 or -10</span>
-          <span class="field-error" id="err-tb">Required — enter a score relative to par (e.g. -15)</span>
-          <div id="tb-positive-warning" style="display:none; margin-top:8px; padding:10px 14px; background:#fff3cd; border:1px solid #c9a84c; border-radius:3px; font-size:13px; color:#7a5800; line-height:1.5;">
-            ⚠️ Did you mean <strong id="tb-suggested"></strong>? Tournament winners finish <em>under</em> par. If you intended a positive score, you can continue — otherwise update your entry.
-          </div>
+        <div class="field" style="max-width: 480px;">
+          <label>Tiebreaker Predictions — One Per Tournament</label>
+          <span class="hint">Winner's final score, relative to par, for each tournament — for example, -15 or -10</span>
+          <table class="tb-table">
+            <thead>
+              <tr><th>Tournament</th><th>Tiebreaker</th></tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="tb-tourney-name">St. Jude's</td>
+                <td>
+                  <input type="number" id="tiebreaker-stjudes" placeholder="e.g. -15" min="-40" max="40" oninput="onTiebreakerInput('stjudes')">
+                  <span class="field-error" id="err-tb-stjudes">Required — enter a score relative to par (e.g. -15)</span>
+                  <div id="tb-positive-warning-stjudes" class="tb-positive-warning" style="display:none;">
+                    ⚠️ Did you mean <strong id="tb-suggested-stjudes"></strong>? Winners finish <em>under</em> par.
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td class="tb-tourney-name">BMW</td>
+                <td>
+                  <input type="number" id="tiebreaker-bmw" placeholder="e.g. -15" min="-40" max="40" oninput="onTiebreakerInput('bmw')">
+                  <span class="field-error" id="err-tb-bmw">Required — enter a score relative to par (e.g. -15)</span>
+                  <div id="tb-positive-warning-bmw" class="tb-positive-warning" style="display:none;">
+                    ⚠️ Did you mean <strong id="tb-suggested-bmw"></strong>? Winners finish <em>under</em> par.
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td class="tb-tourney-name">Tour Championship</td>
+                <td>
+                  <input type="number" id="tiebreaker-tourchamp" placeholder="e.g. -15" min="-40" max="40" oninput="onTiebreakerInput('tourchamp')">
+                  <span class="field-error" id="err-tb-tourchamp">Required — enter a score relative to par (e.g. -15)</span>
+                  <div id="tb-positive-warning-tourchamp" class="tb-positive-warning" style="display:none;">
+                    ⚠️ Did you mean <strong id="tb-suggested-tourchamp"></strong>? Winners finish <em>under</em> par.
+                  </div>
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
         <div class="field" style="max-width: 220px;">
           <label for="pairing-qty">How Many Pairings Did You Buy?</label>
@@ -469,7 +516,7 @@ let pairingCount = 0;
 
 document.getElementById('hdr-tournament').textContent = TOURNAMENT_CONFIG.name;
 document.getElementById('hdr-venue').textContent =
-  TOURNAMENT_CONFIG.venue + ' · Par ' + TOURNAMENT_CONFIG.par;
+  TOURNAMENT_CONFIG.subtitle;
 
 const golferMap = {};
 TOURNAMENT_CONFIG.golfers.forEach(g => { golferMap[g.name] = g.tier; });
@@ -549,10 +596,13 @@ function buildSlot(pairingId, slotNum, label) {
     </div>`;
 }
 
-function onTiebreakerInput() {
-  const val = parseInt(document.getElementById('tiebreaker').value, 10);
-  const warning = document.getElementById('tb-positive-warning');
-  const suggested = document.getElementById('tb-suggested');
+const TB_KEYS = ['stjudes', 'bmw', 'tourchamp'];
+const TB_LABELS = { stjudes: "St. Jude's", bmw: 'BMW', tourchamp: 'Tour Championship' };
+
+function onTiebreakerInput(key) {
+  const val = parseInt(document.getElementById(`tiebreaker-${key}`).value, 10);
+  const warning = document.getElementById(`tb-positive-warning-${key}`);
+  const suggested = document.getElementById(`tb-suggested-${key}`);
   if (!isNaN(val) && val > 0) {
     suggested.textContent = '-' + val;
     warning.style.display = 'block';
@@ -652,18 +702,38 @@ async function submitForm() {
   const lastName  = document.getElementById('last-name').value.trim();
   const email     = document.getElementById('email').value.trim();
   const phone     = document.getElementById('phone').value.trim();
-  const tbRaw     = document.getElementById('tiebreaker').value.trim();
-  const tb        = parseInt(tbRaw, 10);
   const qtyVal    = document.getElementById('pairing-qty').value;
+
+  // Collect all three tiebreakers
+  const tb = {};
+  let tbAllValid = true;
+  TB_KEYS.forEach(key => {
+    const raw = document.getElementById(`tiebreaker-${key}`).value.trim();
+    const val = parseInt(raw, 10);
+    tb[key] = val;
+    const isValidField = raw !== '' && !isNaN(val);
+    document.getElementById(`err-tb-${key}`).style.display = isValidField ? 'none' : 'block';
+    if (!isValidField) tbAllValid = false;
+  });
 
   document.getElementById('err-first').style.display = firstName ? 'none' : 'block';
   document.getElementById('err-last').style.display  = lastName  ? 'none' : 'block';
   document.getElementById('err-email').style.display = (email && isValidEmail(email)) ? 'none' : 'block';
-  document.getElementById('err-tb').style.display    = (tbRaw !== '' && !isNaN(tb)) ? 'none' : 'block';
   document.getElementById('err-qty').style.display   = qtyVal ? 'none' : 'block';
 
   if (!firstName || !lastName || !email || !isValidEmail(email) ||
-      tbRaw === '' || isNaN(tb) || !qtyVal) valid = false;
+      !tbAllValid || !qtyVal) valid = false;
+
+  // Warn if all three tiebreakers are identical (only once fields are otherwise valid)
+  if (valid && tb.stjudes === tb.bmw && tb.bmw === tb.tourchamp) {
+    const wantsToEdit = confirm(
+      `Your Tiebreakers are all the same (${tb.stjudes}) for St. Jude's, BMW, and the Tour Championship. Do you want to edit them?`
+    );
+    if (wantsToEdit) {
+      document.getElementById('tiebreaker-stjudes').focus();
+      return;
+    }
+  }
 
   const pairingBlocks = document.querySelectorAll('.pairing-block');
   if (pairingBlocks.length === 0) {
@@ -699,7 +769,9 @@ async function submitForm() {
     'Last Name': lastName,
     'Email': email,
     'Phone': phone || 'Not provided',
-    'Tiebreaker': tb,
+    "Tiebreaker St. Jude's": tb.stjudes,
+    'Tiebreaker BMW': tb.bmw,
+    'Tiebreaker Tour Championship': tb.tourchamp,
     'Pairings Purchased': parseInt(qtyVal, 10),
   };
 
@@ -738,7 +810,7 @@ async function submitForm() {
 
   // Show modal
   const body = `<strong>${firstName} ${lastName}</strong><br>
-    ${pairingData.length} pairing${pairingData.length > 1 ? 's' : ''} · Tiebreaker: ${tb}<br><br>
+    ${pairingData.length} pairing${pairingData.length > 1 ? 's' : ''} · Tiebreakers — St. Jude's: ${tb.stjudes}, BMW: ${tb.bmw}, Tour Championship: ${tb.tourchamp}<br><br>
     Your submission has been received and contained all valid entries. You will now get a download of your Pairings for your records. You won't get further confirmation, nor do you need to email your submission anywhere. All is good!`;
 
   document.getElementById('modal-body').innerHTML = body;
@@ -787,7 +859,7 @@ async function generateXLSX(firstName, lastName, tb, pairings) {
   hdrCell.alignment = { horizontal: 'center', vertical: 'middle' };
   row.height = 36;
 
-  row = ws.addRow([`${TOURNAMENT_CONFIG.venue}  ·  Par ${TOURNAMENT_CONFIG.par}`, '', '', '']);
+  row = ws.addRow([TOURNAMENT_CONFIG.subtitle, '', '', '']);
   ws.mergeCells(`A${row.number}:D${row.number}`);
   const venueCell = ws.getCell(`A${row.number}`);
   venueCell.fill = solidFill(XL.greenMid);
@@ -797,7 +869,7 @@ async function generateXLSX(firstName, lastName, tb, pairings) {
 
   ws.addRow([]);
 
-  row = ws.addRow(['ENTRANT', `${firstName} ${lastName}`, 'TIEBREAKER', `${tb}`]);
+  row = ws.addRow(['ENTRANT', `${firstName} ${lastName}`, '', '']);
   row.height = 24;
   ['A','B','C','D'].forEach(col => {
     const cell = ws.getCell(`${col}${row.number}`);
@@ -807,23 +879,35 @@ async function generateXLSX(firstName, lastName, tb, pairings) {
   ws.getCell(`A${row.number}`).fill = solidFill(XL.greenDark);
   ws.getCell(`A${row.number}`).font = { color: { argb: XL.gold }, bold: true, size: 10, name: 'Calibri' };
   ws.getCell(`A${row.number}`).alignment = { horizontal: 'center', vertical: 'middle' };
+  ws.mergeCells(`B${row.number}:D${row.number}`);
   ws.getCell(`B${row.number}`).fill = solidFill(XL.cream);
   ws.getCell(`B${row.number}`).font = { bold: true, size: 13, name: 'Calibri', color: { argb: XL.textDark } };
   ws.getCell(`B${row.number}`).alignment = { horizontal: 'left', vertical: 'middle', indent: 1 };
-  ws.getCell(`C${row.number}`).fill = solidFill(XL.greenDark);
-  ws.getCell(`C${row.number}`).font = { color: { argb: XL.gold }, bold: true, size: 10, name: 'Calibri' };
-  ws.getCell(`C${row.number}`).alignment = { horizontal: 'center', vertical: 'middle' };
-  ws.getCell(`D${row.number}`).fill = solidFill(XL.cream);
-  ws.getCell(`D${row.number}`).font = { bold: true, size: 13, name: 'Calibri', color: { argb: XL.textDark } };
-  ws.getCell(`D${row.number}`).alignment = { horizontal: 'center', vertical: 'middle' };
 
-  row = ws.addRow(['', "Winner's predicted score (relative to par)", '', '']);
-  ws.mergeCells(`B${row.number}:D${row.number}`);
-  ws.getCell(`B${row.number}`).font = { italic: true, size: 9, color: { argb: XL.textLight }, name: 'Calibri' };
-  ws.getCell(`B${row.number}`).alignment = { horizontal: 'left', vertical: 'middle', indent: 1 };
-  ws.getCell(`B${row.number}`).fill = solidFill(XL.creamDark);
+  row = ws.addRow(['', 'Tournament', 'Tiebreaker (vs. par)', '']);
+  ws.mergeCells(`C${row.number}:D${row.number}`);
+  ['B','C'].forEach(col => {
+    ws.getCell(`${col}${row.number}`).font = { italic: true, size: 9, color: { argb: XL.textLight }, name: 'Calibri' };
+    ws.getCell(`${col}${row.number}`).fill = solidFill(XL.creamDark);
+  });
   ws.getCell(`A${row.number}`).fill = solidFill(XL.creamDark);
+  ws.getCell(`B${row.number}`).alignment = { horizontal: 'left', vertical: 'middle', indent: 1 };
   row.height = 16;
+
+  const tbRows = [
+    ["St. Jude's", tb.stjudes],
+    ['BMW', tb.bmw],
+    ['Tour Championship', tb.tourchamp],
+  ];
+  tbRows.forEach(([label, value]) => {
+    row = ws.addRow(['', label, `${value}`, '']);
+    ws.mergeCells(`C${row.number}:D${row.number}`);
+    ws.getCell(`A${row.number}`).fill = solidFill(XL.creamDark);
+    ws.getCell(`B${row.number}`).font = { size: 11, name: 'Calibri', color: { argb: XL.textDark } };
+    ws.getCell(`B${row.number}`).alignment = { horizontal: 'left', vertical: 'middle', indent: 1 };
+    ws.getCell(`C${row.number}`).font = { bold: true, size: 11, name: 'Calibri', color: { argb: XL.textDark } };
+    ws.getCell(`C${row.number}`).alignment = { horizontal: 'left', vertical: 'middle', indent: 1 };
+  });
 
   ws.addRow([]);
 
@@ -887,7 +971,9 @@ async function generateXLSX(firstName, lastName, tb, pairings) {
     { header: 'Email',      key: 'email',   width: 28 },
     { header: 'Label',      key: 'label',   width: 14 },
     { header: 'Pairing#',   key: 'pnum',    width: 10 },
-    { header: 'Tiebreaker', key: 'tb',      width: 12 },
+    { header: "TB St. Jude's", key: 'tbSJ', width: 12 },
+    { header: 'TB BMW',     key: 'tbBMW',   width: 12 },
+    { header: 'TB Tour Champ', key: 'tbTC', width: 12 },
     { header: 'Golfer1',    key: 'g1',      width: 24 },
     { header: 'Golfer2',    key: 'g2',      width: 24 },
     { header: 'Golfer3',    key: 'g3',      width: 24 },
@@ -905,7 +991,9 @@ async function generateXLSX(firstName, lastName, tb, pairings) {
       email: idx === 0 ? email     : '',
       label: firstName,
       pnum:  p.number,
-      tb,
+      tbSJ:  tb.stjudes,
+      tbBMW: tb.bmw,
+      tbTC:  tb.tourchamp,
       g1: p.golfers[0].name,
       g2: p.golfers[1].name,
       g3: p.golfers[2].name,
