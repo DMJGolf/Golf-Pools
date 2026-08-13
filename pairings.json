@@ -5,8 +5,8 @@
     "pairing_id": "Amy F-1",
     "golfers": [
       "Scottie Scheffler",
-      "Chris Gotterup",
-      "Viktor Hovland"
+      "Tommy Fleetwood",
+      "Alex Fitzpatrick"
     ]
   },
   {
@@ -14,9 +14,9 @@
     "label": "Amy F",
     "pairing_id": "Amy F-2",
     "golfers": [
-      "Rory McIlroy",
-      "Justin Rose",
-      "Harris English"
+      "Cameron Young",
+      "Xander Schauffele",
+      "Hideki Matsuyama"
     ]
   },
   {
@@ -24,39 +24,9 @@
     "label": "Amy F",
     "pairing_id": "Amy F-3",
     "golfers": [
-      "Matt Fitzpatrick",
+      "Rory McIlroy",
       "Tommy Fleetwood",
-      "J.J. Spaun"
-    ]
-  },
-  {
-    "entrant_full_name": "Amy Foley",
-    "label": "Amy F",
-    "pairing_id": "Amy F-4",
-    "golfers": [
-      "Wyndham Clark",
-      "Collin Morikawa",
-      "Si Woo Kim"
-    ]
-  },
-  {
-    "entrant_full_name": "Amy Foley",
-    "label": "Amy F",
-    "pairing_id": "Amy F-5",
-    "golfers": [
-      "Chris Gotterup",
-      "Tommy Fleetwood",
-      "Joaquin Niemann"
-    ]
-  },
-  {
-    "entrant_full_name": "Amy Foley",
-    "label": "Amy F",
-    "pairing_id": "Amy F-6",
-    "golfers": [
-      "Scottie Scheffler",
-      "Tommy Fleetwood",
-      "Jordan Spieth"
+      "Akshay Bhatia"
     ]
   },
   {
@@ -64,9 +34,9 @@
     "label": "Anthony G",
     "pairing_id": "Anthony G-1",
     "golfers": [
-      "Rory McIlroy",
-      "Tommy Fleetwood",
-      "Ludvig Aberg"
+      "Scottie Scheffler",
+      "Xander Schauffele",
+      "Alex Fitzpatrick"
     ]
   },
   {
@@ -74,9 +44,9 @@
     "label": "Anthony G",
     "pairing_id": "Anthony G-2",
     "golfers": [
-      "Matt Fitzpatrick",
-      "Xander Schauffele",
-      "Shane Lowry"
+      "Cameron Young",
+      "Tommy Fleetwood",
+      "Ludvig Aberg"
     ]
   },
   {
@@ -85,8 +55,58 @@
     "pairing_id": "Anthony G-3",
     "golfers": [
       "Scottie Scheffler",
+      "Ludvig Aberg",
+      "Sam Burns"
+    ]
+  },
+  {
+    "entrant_full_name": "Anthony Green",
+    "label": "Anthony G",
+    "pairing_id": "Anthony G-4",
+    "golfers": [
+      "Rory McIlroy",
+      "Xander Schauffele",
+      "Ludvig Aberg"
+    ]
+  },
+  {
+    "entrant_full_name": "Anthony Green",
+    "label": "Anthony G",
+    "pairing_id": "Anthony G-5",
+    "golfers": [
+      "Cameron Young",
+      "Ludvig Aberg",
+      "Sam Burns"
+    ]
+  },
+  {
+    "entrant_full_name": "Becky Cheeks",
+    "label": "Becky C",
+    "pairing_id": "Becky C-1",
+    "golfers": [
+      "Scottie Scheffler",
       "Wyndham Clark",
-      "Robert MacIntyre"
+      "Sam Burns"
+    ]
+  },
+  {
+    "entrant_full_name": "Becky Cheeks",
+    "label": "Becky C",
+    "pairing_id": "Becky C-2",
+    "golfers": [
+      "Cameron Young",
+      "Xander Schauffele",
+      "Si Woo Kim"
+    ]
+  },
+  {
+    "entrant_full_name": "Becky Cheeks",
+    "label": "Becky C",
+    "pairing_id": "Becky C-3",
+    "golfers": [
+      "Rory McIlroy",
+      "Tommy Fleetwood",
+      "Ludvig Aberg"
     ]
   },
   {
@@ -94,9 +114,9 @@
     "label": "Bilal A",
     "pairing_id": "Bilal A-1",
     "golfers": [
-      "Matt Fitzpatrick",
+      "Scottie Scheffler",
       "Tommy Fleetwood",
-      "Robert MacIntyre"
+      "Sam Burns"
     ]
   },
   {
@@ -104,9 +124,9 @@
     "label": "Bilal A",
     "pairing_id": "Bilal A-2",
     "golfers": [
+      "Scottie Scheffler",
       "Collin Morikawa",
-      "Chris Gotterup",
-      "Tyrrell Hatton"
+      "Hideki Matsuyama"
     ]
   },
   {
@@ -114,9 +134,9 @@
     "label": "Bilal A",
     "pairing_id": "Bilal A-3",
     "golfers": [
-      "Cameron Young",
-      "Wyndham Clark",
-      "Hideki Matsuyama"
+      "Matt Fitzpatrick",
+      "Chris Gotterup",
+      "Ludvig Aberg"
     ]
   },
   {
@@ -124,39 +144,29 @@
     "label": "Bilal A",
     "pairing_id": "Bilal A-4",
     "golfers": [
-      "Scottie Scheffler",
-      "Tommy Fleetwood",
-      "Aaron Rai"
+      "Cameron Young",
+      "Xander Schauffele",
+      "Si Woo Kim"
     ]
   },
   {
-    "entrant_full_name": "Bradley Schatz",
-    "label": "Brad S",
-    "pairing_id": "Brad S-1",
+    "entrant_full_name": "Bilal Ashraf",
+    "label": "Bilal A",
+    "pairing_id": "Bilal A-5",
     "golfers": [
       "Rory McIlroy",
-      "Justin Rose",
-      "Ludvig Aberg"
+      "Akshay Bhatia",
+      "Viktor Hovland"
     ]
   },
   {
-    "entrant_full_name": "Bradley Schatz",
-    "label": "Brad S",
-    "pairing_id": "Brad S-2",
+    "entrant_full_name": "Bilal Ashraf",
+    "label": "Bilal A",
+    "pairing_id": "Bilal A-6",
     "golfers": [
-      "Robert MacIntyre",
-      "Shane Lowry",
-      "Scottie Scheffler"
-    ]
-  },
-  {
-    "entrant_full_name": "Bradley Schatz",
-    "label": "Brad S",
-    "pairing_id": "Brad S-3",
-    "golfers": [
-      "Scottie Scheffler",
       "Tommy Fleetwood",
-      "Corey Conners"
+      "Collin Morikawa",
+      "Ludvig Aberg"
     ]
   },
   {
@@ -164,9 +174,9 @@
     "label": "Broc M",
     "pairing_id": "Broc M-1",
     "golfers": [
-      "Rory McIlroy",
-      "Justin Rose",
-      "Tom Kim"
+      "Scottie Scheffler",
+      "Collin Morikawa",
+      "Viktor Hovland"
     ]
   },
   {
@@ -174,9 +184,9 @@
     "label": "Broc M",
     "pairing_id": "Broc M-2",
     "golfers": [
-      "Matt Fitzpatrick",
-      "Tommy Fleetwood",
-      "Xander Schauffele"
+      "Rory McIlroy",
+      "Xander Schauffele",
+      "Ludvig Aberg"
     ]
   },
   {
@@ -184,19 +194,59 @@
     "label": "Broc M",
     "pairing_id": "Broc M-3",
     "golfers": [
-      "Scottie Scheffler",
-      "Sam Burns",
-      "Tyrrell Hatton"
+      "Rory McIlroy",
+      "Tommy Fleetwood",
+      "Sam Burns"
     ]
   },
   {
-    "entrant_full_name": "Christian Kress",
-    "label": "Christian K",
-    "pairing_id": "Christian K-1",
+    "entrant_full_name": "Broc Mushet",
+    "label": "Broc M",
+    "pairing_id": "Broc M-4",
+    "golfers": [
+      "Cameron Young",
+      "Chris Gotterup",
+      "Sam Burns"
+    ]
+  },
+  {
+    "entrant_full_name": "Broc Mushet",
+    "label": "Broc M",
+    "pairing_id": "Broc M-5",
+    "golfers": [
+      "Scottie Scheffler",
+      "Ludvig Aberg",
+      "Sam Burns"
+    ]
+  },
+  {
+    "entrant_full_name": "Brian Young",
+    "label": "Brian",
+    "pairing_id": "Brian-1",
     "golfers": [
       "Scottie Scheffler",
       "Tommy Fleetwood",
-      "Xander Schauffele"
+      "Hideki Matsuyama"
+    ]
+  },
+  {
+    "entrant_full_name": "Brian Young",
+    "label": "Brian",
+    "pairing_id": "Brian-2",
+    "golfers": [
+      "Cameron Young",
+      "Xander Schauffele",
+      "Ludvig Aberg"
+    ]
+  },
+  {
+    "entrant_full_name": "Brian Young",
+    "label": "Brian",
+    "pairing_id": "Brian-3",
+    "golfers": [
+      "Matt Fitzpatrick",
+      "Collin Morikawa",
+      "Sam Burns"
     ]
   },
   {
@@ -205,7 +255,7 @@
     "pairing_id": "Dale J-1",
     "golfers": [
       "Scottie Scheffler",
-      "Tommy Fleetwood",
+      "Xander Schauffele",
       "Robert MacIntyre"
     ]
   },
@@ -215,8 +265,8 @@
     "pairing_id": "Dale J-2",
     "golfers": [
       "Scottie Scheffler",
-      "Tommy Fleetwood",
-      "Tom Kim"
+      "Xander Schauffele",
+      "Patrick Cantlay"
     ]
   },
   {
@@ -226,7 +276,7 @@
     "golfers": [
       "Scottie Scheffler",
       "Tommy Fleetwood",
-      "Sam Burns"
+      "Harris English"
     ]
   },
   {
@@ -235,7 +285,7 @@
     "pairing_id": "Dale J-4",
     "golfers": [
       "Scottie Scheffler",
-      "Wyndham Clark",
+      "Tommy Fleetwood",
       "Robert MacIntyre"
     ]
   },
@@ -245,8 +295,8 @@
     "pairing_id": "Dale J-5",
     "golfers": [
       "Scottie Scheffler",
-      "Wyndham Clark",
-      "Tom Kim"
+      "Tommy Fleetwood",
+      "Justin Thomas"
     ]
   },
   {
@@ -254,9 +304,9 @@
     "label": "Dale J",
     "pairing_id": "Dale J-6",
     "golfers": [
-      "Rory McIlroy",
-      "Tommy Fleetwood",
-      "Xander Schauffele"
+      "Scottie Scheffler",
+      "Xander Schauffele",
+      "Min Woo Lee"
     ]
   },
   {
@@ -264,9 +314,9 @@
     "label": "Dale J",
     "pairing_id": "Dale J-7",
     "golfers": [
-      "Rory McIlroy",
-      "Chris Gotterup",
-      "Robert MacIntyre"
+      "Xander Schauffele",
+      "Tommy Fleetwood",
+      "Sam Burns"
     ]
   },
   {
@@ -275,8 +325,8 @@
     "pairing_id": "Dennis P-1",
     "golfers": [
       "Scottie Scheffler",
-      "Justin Rose",
-      "Aaron Rai"
+      "Xander Schauffele",
+      "Sam Burns"
     ]
   },
   {
@@ -285,8 +335,8 @@
     "pairing_id": "Dennis P-2",
     "golfers": [
       "Scottie Scheffler",
-      "Wyndham Clark",
-      "Alex Fitzpatrick"
+      "Tommy Fleetwood",
+      "Ludvig Aberg"
     ]
   },
   {
@@ -296,7 +346,7 @@
     "golfers": [
       "Rory McIlroy",
       "Collin Morikawa",
-      "Robert MacIntyre"
+      "Si Woo Kim"
     ]
   },
   {
@@ -316,7 +366,7 @@
     "golfers": [
       "Matt Fitzpatrick",
       "Tommy Fleetwood",
-      "Xander Schauffele"
+      "Hideki Matsuyama"
     ]
   },
   {
@@ -324,19 +374,19 @@
     "label": "Dennis P",
     "pairing_id": "Dennis P-6",
     "golfers": [
-      "Matt Fitzpatrick",
-      "Chris Gotterup",
-      "Viktor Hovland"
+      "Cameron Young",
+      "Xander Schauffele",
+      "Min Woo Lee"
     ]
   },
   {
-    "entrant_full_name": "Dennis Picht",
-    "label": "Dennis P",
-    "pairing_id": "Dennis P-7",
+    "entrant_full_name": "Devin Schad",
+    "label": "Devin S",
+    "pairing_id": "Devin S-1",
     "golfers": [
-      "Jon Rahm",
-      "Tyrrell Hatton",
-      "Min Woo Lee"
+      "Scottie Scheffler",
+      "Xander Schauffele",
+      "Sam Burns"
     ]
   },
   {
@@ -345,8 +395,8 @@
     "pairing_id": "Donovan J-1",
     "golfers": [
       "Scottie Scheffler",
-      "Tommy Fleetwood",
-      "Viktor Hovland"
+      "Chris Gotterup",
+      "Si Woo Kim"
     ]
   },
   {
@@ -355,7 +405,7 @@
     "pairing_id": "Donovan J-2",
     "golfers": [
       "Scottie Scheffler",
-      "Justin Rose",
+      "Tommy Fleetwood",
       "Ludvig Aberg"
     ]
   },
@@ -364,9 +414,9 @@
     "label": "Donovan J",
     "pairing_id": "Donovan J-3",
     "golfers": [
-      "Matt Fitzpatrick",
-      "Tommy Fleetwood",
-      "Ludvig Aberg"
+      "Scottie Scheffler",
+      "Wyndham Clark",
+      "Sam Burns"
     ]
   },
   {
@@ -374,9 +424,9 @@
     "label": "Donovan J",
     "pairing_id": "Donovan J-4",
     "golfers": [
-      "Matt Fitzpatrick",
-      "Chris Gotterup",
-      "Min Woo Lee"
+      "Cameron Young",
+      "Tommy Fleetwood",
+      "Sam Burns"
     ]
   },
   {
@@ -384,9 +434,9 @@
     "label": "Donovan J",
     "pairing_id": "Donovan J-5",
     "golfers": [
-      "Rory McIlroy",
-      "Justin Rose",
-      "Robert MacIntyre"
+      "Matt Fitzpatrick",
+      "Xander Schauffele",
+      "Ludvig Aberg"
     ]
   },
   {
@@ -394,19 +444,9 @@
     "label": "Donovan J",
     "pairing_id": "Donovan J-6",
     "golfers": [
-      "Jon Rahm",
-      "Wyndham Clark",
-      "Tyrrell Hatton"
-    ]
-  },
-  {
-    "entrant_full_name": "Donovan Jacob",
-    "label": "Donovan J",
-    "pairing_id": "Donovan J-7",
-    "golfers": [
-      "Scottie Scheffler",
-      "Chris Gotterup",
-      "Robert MacIntyre"
+      "Matt Fitzpatrick",
+      "Collin Morikawa",
+      "Si Woo Kim"
     ]
   },
   {
@@ -416,7 +456,7 @@
     "golfers": [
       "Scottie Scheffler",
       "Chris Gotterup",
-      "Robert MacIntyre"
+      "Sam Burns"
     ]
   },
   {
@@ -424,9 +464,9 @@
     "label": "Eric C",
     "pairing_id": "Eric C-2",
     "golfers": [
-      "Rory McIlroy",
-      "Tommy Fleetwood",
-      "Shane Lowry"
+      "Scottie Scheffler",
+      "Collin Morikawa",
+      "Si Woo Kim"
     ]
   },
   {
@@ -435,8 +475,18 @@
     "pairing_id": "Eric C-3",
     "golfers": [
       "Matt Fitzpatrick",
-      "Wyndham Clark",
-      "Xander Schauffele"
+      "Tommy Fleetwood",
+      "Ludvig Aberg"
+    ]
+  },
+  {
+    "entrant_full_name": "Eric Cheeks",
+    "label": "Eric C",
+    "pairing_id": "Eric C-4",
+    "golfers": [
+      "Cameron Young",
+      "Xander Schauffele",
+      "Si Woo Kim"
     ]
   },
   {
@@ -444,9 +494,9 @@
     "label": "Erik H",
     "pairing_id": "Erik H-1",
     "golfers": [
-      "Rory McIlroy",
+      "Scottie Scheffler",
       "Tommy Fleetwood",
-      "Xander Schauffele"
+      "Sam Burns"
     ]
   },
   {
@@ -454,9 +504,9 @@
     "label": "Erik H",
     "pairing_id": "Erik H-2",
     "golfers": [
-      "Matt Fitzpatrick",
-      "Chris Gotterup",
-      "Ludvig Aberg"
+      "Scottie Scheffler",
+      "Collin Morikawa",
+      "Hideki Matsuyama"
     ]
   },
   {
@@ -464,8 +514,8 @@
     "label": "Erik H",
     "pairing_id": "Erik H-3",
     "golfers": [
-      "Chris Gotterup",
-      "Tommy Fleetwood",
+      "Matt Fitzpatrick",
+      "Xander Schauffele",
       "Ludvig Aberg"
     ]
   },
@@ -474,9 +524,9 @@
     "label": "Erik H",
     "pairing_id": "Erik H-4",
     "golfers": [
-      "Matt Fitzpatrick",
-      "Justin Rose",
-      "Xander Schauffele"
+      "Cameron Young",
+      "Collin Morikawa",
+      "Sam Burns"
     ]
   },
   {
@@ -484,9 +534,9 @@
     "label": "Erik H",
     "pairing_id": "Erik H-5",
     "golfers": [
-      "Scottie Scheffler",
+      "Russell Henley",
       "Tommy Fleetwood",
-      "Xander Schauffele"
+      "Tom Kim"
     ]
   },
   {
@@ -495,28 +545,8 @@
     "pairing_id": "Erik H-6",
     "golfers": [
       "Rory McIlroy",
-      "Wyndham Clark",
-      "Viktor Hovland"
-    ]
-  },
-  {
-    "entrant_full_name": "Erik Hetzel",
-    "label": "Erik H",
-    "pairing_id": "Erik H-7",
-    "golfers": [
-      "Rory McIlroy",
-      "Tommy Fleetwood",
-      "Tom Kim"
-    ]
-  },
-  {
-    "entrant_full_name": "Jaxson Bertrand",
-    "label": "Jax B",
-    "pairing_id": "Jax B-1",
-    "golfers": [
-      "Matt Fitzpatrick",
-      "Justin Rose",
-      "Viktor Hovland"
+      "Xander Schauffele",
+      "Sam Burns"
     ]
   },
   {
@@ -524,9 +554,9 @@
     "label": "Jim C",
     "pairing_id": "Jim C-1",
     "golfers": [
-      "Xander Schauffele",
       "Scottie Scheffler",
-      "Tommy Fleetwood"
+      "Tommy Fleetwood",
+      "Justin Thomas"
     ]
   },
   {
@@ -534,9 +564,9 @@
     "label": "Jim C",
     "pairing_id": "Jim C-2",
     "golfers": [
-      "Rory McIlroy",
-      "Justin Rose",
-      "Robert MacIntyre"
+      "Matt Fitzpatrick",
+      "Collin Morikawa",
+      "Hideki Matsuyama"
     ]
   },
   {
@@ -545,8 +575,8 @@
     "pairing_id": "Jim C-3",
     "golfers": [
       "Rory McIlroy",
-      "Collin Morikawa",
-      "Min Woo Lee"
+      "Xander Schauffele",
+      "Sam Burns"
     ]
   },
   {
@@ -554,79 +584,39 @@
     "label": "Jim C",
     "pairing_id": "Jim C-4",
     "golfers": [
-      "Matt Fitzpatrick",
+      "Russell Henley",
+      "Collin Morikawa",
+      "Maverick McNealy"
+    ]
+  },
+  {
+    "entrant_full_name": "James Clark",
+    "label": "Jim C",
+    "pairing_id": "Jim C-5",
+    "golfers": [
+      "Cameron Young",
       "Tommy Fleetwood",
       "Viktor Hovland"
     ]
   },
   {
-    "entrant_full_name": "Jason Bowser",
-    "label": "Jason B",
-    "pairing_id": "Jason B-1",
+    "entrant_full_name": "James Clark",
+    "label": "Jim C",
+    "pairing_id": "Jim C-6",
     "golfers": [
-      "Matt Fitzpatrick",
-      "Tyrrell Hatton",
-      "Alex Noren"
-    ]
-  },
-  {
-    "entrant_full_name": "Jason Bowser",
-    "label": "Jason B",
-    "pairing_id": "Jason B-2",
-    "golfers": [
-      "Matt Fitzpatrick",
-      "Collin Morikawa",
-      "Alex Noren"
-    ]
-  },
-  {
-    "entrant_full_name": "Jason Bowser",
-    "label": "Jason B",
-    "pairing_id": "Jason B-3",
-    "golfers": [
-      "Matt Fitzpatrick",
-      "Wyndham Clark",
-      "Daniel Berger"
-    ]
-  },
-  {
-    "entrant_full_name": "Jeff Barton",
-    "label": "Jeff B",
-    "pairing_id": "Jeff B-1",
-    "golfers": [
-      "Rory McIlroy",
-      "Justin Rose",
-      "Tyrrell Hatton"
-    ]
-  },
-  {
-    "entrant_full_name": "Jeff Barton",
-    "label": "Jeff B",
-    "pairing_id": "Jeff B-2",
-    "golfers": [
-      "Matt Fitzpatrick",
-      "Tommy Fleetwood",
-      "Viktor Hovland"
-    ]
-  },
-  {
-    "entrant_full_name": "Jeff Barton",
-    "label": "Jeff B",
-    "pairing_id": "Jeff B-3",
-    "golfers": [
-      "Collin Morikawa",
+      "Xander Schauffele",
       "Chris Gotterup",
-      "Patrick Reed"
+      "Tom Kim"
     ]
   },
   {
-    "entrant_full_name": "Jeff Barton",
-    "label": "Jeff B",
-    "pairing_id": "Jeff B-4",
+    "entrant_full_name": "James Clark",
+    "label": "Jim C",
+    "pairing_id": "Jim C-7",
     "golfers": [
-      "Scottie Scheffler",
-      "Sam Burns",
-      "Si Woo Kim"
+      "Tommy Fleetwood",
+      "Xander Schauffele",
+      "Justin Rose"
     ]
   },
   {
@@ -635,8 +625,8 @@
     "pairing_id": "Jennifer T-1",
     "golfers": [
       "Scottie Scheffler",
-      "Tommy Fleetwood",
-      "Tyrrell Hatton"
+      "Xander Schauffele",
+      "Sam Burns"
     ]
   },
   {
@@ -645,8 +635,8 @@
     "pairing_id": "Jennifer T-2",
     "golfers": [
       "Rory McIlroy",
-      "Viktor Hovland",
-      "Robert MacIntyre"
+      "Tommy Fleetwood",
+      "Ludvig Aberg"
     ]
   },
   {
@@ -654,9 +644,9 @@
     "label": "Jennifer T",
     "pairing_id": "Jennifer T-3",
     "golfers": [
-      "Jon Rahm",
+      "Matt Fitzpatrick",
       "Collin Morikawa",
-      "Sepp Straka"
+      "Patrick Cantlay"
     ]
   },
   {
@@ -664,39 +654,9 @@
     "label": "Jennifer T",
     "pairing_id": "Jennifer T-4",
     "golfers": [
-      "Bryson DeChambeau",
-      "Justin Rose",
-      "Xander Schauffele"
-    ]
-  },
-  {
-    "entrant_full_name": "John Caruthers",
-    "label": "John C",
-    "pairing_id": "John C-1",
-    "golfers": [
       "Scottie Scheffler",
-      "Tommy Fleetwood",
-      "Tyrrell Hatton"
-    ]
-  },
-  {
-    "entrant_full_name": "John Caruthers",
-    "label": "John C",
-    "pairing_id": "John C-2",
-    "golfers": [
-      "Rory McIlroy",
       "Chris Gotterup",
-      "Viktor Hovland"
-    ]
-  },
-  {
-    "entrant_full_name": "John Caruthers",
-    "label": "John C",
-    "pairing_id": "John C-3",
-    "golfers": [
-      "Matt Fitzpatrick",
-      "Collin Morikawa",
-      "Ludvig Aberg"
+      "Justin Thomas"
     ]
   },
   {
@@ -706,7 +666,7 @@
     "golfers": [
       "Scottie Scheffler",
       "Tommy Fleetwood",
-      "Xander Schauffele"
+      "Sam Burns"
     ]
   },
   {
@@ -714,9 +674,9 @@
     "label": "John J",
     "pairing_id": "John J-2",
     "golfers": [
-      "Rory McIlroy",
-      "Collin Morikawa",
-      "Xander Schauffele"
+      "Scottie Scheffler",
+      "Xander Schauffele",
+      "Sam Burns"
     ]
   },
   {
@@ -725,8 +685,8 @@
     "pairing_id": "John J-3",
     "golfers": [
       "Cameron Young",
-      "Wyndham Clark",
-      "Viktor Hovland"
+      "Tommy Fleetwood",
+      "Sam Burns"
     ]
   },
   {
@@ -734,9 +694,9 @@
     "label": "John J",
     "pairing_id": "John J-4",
     "golfers": [
-      "Matt Fitzpatrick",
-      "Wyndham Clark",
-      "Robert MacIntyre"
+      "Rory McIlroy",
+      "Sam Burns",
+      "Justin Rose"
     ]
   },
   {
@@ -744,9 +704,9 @@
     "label": "John J",
     "pairing_id": "John J-5",
     "golfers": [
-      "Rory McIlroy",
-      "Robert MacIntyre",
-      "Tyrrell Hatton"
+      "Scottie Scheffler",
+      "Justin Rose",
+      "Tommy Fleetwood"
     ]
   },
   {
@@ -754,29 +714,39 @@
     "label": "John J",
     "pairing_id": "John J-6",
     "golfers": [
+      "Michael Kim",
+      "Michael Brennan",
+      "Jackson Koivun"
+    ]
+  },
+  {
+    "entrant_full_name": "Jude Green",
+    "label": "Jude",
+    "pairing_id": "Jude-1",
+    "golfers": [
       "Scottie Scheffler",
-      "Chris Gotterup",
-      "Robert MacIntyre"
+      "Tommy Fleetwood",
+      "Sam Burns"
     ]
   },
   {
-    "entrant_full_name": "Jonas Caccam",
-    "label": "Jonas C",
-    "pairing_id": "Jonas C-1",
+    "entrant_full_name": "Jude Green",
+    "label": "Jude",
+    "pairing_id": "Jude-2",
     "golfers": [
-      "Rory McIlroy",
+      "Cameron Young",
+      "Xander Schauffele",
+      "Ludvig Aberg"
+    ]
+  },
+  {
+    "entrant_full_name": "Jude Green",
+    "label": "Jude",
+    "pairing_id": "Jude-3",
+    "golfers": [
+      "Chris Gotterup",
       "Justin Rose",
-      "Tom Kim"
-    ]
-  },
-  {
-    "entrant_full_name": "Kristan Bernard",
-    "label": "Kristin B",
-    "pairing_id": "Kristin B-1",
-    "golfers": [
-      "Rory McIlroy",
-      "Chris Gotterup",
-      "Viktor Hovland"
+      "Rory McIlroy"
     ]
   },
   {
@@ -784,9 +754,9 @@
     "label": "Kristina K",
     "pairing_id": "Kristina K-1",
     "golfers": [
-      "Scottie Scheffler",
+      "Cameron Young",
       "Tommy Fleetwood",
-      "Robert MacIntyre"
+      "Hideki Matsuyama"
     ]
   },
   {
@@ -794,9 +764,9 @@
     "label": "Kristina K",
     "pairing_id": "Kristina K-2",
     "golfers": [
-      "Rory McIlroy",
-      "Chris Gotterup",
-      "Viktor Hovland"
+      "Scottie Scheffler",
+      "Wyndham Clark",
+      "Si Woo Kim"
     ]
   },
   {
@@ -804,9 +774,19 @@
     "label": "Kristina K",
     "pairing_id": "Kristina K-3",
     "golfers": [
-      "Cameron Young",
-      "Wyndham Clark",
+      "Matt Fitzpatrick",
+      "Xander Schauffele",
       "Sam Burns"
+    ]
+  },
+  {
+    "entrant_full_name": "Kristina Kinard",
+    "label": "Kristina K",
+    "pairing_id": "Kristina K-4",
+    "golfers": [
+      "Rory McIlroy",
+      "Collin Morikawa",
+      "Ludvig Aberg"
     ]
   },
   {
@@ -815,8 +795,8 @@
     "pairing_id": "Mark J-1",
     "golfers": [
       "Scottie Scheffler",
-      "Viktor Hovland",
-      "Tommy Fleetwood"
+      "Collin Morikawa",
+      "Sam Burns"
     ]
   },
   {
@@ -824,9 +804,9 @@
     "label": "Mark J",
     "pairing_id": "Mark J-2",
     "golfers": [
-      "Rory McIlroy",
-      "Tyrrell Hatton",
-      "Shane Lowry"
+      "Scottie Scheffler",
+      "Xander Schauffele",
+      "Ludvig Aberg"
     ]
   },
   {
@@ -834,9 +814,9 @@
     "label": "Mark J",
     "pairing_id": "Mark J-3",
     "golfers": [
-      "Jon Rahm",
-      "Xander Schauffele",
-      "Justin Rose"
+      "Rory McIlroy",
+      "Wyndham Clark",
+      "Si Woo Kim"
     ]
   },
   {
@@ -844,9 +824,9 @@
     "label": "Mark J",
     "pairing_id": "Mark J-4",
     "golfers": [
-      "Bryson DeChambeau",
-      "Collin Morikawa",
-      "Robert MacIntyre"
+      "Cameron Young",
+      "Tommy Fleetwood",
+      "Sam Burns"
     ]
   },
   {
@@ -854,9 +834,9 @@
     "label": "Mark J",
     "pairing_id": "Mark J-5",
     "golfers": [
-      "Scottie Scheffler",
-      "Ludvig Aberg",
-      "Sepp Straka"
+      "Matt Fitzpatrick",
+      "Chris Gotterup",
+      "Ludvig Aberg"
     ]
   },
   {
@@ -865,8 +845,8 @@
     "pairing_id": "Mark J-6",
     "golfers": [
       "Rory McIlroy",
-      "Viktor Hovland",
-      "Justin Rose"
+      "Collin Morikawa",
+      "Hideki Matsuyama"
     ]
   },
   {
@@ -875,8 +855,8 @@
     "pairing_id": "Max H-1",
     "golfers": [
       "Scottie Scheffler",
-      "Tommy Fleetwood",
-      "Viktor Hovland"
+      "Collin Morikawa",
+      "Sam Burns"
     ]
   },
   {
@@ -884,9 +864,9 @@
     "label": "Max H",
     "pairing_id": "Max H-2",
     "golfers": [
-      "Scottie Scheffler",
-      "Xander Schauffele",
-      "Robert MacIntyre"
+      "Rory McIlroy",
+      "Chris Gotterup",
+      "Tom Kim"
     ]
   },
   {
@@ -894,9 +874,9 @@
     "label": "Max H",
     "pairing_id": "Max H-3",
     "golfers": [
-      "Rory McIlroy",
-      "Tommy Fleetwood",
-      "Xander Schauffele"
+      "Scottie Scheffler",
+      "Xander Schauffele",
+      "Ryan Gerard"
     ]
   },
   {
@@ -904,8 +884,8 @@
     "label": "Max H",
     "pairing_id": "Max H-4",
     "golfers": [
-      "Matt Fitzpatrick",
-      "Si Woo Kim",
+      "Cameron Young",
+      "Tommy Fleetwood",
       "Viktor Hovland"
     ]
   },
@@ -914,9 +894,19 @@
     "label": "Max H",
     "pairing_id": "Max H-5",
     "golfers": [
-      "Jon Rahm",
-      "Justin Rose",
-      "Tyrrell Hatton"
+      "Matt Fitzpatrick",
+      "Collin Morikawa",
+      "Alex Fitzpatrick"
+    ]
+  },
+  {
+    "entrant_full_name": "Max Hensley",
+    "label": "Max H",
+    "pairing_id": "Max H-6",
+    "golfers": [
+      "Chris Gotterup",
+      "Collin Morikawa",
+      "Sam Burns"
     ]
   },
   {
@@ -925,8 +915,8 @@
     "pairing_id": "Michael E-1",
     "golfers": [
       "Scottie Scheffler",
-      "Tommy Fleetwood",
-      "Xander Schauffele"
+      "Xander Schauffele",
+      "Tom Kim"
     ]
   },
   {
@@ -935,18 +925,8 @@
     "pairing_id": "Michael E-2",
     "golfers": [
       "Cameron Young",
-      "Collin Morikawa",
-      "Sam Burns"
-    ]
-  },
-  {
-    "entrant_full_name": "Michael Eckloff",
-    "label": "Michael E",
-    "pairing_id": "Michael E-3",
-    "golfers": [
-      "Rory McIlroy",
-      "Wyndham Clark",
-      "Robert MacIntyre"
+      "Chris Gotterup",
+      "Hideki Matsuyama"
     ]
   },
   {
@@ -954,9 +934,9 @@
     "label": "Niall J",
     "pairing_id": "Niall J-1",
     "golfers": [
-      "Matt Fitzpatrick",
-      "Chris Gotterup",
-      "Xander Schauffele"
+      "Scottie Scheffler",
+      "Tommy Fleetwood",
+      "Michael Thorbjornsen"
     ]
   },
   {
@@ -964,9 +944,9 @@
     "label": "Niall J",
     "pairing_id": "Niall J-2",
     "golfers": [
-      "Rory McIlroy",
-      "Tommy Fleetwood",
-      "Si Woo Kim"
+      "Scottie Scheffler",
+      "Wyndham Clark",
+      "Tom Kim"
     ]
   },
   {
@@ -975,8 +955,18 @@
     "pairing_id": "Niall J-3",
     "golfers": [
       "Scottie Scheffler",
-      "Justin Rose",
-      "Tyrrell Hatton"
+      "Tommy Fleetwood",
+      "Michael Thorbjornsen"
+    ]
+  },
+  {
+    "entrant_full_name": "Niall Johnston",
+    "label": "Niall J",
+    "pairing_id": "Niall J-4",
+    "golfers": [
+      "Matt Fitzpatrick",
+      "Tommy Fleetwood",
+      "Michael Brennan"
     ]
   },
   {
@@ -984,9 +974,9 @@
     "label": "Nick L",
     "pairing_id": "Nick L-1",
     "golfers": [
-      "Matt Fitzpatrick",
-      "Justin Rose",
-      "Min Woo Lee"
+      "Scottie Scheffler",
+      "Wyndham Clark",
+      "Si Woo Kim"
     ]
   },
   {
@@ -994,9 +984,9 @@
     "label": "Nick L",
     "pairing_id": "Nick L-2",
     "golfers": [
-      "Rory McIlroy",
-      "Tommy Fleetwood",
-      "Ludvig Aberg"
+      "Matt Fitzpatrick",
+      "Xander Schauffele",
+      "Sam Burns"
     ]
   },
   {
@@ -1004,9 +994,9 @@
     "label": "Nick L",
     "pairing_id": "Nick L-3",
     "golfers": [
-      "Jon Rahm",
-      "Chris Gotterup",
-      "Tyrrell Hatton"
+      "Cameron Young",
+      "Tommy Fleetwood",
+      "Ludvig Aberg"
     ]
   },
   {
@@ -1014,79 +1004,29 @@
     "label": "Nick L",
     "pairing_id": "Nick L-4",
     "golfers": [
-      "Matt Fitzpatrick",
-      "Collin Morikawa",
-      "Xander Schauffele"
-    ]
-  },
-  {
-    "entrant_full_name": "Patrick Shanley",
-    "label": "Patrick S",
-    "pairing_id": "Patrick S-1",
-    "golfers": [
-      "Scottie Scheffler",
-      "Collin Morikawa",
-      "Ludvig Aberg"
-    ]
-  },
-  {
-    "entrant_full_name": "Patrick Shanley",
-    "label": "Patrick S",
-    "pairing_id": "Patrick S-2",
-    "golfers": [
-      "Scottie Scheffler",
-      "Tommy Fleetwood",
-      "Shane Lowry"
-    ]
-  },
-  {
-    "entrant_full_name": "Patrick Shanley",
-    "label": "Patrick S",
-    "pairing_id": "Patrick S-3",
-    "golfers": [
       "Rory McIlroy",
       "Collin Morikawa",
-      "Robert MacIntyre"
+      "Min Woo Lee"
     ]
   },
   {
-    "entrant_full_name": "Patrick Shanley",
-    "label": "Patrick S",
-    "pairing_id": "Patrick S-4",
+    "entrant_full_name": "Nick Lopez",
+    "label": "Nick L",
+    "pairing_id": "Nick L-5",
     "golfers": [
-      "Scottie Scheffler",
-      "Justin Rose",
-      "Corey Conners"
-    ]
-  },
-  {
-    "entrant_full_name": "Patrick Shanley",
-    "label": "Patrick S",
-    "pairing_id": "Patrick S-5",
-    "golfers": [
-      "Rory McIlroy",
+      "Russell Henley",
       "Tommy Fleetwood",
-      "Tyrrell Hatton"
+      "Hideki Matsuyama"
     ]
   },
   {
-    "entrant_full_name": "Patrick Shanley",
-    "label": "Patrick S",
-    "pairing_id": "Patrick S-6",
-    "golfers": [
-      "Jon Rahm",
-      "Collin Morikawa",
-      "Shane Lowry"
-    ]
-  },
-  {
-    "entrant_full_name": "Peter McKee",
-    "label": "Pete",
-    "pairing_id": "Pete-1",
+    "entrant_full_name": "Nick Lopez",
+    "label": "Nick L",
+    "pairing_id": "Nick L-6",
     "golfers": [
       "Scottie Scheffler",
-      "Collin Morikawa",
-      "Si Woo Kim"
+      "Xander Schauffele",
+      "Tom Kim"
     ]
   },
   {
@@ -1094,9 +1034,9 @@
     "label": "Scott C",
     "pairing_id": "Scott C-1",
     "golfers": [
-      "Matt Fitzpatrick",
-      "Tommy Fleetwood",
-      "Shane Lowry"
+      "Cameron Young",
+      "Collin Morikawa",
+      "Max Homa"
     ]
   },
   {
@@ -1104,9 +1044,9 @@
     "label": "Scott C",
     "pairing_id": "Scott C-2",
     "golfers": [
-      "Scottie Scheffler",
-      "Collin Morikawa",
-      "Viktor Hovland"
+      "Cameron Young",
+      "Chris Gotterup",
+      "Sam Burns"
     ]
   },
   {
@@ -1114,9 +1054,39 @@
     "label": "Scott C",
     "pairing_id": "Scott C-3",
     "golfers": [
+      "Cameron Young",
+      "Tommy Fleetwood",
+      "Akshay Bhatia"
+    ]
+  },
+  {
+    "entrant_full_name": "Scott Calkins",
+    "label": "Scott C",
+    "pairing_id": "Scott C-4",
+    "golfers": [
       "Scottie Scheffler",
-      "Justin Rose",
-      "Nicolai Hojgaard"
+      "Xander Schauffele",
+      "Gary Woodland"
+    ]
+  },
+  {
+    "entrant_full_name": "Scott Calkins",
+    "label": "Scott C",
+    "pairing_id": "Scott C-5",
+    "golfers": [
+      "Rory McIlroy",
+      "Tommy Fleetwood",
+      "Justin Thomas"
+    ]
+  },
+  {
+    "entrant_full_name": "Scott Calkins",
+    "label": "Scott C",
+    "pairing_id": "Scott C-6",
+    "golfers": [
+      "Scottie Scheffler",
+      "Wyndham Clark",
+      "Viktor Hovland"
     ]
   },
   {
@@ -1124,9 +1094,9 @@
     "label": "Scott H",
     "pairing_id": "Scott H-1",
     "golfers": [
-      "Matt Fitzpatrick",
-      "Viktor Hovland",
-      "Xander Schauffele"
+      "Scottie Scheffler",
+      "Xander Schauffele",
+      "Viktor Hovland"
     ]
   },
   {
@@ -1134,9 +1104,9 @@
     "label": "Scott H",
     "pairing_id": "Scott H-2",
     "golfers": [
-      "Rory McIlroy",
-      "Viktor Hovland",
-      "Xander Schauffele"
+      "Cameron Young",
+      "Chris Gotterup",
+      "Hideki Matsuyama"
     ]
   },
   {
@@ -1144,9 +1114,9 @@
     "label": "Scott H",
     "pairing_id": "Scott H-3",
     "golfers": [
-      "Rory McIlroy",
-      "Justin Rose",
-      "Tom Kim"
+      "Scottie Scheffler",
+      "Tommy Fleetwood",
+      "Rickie Fowler"
     ]
   },
   {
@@ -1155,8 +1125,8 @@
     "pairing_id": "Scott H-4",
     "golfers": [
       "Rory McIlroy",
-      "Justin Rose",
-      "Jordan Spieth"
+      "Wyndham Clark",
+      "Sam Burns"
     ]
   },
   {
@@ -1165,8 +1135,8 @@
     "pairing_id": "Scott H-5",
     "golfers": [
       "Rory McIlroy",
-      "Chris Gotterup",
-      "Patrick Reed"
+      "Collin Morikawa",
+      "Tom Kim"
     ]
   },
   {
@@ -1174,9 +1144,9 @@
     "label": "Scott H",
     "pairing_id": "Scott H-6",
     "golfers": [
-      "Rory McIlroy",
+      "Scottie Scheffler",
       "Xander Schauffele",
-      "Tyrrell Hatton"
+      "Jordan Spieth"
     ]
   },
   {
@@ -1185,8 +1155,8 @@
     "pairing_id": "Scott Hobbs-1",
     "golfers": [
       "Scottie Scheffler",
-      "Collin Morikawa",
-      "Sam Burns"
+      "Xander Schauffele",
+      "Michael Kim"
     ]
   },
   {
@@ -1194,9 +1164,9 @@
     "label": "Scott Hobbs",
     "pairing_id": "Scott Hobbs-2",
     "golfers": [
-      "Rory McIlroy",
-      "Tommy Fleetwood",
-      "Ludvig Aberg"
+      "Russell Henley",
+      "Chris Gotterup",
+      "Sam Burns"
     ]
   },
   {
@@ -1204,9 +1174,9 @@
     "label": "Scott Hobbs",
     "pairing_id": "Scott Hobbs-3",
     "golfers": [
-      "Matt Fitzpatrick",
-      "Justin Rose",
-      "Viktor Hovland"
+      "Scottie Scheffler",
+      "Collin Morikawa",
+      "Nico Echavarria"
     ]
   },
   {
@@ -1214,9 +1184,9 @@
     "label": "Scott Hobbs",
     "pairing_id": "Scott Hobbs-4",
     "golfers": [
-      "Matt Fitzpatrick",
+      "Scottie Scheffler",
       "Wyndham Clark",
-      "Robert MacIntyre"
+      "Jackson Koivun"
     ]
   },
   {
@@ -1224,9 +1194,9 @@
     "label": "Scott Hobbs",
     "pairing_id": "Scott Hobbs-5",
     "golfers": [
-      "Russell Henley",
-      "Chris Gotterup",
-      "Aaron Rai"
+      "Rory McIlroy",
+      "Collin Morikawa",
+      "Michael Kim"
     ]
   },
   {
@@ -1234,49 +1204,9 @@
     "label": "Scott Hobbs",
     "pairing_id": "Scott Hobbs-6",
     "golfers": [
-      "Chris Gotterup",
-      "Min Woo Lee",
-      "Tom Kim"
-    ]
-  },
-  {
-    "entrant_full_name": "Scott Reynolds",
-    "label": "Scott R",
-    "pairing_id": "Scott R-1",
-    "golfers": [
-      "Matt Fitzpatrick",
-      "Chris Gotterup",
-      "Viktor Hovland"
-    ]
-  },
-  {
-    "entrant_full_name": "Sean Hutchison",
-    "label": "Sean H",
-    "pairing_id": "Sean H-1",
-    "golfers": [
-      "Matt Fitzpatrick",
-      "Chris Gotterup",
-      "Tom Kim"
-    ]
-  },
-  {
-    "entrant_full_name": "Sean Hutchison",
-    "label": "Sean H",
-    "pairing_id": "Sean H-2",
-    "golfers": [
-      "Rory McIlroy",
-      "Tommy Fleetwood",
-      "Robert MacIntyre"
-    ]
-  },
-  {
-    "entrant_full_name": "Sean Hutchison",
-    "label": "Sean H",
-    "pairing_id": "Sean H-3",
-    "golfers": [
-      "Matt Fitzpatrick",
-      "Tommy Fleetwood",
-      "Min Woo Lee"
+      "Scottie Scheffler",
+      "Xander Schauffele",
+      "Michael Brennan"
     ]
   },
   {
@@ -1285,8 +1215,8 @@
     "pairing_id": "Sean Hogan-1",
     "golfers": [
       "Scottie Scheffler",
-      "Wyndham Clark",
-      "Xander Schauffele"
+      "Collin Morikawa",
+      "Sam Burns"
     ]
   },
   {
@@ -1294,9 +1224,9 @@
     "label": "Sean Hogan",
     "pairing_id": "Sean Hogan-2",
     "golfers": [
-      "Cameron Young",
-      "Justin Rose",
-      "Viktor Hovland"
+      "Rory McIlroy",
+      "Tommy Fleetwood",
+      "Hideki Matsuyama"
     ]
   },
   {
@@ -1304,9 +1234,19 @@
     "label": "Sean Hogan",
     "pairing_id": "Sean Hogan-3",
     "golfers": [
-      "Rory McIlroy",
-      "Sam Burns",
-      "Tyrrell Hatton"
+      "Cameron Young",
+      "Xander Schauffele",
+      "Ludvig Aberg"
+    ]
+  },
+  {
+    "entrant_full_name": "Sean Hogan",
+    "label": "Sean Hogan",
+    "pairing_id": "Sean Hogan-4",
+    "golfers": [
+      "Chris Gotterup",
+      "Wyndham Clark",
+      "Ludvig Aberg"
     ]
   },
   {
@@ -1314,9 +1254,9 @@
     "label": "Shawn K",
     "pairing_id": "Shawn K-1",
     "golfers": [
-      "Rory McIlroy",
-      "Chris Gotterup",
-      "Xander Schauffele"
+      "Scottie Scheffler",
+      "Xander Schauffele",
+      "Viktor Hovland"
     ]
   },
   {
@@ -1324,9 +1264,9 @@
     "label": "Shawn K",
     "pairing_id": "Shawn K-2",
     "golfers": [
-      "Rory McIlroy",
-      "Wyndham Clark",
-      "Robert MacIntyre"
+      "Cameron Young",
+      "Xander Schauffele",
+      "Sam Burns"
     ]
   },
   {
@@ -1334,9 +1274,9 @@
     "label": "Shawn K",
     "pairing_id": "Shawn K-3",
     "golfers": [
-      "Matt Fitzpatrick",
-      "Justin Rose",
-      "Xander Schauffele"
+      "Rory McIlroy",
+      "Tommy Fleetwood",
+      "Patrick Cantlay"
     ]
   },
   {
@@ -1344,9 +1284,29 @@
     "label": "Shawn K",
     "pairing_id": "Shawn K-4",
     "golfers": [
-      "Matt Fitzpatrick",
+      "Scottie Scheffler",
+      "Sam Burns",
+      "Si Woo Kim"
+    ]
+  },
+  {
+    "entrant_full_name": "Shawn Kicherer",
+    "label": "Shawn K",
+    "pairing_id": "Shawn K-5",
+    "golfers": [
+      "Rory McIlroy",
       "Xander Schauffele",
-      "Tyrrell Hatton"
+      "Hideki Matsuyama"
+    ]
+  },
+  {
+    "entrant_full_name": "Shawn Kicherer",
+    "label": "Shawn K",
+    "pairing_id": "Shawn K-6",
+    "golfers": [
+      "Matt Fitzpatrick",
+      "Collin Morikawa",
+      "Ludvig Aberg"
     ]
   },
   {
@@ -1355,44 +1315,14 @@
     "pairing_id": "Steve S-1",
     "golfers": [
       "Scottie Scheffler",
-      "Justin Rose",
-      "Viktor Hovland"
-    ]
-  },
-  {
-    "entrant_full_name": "Steve Sawtell",
-    "label": "Steve S",
-    "pairing_id": "Steve S-2",
-    "golfers": [
-      "Rory McIlroy",
       "Wyndham Clark",
-      "Robert MacIntyre"
-    ]
-  },
-  {
-    "entrant_full_name": "Steve Sawtell",
-    "label": "Steve S",
-    "pairing_id": "Steve S-3",
-    "golfers": [
-      "Rory McIlroy",
-      "Tommy Fleetwood",
       "Si Woo Kim"
     ]
   },
   {
     "entrant_full_name": "Steve Sawtell",
     "label": "Steve S",
-    "pairing_id": "Steve S-4",
-    "golfers": [
-      "Jon Rahm",
-      "Wyndham Clark",
-      "Jordan Spieth"
-    ]
-  },
-  {
-    "entrant_full_name": "Steve Sawtell",
-    "label": "Steve S",
-    "pairing_id": "Steve S-5",
+    "pairing_id": "Steve S-2",
     "golfers": [
       "Matt Fitzpatrick",
       "Chris Gotterup",
@@ -1402,11 +1332,41 @@
   {
     "entrant_full_name": "Steve Sawtell",
     "label": "Steve S",
+    "pairing_id": "Steve S-3",
+    "golfers": [
+      "Cameron Young",
+      "Collin Morikawa",
+      "Ludvig Aberg"
+    ]
+  },
+  {
+    "entrant_full_name": "Steve Sawtell",
+    "label": "Steve S",
+    "pairing_id": "Steve S-4",
+    "golfers": [
+      "Rory McIlroy",
+      "Tommy Fleetwood",
+      "Viktor Hovland"
+    ]
+  },
+  {
+    "entrant_full_name": "Steve Sawtell",
+    "label": "Steve S",
+    "pairing_id": "Steve S-5",
+    "golfers": [
+      "Russell Henley",
+      "Xander Schauffele",
+      "Sam Burns"
+    ]
+  },
+  {
+    "entrant_full_name": "Steve Sawtell",
+    "label": "Steve S",
     "pairing_id": "Steve S-6",
     "golfers": [
-      "Scottie Scheffler",
-      "Tommy Fleetwood",
-      "Tom Kim"
+      "Rory McIlroy",
+      "Chris Gotterup",
+      "Justin Rose"
     ]
   },
   {
@@ -1414,9 +1374,9 @@
     "label": "Teddy M",
     "pairing_id": "Teddy M-1",
     "golfers": [
-      "Rory McIlroy",
+      "Scottie Scheffler",
       "Collin Morikawa",
-      "Justin Thomas"
+      "Sam Burns"
     ]
   },
   {
@@ -1424,9 +1384,9 @@
     "label": "Teddy M",
     "pairing_id": "Teddy M-2",
     "golfers": [
-      "Scottie Scheffler",
-      "Chris Gotterup",
-      "Viktor Hovland"
+      "Rory McIlroy",
+      "Wyndham Clark",
+      "Sam Burns"
     ]
   },
   {
@@ -1434,9 +1394,9 @@
     "label": "Teddy M",
     "pairing_id": "Teddy M-3",
     "golfers": [
-      "Matt Fitzpatrick",
-      "Collin Morikawa",
-      "Aaron Rai"
+      "Scottie Scheffler",
+      "Xander Schauffele",
+      "Ludvig Aberg"
     ]
   },
   {
@@ -1446,7 +1406,7 @@
     "golfers": [
       "Rory McIlroy",
       "Tommy Fleetwood",
-      "Xander Schauffele"
+      "Si Woo Kim"
     ]
   },
   {
@@ -1455,8 +1415,8 @@
     "pairing_id": "Teddy M-5",
     "golfers": [
       "Cameron Young",
-      "Justin Rose",
-      "Wyndham Clark"
+      "Collin Morikawa",
+      "Sam Burns"
     ]
   },
   {
@@ -1464,8 +1424,8 @@
     "label": "Teddy M",
     "pairing_id": "Teddy M-6",
     "golfers": [
-      "Rory McIlroy",
-      "J.J. Spaun",
+      "Russell Henley",
+      "Wyndham Clark",
       "Ludvig Aberg"
     ]
   },
@@ -1474,9 +1434,9 @@
     "label": "Todd S",
     "pairing_id": "Todd S-1",
     "golfers": [
-      "Matt Fitzpatrick",
-      "Justin Rose",
-      "Tom Kim"
+      "Scottie Scheffler",
+      "Xander Schauffele",
+      "Sam Burns"
     ]
   },
   {
@@ -1484,9 +1444,9 @@
     "label": "Todd S",
     "pairing_id": "Todd S-2",
     "golfers": [
-      "Rory McIlroy",
-      "Wyndham Clark",
-      "Tyrrell Hatton"
+      "Cameron Young",
+      "Collin Morikawa",
+      "Hideki Matsuyama"
     ]
   },
   {
@@ -1494,29 +1454,79 @@
     "label": "Todd S",
     "pairing_id": "Todd S-3",
     "golfers": [
-      "Scottie Scheffler",
-      "Chris Gotterup",
-      "Patrick Reed"
-    ]
-  },
-  {
-    "entrant_full_name": "Zach Dobek",
-    "label": "Zach D",
-    "pairing_id": "Zach D-1",
-    "golfers": [
       "Rory McIlroy",
-      "Tommy Fleetwood",
-      "Viktor Hovland"
+      "Robert MacIntyre",
+      "Justin Rose"
     ]
   },
   {
-    "entrant_full_name": "Zach Dobek",
-    "label": "Zach D",
-    "pairing_id": "Zach D-2",
+    "entrant_full_name": "Todd Smith",
+    "label": "Todd S",
+    "pairing_id": "Todd S-4",
     "golfers": [
       "Matt Fitzpatrick",
-      "Tommy Fleetwood",
-      "Viktor Hovland"
+      "Wyndham Clark",
+      "Tom Kim"
+    ]
+  },
+  {
+    "entrant_full_name": "Zach Taylor",
+    "label": "Zach T",
+    "pairing_id": "Zach T-1",
+    "golfers": [
+      "Scottie Scheffler",
+      "Tom Kim",
+      "Si Woo Kim"
+    ]
+  },
+  {
+    "entrant_full_name": "Zach Taylor",
+    "label": "Zach T",
+    "pairing_id": "Zach T-2",
+    "golfers": [
+      "Cameron Young",
+      "Xander Schauffele",
+      "Si Woo Kim"
+    ]
+  },
+  {
+    "entrant_full_name": "Zach Taylor",
+    "label": "Zach T",
+    "pairing_id": "Zach T-3",
+    "golfers": [
+      "Rory McIlroy",
+      "Wyndham Clark",
+      "Akshay Bhatia"
+    ]
+  },
+  {
+    "entrant_full_name": "Zach Taylor",
+    "label": "Zach T",
+    "pairing_id": "Zach T-4",
+    "golfers": [
+      "Matt Fitzpatrick",
+      "Collin Morikawa",
+      "Ryan Fox"
+    ]
+  },
+  {
+    "entrant_full_name": "Zach Taylor",
+    "label": "Zach T",
+    "pairing_id": "Zach T-5",
+    "golfers": [
+      "Scottie Scheffler",
+      "Wyndham Clark",
+      "Si Woo Kim"
+    ]
+  },
+  {
+    "entrant_full_name": "Zach Taylor",
+    "label": "Zach T",
+    "pairing_id": "Zach T-6",
+    "golfers": [
+      "Russell Henley",
+      "Xander Schauffele",
+      "Gary Woodland"
     ]
   }
 ]
