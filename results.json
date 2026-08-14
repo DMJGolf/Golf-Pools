@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T13:00:20.997271+00:00",
+  "last_updated": "2026-08-14T13:15:16.274872+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Niall Johnston",
@@ -1635,7 +1635,7 @@
         {
           "name": "Patrick Cantlay",
           "score": -1,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -3898,7 +3898,7 @@
         {
           "name": "Patrick Cantlay",
           "score": -1,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -3991,7 +3991,7 @@
         {
           "name": "Patrick Cantlay",
           "score": -1,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -4311,6 +4311,37 @@
       "rank": 139
     },
     {
+      "entrant_full_name": "Scott Calkins",
+      "label": "Scott C",
+      "pairing_id": "Scott C-1",
+      "golfers": [
+        {
+          "name": "Cameron Young",
+          "score": -1,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Collin Morikawa",
+          "score": 1,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Max Homa",
+          "score": 2,
+          "thru": 4,
+          "today": -1,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": 2,
+      "status": "LIVE",
+      "rank": 140
+    },
+    {
       "entrant_full_name": "Jude Green",
       "label": "Jude",
       "pairing_id": "Jude-3",
@@ -4339,7 +4370,7 @@
       ],
       "total_score": 3,
       "status": "LIVE",
-      "rank": 140
+      "rank": 141
     },
     {
       "entrant_full_name": "Kristina Kinard",
@@ -4370,7 +4401,7 @@
       ],
       "total_score": 3,
       "status": "LIVE",
-      "rank": 141
+      "rank": 142
     },
     {
       "entrant_full_name": "Mark Johnson",
@@ -4395,37 +4426,6 @@
           "name": "Si Woo Kim",
           "score": 0,
           "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": 3,
-      "status": "LIVE",
-      "rank": 142
-    },
-    {
-      "entrant_full_name": "Scott Calkins",
-      "label": "Scott C",
-      "pairing_id": "Scott C-1",
-      "golfers": [
-        {
-          "name": "Cameron Young",
-          "score": -1,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Collin Morikawa",
-          "score": 1,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Max Homa",
-          "score": 3,
-          "thru": 2,
           "today": 0,
           "status": "LIVE"
         }
