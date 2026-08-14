@@ -62,10 +62,12 @@ def parse_live_rows(rows):
     return live
 
 
-def compute_pairing(entrant_full_name, label, pairing_id, golfer_names, live_data):
+def compute_pairing(entrant_full_name, label, pairing_id, golfer_names, live_data, side_pool=False):
     """
     golfer_names: list of 3 golfer names (First Last format) making up this Pairing
     live_data: output of parse_live_rows()
+    side_pool: whether this Pairing's entrant is in the tournament's side pool
+               (carried through from pairings.json, sourced from Master column AH)
 
     Returns a dict describing this Pairing's live status. Both entrant_full_name
     and label are carried through so the leaderboard can search/display on either.
@@ -110,6 +112,7 @@ def compute_pairing(entrant_full_name, label, pairing_id, golfer_names, live_dat
         'golfers': golfer_detail,
         'total_score': total if pairing_status == 'LIVE' else None,
         'status': pairing_status,
+        'side_pool': side_pool,
     }
 
 
@@ -125,7 +128,8 @@ def build_leaderboard(pairings, live_data):
     results = []
     for p in pairings:
         results.append(compute_pairing(
-            p['entrant_full_name'], p['label'], p['pairing_id'], p['golfers'], live_data
+            p['entrant_full_name'], p['label'], p['pairing_id'], p['golfers'], live_data,
+            side_pool=p.get('side_pool', False)
         ))
 
     live_results = [r for r in results if r['status'] == 'LIVE']

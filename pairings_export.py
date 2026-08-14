@@ -5,20 +5,27 @@ Reads the Master workbook's Pairings sheet (built from Intake, verified against
 Master Column P) and produces pairings.json for the live-scoring pipeline.
 
 Usage:
-    python pairings_export.py Open_Master_2026_2.xlsx pairings.json
+    python pairings_export.py Master_Spreadsheet_FedEx_Cup_13.xlsx pairings.json
 
 Output format (list of dicts, one per Pairing):
     {
         "entrant_full_name": "Amy Foley",
         "label": "Amy F",
         "pairing_id": "Amy F-1",
-        "golfers": ["Scottie Scheffler", "Chris Gotterup", "Viktor Hovland"]
+        "golfers": ["Scottie Scheffler", "Chris Gotterup", "Viktor Hovland"],
+        "side_pool": false
     }
 
 entrant_full_name and label are both included per the leaderboard's search
 requirement (entrants may search by either). Full names are pulled from the
-Master sheet's compact Entrant First/Last columns (H, I), matched to the
-Pairings sheet by label.
+Master sheet's compact Entrant First/Last columns (I, J), matched to the
+Pairings sheet by label in column K. (Corrected 2026-08-14 — columns had
+shifted one over from the H/I/J originally assumed here; see Master row 1
+headers if this ever needs reconfirming.)
+
+side_pool reflects Master column AH ("Side Pool"), which Dale marks per
+entrant (fill-down formula covers every pairing row for that entrant — see
+Reference Document Section 15.3). Membership is set per tournament.
 
 Blocks with fewer than 3 golfers (e.g. an entrant whose data is still pending,
 like Tracy Brown as of this build) are skipped and reported, not written as
@@ -31,20 +38,35 @@ import openpyxl
 
 
 def build_label_to_name_map(master_ws):
-    """Forward-fill Master!H (First), I (Last) against J (label) -> {label: 'First Last'}"""
+    """Forward-fill Master!I (First), J (Last) against K (label) -> {label: 'First Last'}"""
     mapping = {}
     cur_first = cur_last = None
     r = 2
-    while master_ws.cell(r, 10).value:  # column J = label
-        h = master_ws.cell(r, 8).value
+    while master_ws.cell(r, 11).value:  # column K = label
         i = master_ws.cell(r, 9).value
         j = master_ws.cell(r, 10).value
-        if h:
-            cur_first, cur_last = h.strip(), i.strip()
-        if j not in mapping:
-            mapping[j] = f"{cur_first.strip()} {cur_last.strip()}"
+        k = master_ws.cell(r, 11).value
+        if i:
+            cur_first, cur_last = i.strip(), j.strip()
+        if k not in mapping:
+            mapping[k] = f"{cur_first.strip()} {cur_last.strip()}"
         r += 1
     return mapping
+
+
+def build_side_pool_labels(master_ws):
+    """Scan Master!K (label) against AH (Side Pool) -> set of labels marked 'Yes'.
+    AH is filled down for every pairing row of a marked entrant (see Master Section 15.3
+    for the fill-down formula), so checking any row for that label is sufficient."""
+    labels = set()
+    r = 2
+    while master_ws.cell(r, 11).value:
+        k = master_ws.cell(r, 11).value
+        ah = master_ws.cell(r, 34).value  # column AH = Side Pool
+        if isinstance(ah, str) and ah.strip().lower() == 'yes':
+            labels.add(k)
+        r += 1
+    return labels
 
 
 def export_pairings(workbook_path, output_path):
@@ -53,6 +75,7 @@ def export_pairings(workbook_path, output_path):
     pairings_ws = wb['Pairings']
 
     label_to_name = build_label_to_name_map(master_ws)
+    side_pool_labels = build_side_pool_labels(master_ws)
 
     records = []
     skipped = []
@@ -75,6 +98,7 @@ def export_pairings(workbook_path, output_path):
                     "label": label,
                     "pairing_id": f"{label}-{pairing_num}",
                     "golfers": golfers,
+                    "side_pool": label in side_pool_labels,
                 })
             r += 4  # advance to next block (3 golfer rows + 1 blank separator)
         else:
@@ -93,6 +117,6 @@ def export_pairings(workbook_path, output_path):
 
 
 if __name__ == '__main__':
-    workbook_path = sys.argv[1] if len(sys.argv) > 1 else 'Open_Master_2026_2.xlsx'
+    workbook_path = sys.argv[1] if len(sys.argv) > 1 else 'Master_Spreadsheet_FedEx_Cup_13.xlsx'
     output_path = sys.argv[2] if len(sys.argv) > 2 else 'pairings.json'
     export_pairings(workbook_path, output_path)
