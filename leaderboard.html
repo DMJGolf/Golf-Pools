@@ -282,7 +282,10 @@
   <section class="board" id="live-board">
     <div class="board-title-row">
       <div class="board-title" id="board-title">Live &mdash; Top 10 Pairings</div>
-      <button class="toggle-count" id="toggle-count" type="button">Show Top 20</button>
+      <div style="display:flex; gap:0.5rem;">
+        <button class="toggle-count" id="sidepool-toggle" type="button">Side Pool</button>
+        <button class="toggle-count" id="toggle-count" type="button">Show Top 20</button>
+      </div>
     </div>
     <div id="live-rows"></div>
   </section>
@@ -357,6 +360,17 @@ function render(data, filterText) {
   document.getElementById('hdr-updated').textContent =
     'Last updated ' + new Date(data.last_updated).toLocaleString([], { hour: '2-digit', minute: '2-digit', month: 'short', day: 'numeric' });
 
+  document.getElementById('sidepool-toggle').textContent = sideMode ? 'Main Pool' : 'Side Pool';
+  document.getElementById('toggle-count').style.display = sideMode ? 'none' : '';
+
+  if (sideMode) {
+    renderSidePool(data, filter);
+  } else {
+    renderMainPool(data, filter);
+  }
+}
+
+function renderMainPool(data, filter) {
   const live = data.leaderboard.filter(e => e.status === 'LIVE');
   const cut = data.leaderboard.filter(e => e.status === 'CUT');
 
@@ -408,8 +422,65 @@ function render(data, filterText) {
   }
 }
 
+// Side Pool mode: only Pairings belonging to entrants flagged side_pool are shown at
+// all (not a filtered view of the main board — a wholly separate, self-contained
+// board), ranked only against each other. No Top 10/20 concept applies here since
+// per Dale's spec "no other results would be displayed."
+function renderSidePool(data, filter) {
+  const sideLive = data.leaderboard
+    .filter(e => e.status === 'LIVE' && e.side_pool)
+    .sort((a, b) => a.total_score - b.total_score);
+  sideLive.forEach((e, i) => { e.localRank = i + 1; });
+  const sideCut = data.leaderboard.filter(e => e.status === 'CUT' && e.side_pool);
+
+  document.getElementById('board-title').textContent = 'Side Pool \u2014 Live Standings';
+
+  const liveRowsEl = document.getElementById('live-rows');
+  liveRowsEl.innerHTML = '';
+  if (sideLive.length === 0) {
+    const empty = document.createElement('div');
+    empty.style.cssText = 'padding:0.75rem 0.8rem; font-family:"IBM Plex Mono",monospace; font-size:0.8rem; color:var(--paper-dim);';
+    empty.textContent = 'No live Side Pool Pairings.';
+    liveRowsEl.appendChild(empty);
+  } else {
+    sideLive.forEach(e => {
+      liveRowsEl.appendChild(renderRow({ ...e, rank: e.localRank }, matchesQuery(e, filter)));
+    });
+  }
+
+  const cutRowsEl = document.getElementById('cut-rows');
+  const cutBoard = document.getElementById('cut-board');
+  cutRowsEl.innerHTML = '';
+  if (sideCut.length) {
+    cutBoard.style.display = '';
+    sideCut.forEach(e => cutRowsEl.appendChild(renderRow(e, matchesQuery(e, filter))));
+  } else {
+    cutBoard.style.display = 'none';
+  }
+
+  const resultMsg = document.getElementById('my-pairing-result');
+  if (!filter) {
+    resultMsg.textContent = '';
+  } else {
+    const foundLive = sideLive.filter(e => matchesQuery(e, filter));
+    const foundCut = sideCut.filter(e => matchesQuery(e, filter));
+    const totalFound = foundLive.length + foundCut.length;
+    if (totalFound === 0) {
+      resultMsg.textContent = 'No Side Pool Pairing found for that name.';
+    } else if (foundLive.length === 0) {
+      resultMsg.textContent = 'All of your Side Pool Pairings have been cut — see below.';
+    } else if (foundLive.length === 1) {
+      resultMsg.textContent = `Your Pairing is ranked ${foundLive[0].localRank} of ${sideLive.length} in the Side Pool.`;
+    } else {
+      const ranks = foundLive.map(e => e.localRank).join(', ');
+      resultMsg.textContent = `Your Pairings are ranked ${ranks} of ${sideLive.length} in the Side Pool.`;
+    }
+  }
+}
+
 let currentData = null;
 let visibleCount = 10;
+let sideMode = false;
 
 loadResults().then(data => {
   currentData = data;
@@ -424,6 +495,11 @@ document.getElementById('entrant-search').addEventListener('input', (e) => {
 
 document.getElementById('toggle-count').addEventListener('click', () => {
   visibleCount = visibleCount === 10 ? 20 : 10;
+  if (currentData) render(currentData, document.getElementById('entrant-search').value);
+});
+
+document.getElementById('sidepool-toggle').addEventListener('click', () => {
+  sideMode = !sideMode;
   if (currentData) render(currentData, document.getElementById('entrant-search').value);
 });
 
