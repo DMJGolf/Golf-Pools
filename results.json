@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T12:17:32.787437+00:00",
+  "last_updated": "2026-08-15T12:30:18.682517+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Dennis Picht",
@@ -2039,7 +2039,7 @@
         {
           "name": "Alex Fitzpatrick",
           "score": 5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -3063,7 +3063,7 @@
         {
           "name": "Alex Fitzpatrick",
           "score": 5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -4631,7 +4631,7 @@
         {
           "name": "Alex Fitzpatrick",
           "score": 5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -4791,7 +4791,7 @@
         {
           "name": "Ryan Fox",
           "score": 6,
-          "thru": 1,
+          "thru": 2,
           "today": 0,
           "status": "LIVE"
         }
