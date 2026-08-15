@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T00:00:23.010123+00:00",
+  "last_updated": "2026-08-15T00:15:15.162149+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Dennis Picht",
@@ -254,7 +254,7 @@
       ],
       "total_score": -20,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 8
     },
     {
@@ -318,7 +318,7 @@
       ],
       "total_score": -20,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 10
     },
     {
@@ -350,7 +350,7 @@
       ],
       "total_score": -20,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 11
     },
     {
@@ -734,7 +734,7 @@
       ],
       "total_score": -18,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 23
     },
     {
@@ -862,7 +862,7 @@
       ],
       "total_score": -17,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 27
     },
     {
@@ -894,7 +894,7 @@
       ],
       "total_score": -17,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 28
     },
     {
@@ -962,38 +962,6 @@
       "rank": 30
     },
     {
-      "entrant_full_name": "Niall Johnston",
-      "label": "Niall J",
-      "pairing_id": "Niall J-3",
-      "golfers": [
-        {
-          "name": "Scottie Scheffler",
-          "score": -11,
-          "thru": 18,
-          "today": -9,
-          "status": "LIVE"
-        },
-        {
-          "name": "Tommy Fleetwood",
-          "score": -6,
-          "thru": 18,
-          "today": -2,
-          "status": "LIVE"
-        },
-        {
-          "name": "Michael Thorbjornsen",
-          "score": 0,
-          "thru": 18,
-          "today": 5,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -17,
-      "status": "LIVE",
-      "side_pool": false,
-      "rank": 31
-    },
-    {
       "entrant_full_name": "Scott Hobbs",
       "label": "Scott Hobbs",
       "pairing_id": "Scott Hobbs-3",
@@ -1023,7 +991,7 @@
       "total_score": -17,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 32
+      "rank": 31
     },
     {
       "entrant_full_name": "Eric Cheeks",
@@ -1055,7 +1023,7 @@
       "total_score": -16,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 33
+      "rank": 32
     },
     {
       "entrant_full_name": "James Clark",
@@ -1086,8 +1054,8 @@
       ],
       "total_score": -16,
       "status": "LIVE",
-      "side_pool": false,
-      "rank": 34
+      "side_pool": true,
+      "rank": 33
     },
     {
       "entrant_full_name": "Max Hensley",
@@ -1113,6 +1081,38 @@
           "score": -8,
           "thru": 18,
           "today": -6,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -16,
+      "status": "LIVE",
+      "side_pool": false,
+      "rank": 34
+    },
+    {
+      "entrant_full_name": "Niall Johnston",
+      "label": "Niall J",
+      "pairing_id": "Niall J-3",
+      "golfers": [
+        {
+          "name": "Scottie Scheffler",
+          "score": -11,
+          "thru": 18,
+          "today": -9,
+          "status": "LIVE"
+        },
+        {
+          "name": "Tommy Fleetwood",
+          "score": -6,
+          "thru": 18,
+          "today": -2,
+          "status": "LIVE"
+        },
+        {
+          "name": "Tom Kim",
+          "score": 1,
+          "thru": 18,
+          "today": 2,
           "status": "LIVE"
         }
       ],
@@ -1438,7 +1438,7 @@
       ],
       "total_score": -15,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 45
     },
     {
@@ -1502,7 +1502,7 @@
       ],
       "total_score": -15,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 47
     },
     {
@@ -1694,7 +1694,7 @@
       ],
       "total_score": -14,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 53
     },
     {
@@ -1726,7 +1726,7 @@
       ],
       "total_score": -14,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 54
     },
     {
@@ -1758,7 +1758,7 @@
       ],
       "total_score": -14,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 55
     },
     {
@@ -2110,7 +2110,7 @@
       ],
       "total_score": -12,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 66
     },
     {
@@ -2334,7 +2334,7 @@
       ],
       "total_score": -11,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 73
     },
     {
@@ -2398,7 +2398,7 @@
       ],
       "total_score": -11,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 75
     },
     {
@@ -2430,7 +2430,7 @@
       ],
       "total_score": -11,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 76
     },
     {
@@ -2526,7 +2526,7 @@
       ],
       "total_score": -10,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 79
     },
     {
@@ -2590,7 +2590,7 @@
       ],
       "total_score": -10,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 81
     },
     {
@@ -2878,7 +2878,7 @@
       ],
       "total_score": -9,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 90
     },
     {
@@ -3102,7 +3102,7 @@
       ],
       "total_score": -7,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 97
     },
     {
@@ -3198,7 +3198,7 @@
       ],
       "total_score": -7,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 100
     },
     {
@@ -3902,7 +3902,7 @@
       ],
       "total_score": -4,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 122
     },
     {
@@ -3934,7 +3934,7 @@
       ],
       "total_score": -4,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 123
     },
     {
@@ -4254,7 +4254,7 @@
       ],
       "total_score": -1,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 133
     },
     {
@@ -4382,7 +4382,7 @@
       ],
       "total_score": 0,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 137
     },
     {
@@ -4478,7 +4478,7 @@
       ],
       "total_score": 1,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 140
     },
     {
@@ -4670,7 +4670,7 @@
       ],
       "total_score": 2,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 146
     },
     {
@@ -4830,7 +4830,7 @@
       ],
       "total_score": 4,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 151
     },
     {
