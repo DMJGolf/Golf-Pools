@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T16:40:49.987748+00:00",
+  "last_updated": "2026-08-16T16:45:13.230630+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Bilal Ashraf",
@@ -336,7 +336,7 @@
         {
           "name": "Wyndham Clark",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -368,7 +368,7 @@
         {
           "name": "Wyndham Clark",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -400,7 +400,7 @@
         {
           "name": "Chris Gotterup",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -656,7 +656,7 @@
         {
           "name": "Chris Gotterup",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -720,7 +720,7 @@
         {
           "name": "Wyndham Clark",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -784,7 +784,7 @@
         {
           "name": "Wyndham Clark",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -866,6 +866,38 @@
       "rank": 27
     },
     {
+      "entrant_full_name": "Scott Henderson",
+      "label": "Scott H",
+      "pairing_id": "Scott H-3",
+      "golfers": [
+        {
+          "name": "Scottie Scheffler",
+          "score": -13,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Tommy Fleetwood",
+          "score": -8,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Rickie Fowler",
+          "score": -4,
+          "thru": 3,
+          "today": -1,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -25,
+      "status": "LIVE",
+      "side_pool": false,
+      "rank": 28
+    },
+    {
       "entrant_full_name": "Shawn Kicherer",
       "label": "Shawn K",
       "pairing_id": "Shawn K-1",
@@ -895,7 +927,7 @@
       "total_score": -25,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 28
+      "rank": 29
     },
     {
       "entrant_full_name": "Steve Sawtell",
@@ -912,7 +944,7 @@
         {
           "name": "Wyndham Clark",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -927,7 +959,7 @@
       "total_score": -25,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 29
+      "rank": 30
     },
     {
       "entrant_full_name": "Zach Taylor",
@@ -944,7 +976,7 @@
         {
           "name": "Wyndham Clark",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -959,7 +991,7 @@
       "total_score": -25,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 30
+      "rank": 31
     },
     {
       "entrant_full_name": "Dale Johnson",
@@ -991,7 +1023,7 @@
       "total_score": -24,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 31
+      "rank": 32
     },
     {
       "entrant_full_name": "Niall Johnston",
@@ -1008,7 +1040,7 @@
         {
           "name": "Wyndham Clark",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -1023,7 +1055,7 @@
       "total_score": -24,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 32
+      "rank": 33
     },
     {
       "entrant_full_name": "Scott Calkins",
@@ -1040,7 +1072,7 @@
         {
           "name": "Wyndham Clark",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -1048,38 +1080,6 @@
           "name": "Viktor Hovland",
           "score": -6,
           "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -24,
-      "status": "LIVE",
-      "side_pool": false,
-      "rank": 33
-    },
-    {
-      "entrant_full_name": "Scott Henderson",
-      "label": "Scott H",
-      "pairing_id": "Scott H-3",
-      "golfers": [
-        {
-          "name": "Scottie Scheffler",
-          "score": -13,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Tommy Fleetwood",
-          "score": -8,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Rickie Fowler",
-          "score": -3,
-          "thru": 2,
           "today": 0,
           "status": "LIVE"
         }
@@ -1111,7 +1111,7 @@
         {
           "name": "Jordan Spieth",
           "score": -5,
-          "thru": 2,
+          "thru": 3,
           "today": -1,
           "status": "LIVE"
         }
@@ -1289,7 +1289,7 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
@@ -1321,7 +1321,7 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
@@ -1424,7 +1424,7 @@
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -1449,7 +1449,7 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
@@ -1488,7 +1488,7 @@
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -1538,38 +1538,6 @@
       "rank": 48
     },
     {
-      "entrant_full_name": "Niall Johnston",
-      "label": "Niall J",
-      "pairing_id": "Niall J-1",
-      "golfers": [
-        {
-          "name": "Scottie Scheffler",
-          "score": -13,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Tommy Fleetwood",
-          "score": -8,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Michael Thorbjornsen",
-          "score": 0,
-          "thru": 15,
-          "today": -2,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -21,
-      "status": "LIVE",
-      "side_pool": false,
-      "rank": 49
-    },
-    {
       "entrant_full_name": "Nick Lopez",
       "label": "Nick L",
       "pairing_id": "Nick L-2",
@@ -1599,7 +1567,7 @@
       "total_score": -21,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 50
+      "rank": 49
     },
     {
       "entrant_full_name": "Scott Calkins",
@@ -1631,7 +1599,7 @@
       "total_score": -21,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 51
+      "rank": 50
     },
     {
       "entrant_full_name": "Scott Hobbs",
@@ -1648,14 +1616,14 @@
         {
           "name": "Wyndham Clark",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Jackson Koivun",
           "score": -3,
-          "thru": 3,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         }
@@ -1663,7 +1631,7 @@
       "total_score": -21,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 52
+      "rank": 51
     },
     {
       "entrant_full_name": "Sean Hogan",
@@ -1680,7 +1648,7 @@
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -1695,7 +1663,7 @@
       "total_score": -21,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 53
+      "rank": 52
     },
     {
       "entrant_full_name": "Teddy Minner",
@@ -1712,7 +1680,7 @@
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -1727,7 +1695,7 @@
       "total_score": -21,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 54
+      "rank": 53
     },
     {
       "entrant_full_name": "Dale Johnson",
@@ -1759,7 +1727,7 @@
       "total_score": -20,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 55
+      "rank": 54
     },
     {
       "entrant_full_name": "Steve Sawtell",
@@ -1776,7 +1744,7 @@
         {
           "name": "Chris Gotterup",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -1791,7 +1759,7 @@
       "total_score": -20,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 56
+      "rank": 55
     },
     {
       "entrant_full_name": "Steve Sawtell",
@@ -1823,7 +1791,7 @@
       "total_score": -20,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 57
+      "rank": 56
     },
     {
       "entrant_full_name": "Dale Johnson",
@@ -1855,7 +1823,7 @@
       "total_score": -19,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 58
+      "rank": 57
     },
     {
       "entrant_full_name": "Dennis Picht",
@@ -1887,7 +1855,7 @@
       "total_score": -19,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 59
+      "rank": 58
     },
     {
       "entrant_full_name": "Jennifer Thomas",
@@ -1904,7 +1872,7 @@
         {
           "name": "Chris Gotterup",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -1912,6 +1880,38 @@
           "name": "Justin Thomas",
           "score": -1,
           "thru": 9,
+          "today": 0,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -19,
+      "status": "LIVE",
+      "side_pool": false,
+      "rank": 59
+    },
+    {
+      "entrant_full_name": "Niall Johnston",
+      "label": "Niall J",
+      "pairing_id": "Niall J-1",
+      "golfers": [
+        {
+          "name": "Scottie Scheffler",
+          "score": -13,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Tommy Fleetwood",
+          "score": -8,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Michael Thorbjornsen",
+          "score": 2,
+          "thru": 16,
           "today": 0,
           "status": "LIVE"
         }
@@ -1936,7 +1936,7 @@
         {
           "name": "Chris Gotterup",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -1993,7 +1993,7 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
@@ -2025,14 +2025,14 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
         {
           "name": "Chris Gotterup",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -2089,14 +2089,14 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
         {
           "name": "Chris Gotterup",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -2153,7 +2153,7 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
@@ -2192,7 +2192,7 @@
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -2224,7 +2224,7 @@
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -2256,7 +2256,7 @@
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -2320,7 +2320,7 @@
         {
           "name": "Chris Gotterup",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -2345,7 +2345,7 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
@@ -2384,7 +2384,7 @@
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -2441,7 +2441,7 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
@@ -2473,7 +2473,7 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
@@ -2537,7 +2537,7 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
@@ -2569,7 +2569,7 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
@@ -2601,7 +2601,7 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
@@ -2647,7 +2647,7 @@
         {
           "name": "Min Woo Lee",
           "score": 4,
-          "thru": 17,
+          "thru": 18,
           "today": 1,
           "status": "LIVE"
         }
@@ -2665,7 +2665,7 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
@@ -2704,7 +2704,7 @@
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -2736,7 +2736,7 @@
         {
           "name": "Wyndham Clark",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -2761,7 +2761,7 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
@@ -2793,7 +2793,7 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
@@ -2921,14 +2921,14 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
         {
           "name": "Chris Gotterup",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -2953,7 +2953,7 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
@@ -2985,14 +2985,14 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
         {
           "name": "Chris Gotterup",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -3017,14 +3017,14 @@
         {
           "name": "Chris Gotterup",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Wyndham Clark",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -3088,7 +3088,7 @@
         {
           "name": "Chris Gotterup",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -3120,7 +3120,7 @@
         {
           "name": "Chris Gotterup",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -3145,14 +3145,14 @@
         {
           "name": "Chris Gotterup",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -3177,7 +3177,7 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
@@ -3216,7 +3216,7 @@
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -3241,7 +3241,7 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
@@ -3305,7 +3305,7 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
@@ -3344,7 +3344,7 @@
         {
           "name": "Wyndham Clark",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -3433,14 +3433,14 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -3465,14 +3465,14 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -3504,7 +3504,7 @@
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -3600,7 +3600,7 @@
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -3632,7 +3632,7 @@
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -3664,7 +3664,7 @@
         {
           "name": "Wyndham Clark",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -3696,7 +3696,7 @@
         {
           "name": "Wyndham Clark",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -3792,7 +3792,7 @@
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -3849,14 +3849,14 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -3952,7 +3952,7 @@
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -4009,7 +4009,7 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
@@ -4023,7 +4023,7 @@
         {
           "name": "Min Woo Lee",
           "score": 4,
-          "thru": 17,
+          "thru": 18,
           "today": 1,
           "status": "LIVE"
         }
@@ -4080,7 +4080,7 @@
         {
           "name": "Wyndham Clark",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -4112,7 +4112,7 @@
         {
           "name": "Chris Gotterup",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -4176,7 +4176,7 @@
         {
           "name": "Chris Gotterup",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -4201,14 +4201,14 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -4304,14 +4304,14 @@
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
         {
           "name": "Maverick McNealy",
           "score": -2,
-          "thru": 4,
+          "thru": 5,
           "today": 1,
           "status": "LIVE"
         }
@@ -4343,7 +4343,7 @@
         {
           "name": "Jackson Koivun",
           "score": -3,
-          "thru": 3,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         }
@@ -4361,26 +4361,26 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
         {
           "name": "Max Homa",
-          "score": -3,
-          "thru": 8,
-          "today": -2,
+          "score": -2,
+          "thru": 9,
+          "today": -1,
           "status": "LIVE"
         }
       ],
-      "total_score": -2,
+      "total_score": -1,
       "status": "LIVE",
       "side_pool": false,
       "rank": 137
@@ -4425,7 +4425,7 @@
         {
           "name": "Chris Gotterup",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -4457,7 +4457,7 @@
         {
           "name": "Cameron Young",
           "score": -2,
-          "thru": 12,
+          "thru": 13,
           "today": -2,
           "status": "LIVE"
         },
@@ -4496,7 +4496,7 @@
         {
           "name": "Chris Gotterup",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -4528,7 +4528,7 @@
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -4560,7 +4560,7 @@
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -4592,7 +4592,7 @@
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -4624,7 +4624,7 @@
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -4656,7 +4656,7 @@
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -4688,7 +4688,7 @@
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -4752,7 +4752,7 @@
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
@@ -4848,14 +4848,14 @@
         {
           "name": "Collin Morikawa",
           "score": 3,
-          "thru": 13,
+          "thru": 14,
           "today": 2,
           "status": "LIVE"
         },
         {
           "name": "Min Woo Lee",
           "score": 4,
-          "thru": 17,
+          "thru": 18,
           "today": 1,
           "status": "LIVE"
         }
@@ -4880,7 +4880,7 @@
         {
           "name": "Wyndham Clark",
           "score": -5,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
