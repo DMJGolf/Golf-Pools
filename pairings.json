@@ -299,17 +299,6 @@
   {
     "entrant_full_name": "Dale Johnson",
     "label": "Dale J",
-    "pairing_id": "Dale J-3",
-    "golfers": [
-      "Scottie Scheffler",
-      "Tommy Fleetwood",
-      "Harris English"
-    ],
-    "side_pool": true
-  },
-  {
-    "entrant_full_name": "Dale Johnson",
-    "label": "Dale J",
     "pairing_id": "Dale J-4",
     "golfers": [
       "Scottie Scheffler",
@@ -613,7 +602,7 @@
       "Tommy Fleetwood",
       "Justin Thomas"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
     "entrant_full_name": "James Clark",
@@ -734,7 +723,7 @@
       "Tommy Fleetwood",
       "Sam Burns"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
     "entrant_full_name": "John Jerome",
@@ -777,17 +766,6 @@
       "Scottie Scheffler",
       "Justin Rose",
       "Tommy Fleetwood"
-    ],
-    "side_pool": true
-  },
-  {
-    "entrant_full_name": "John Jerome",
-    "label": "John J",
-    "pairing_id": "John J-6",
-    "golfers": [
-      "Michael Kim",
-      "Michael Brennan",
-      "Jackson Koivun"
     ],
     "side_pool": true
   },
@@ -1009,7 +987,7 @@
       "Xander Schauffele",
       "Tom Kim"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
     "entrant_full_name": "Michael Eckloff",
@@ -1020,7 +998,7 @@
       "Chris Gotterup",
       "Hideki Matsuyama"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
     "entrant_full_name": "Niall Johnston",
@@ -1031,7 +1009,7 @@
       "Tommy Fleetwood",
       "Michael Thorbjornsen"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Niall Johnston",
@@ -1042,7 +1020,7 @@
       "Wyndham Clark",
       "Tom Kim"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Niall Johnston",
@@ -1053,7 +1031,7 @@
       "Tommy Fleetwood",
       "Tom Kim"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Niall Johnston",
@@ -1064,7 +1042,7 @@
       "Tommy Fleetwood",
       "Michael Brennan"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Nick Lopez",
@@ -1075,7 +1053,7 @@
       "Wyndham Clark",
       "Si Woo Kim"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
     "entrant_full_name": "Nick Lopez",
@@ -1086,7 +1064,7 @@
       "Xander Schauffele",
       "Sam Burns"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
     "entrant_full_name": "Nick Lopez",
@@ -1131,17 +1109,6 @@
       "Tom Kim"
     ],
     "side_pool": true
-  },
-  {
-    "entrant_full_name": "Scott Calkins",
-    "label": "Scott C",
-    "pairing_id": "Scott C-1",
-    "golfers": [
-      "Cameron Young",
-      "Collin Morikawa",
-      "Max Homa"
-    ],
-    "side_pool": false
   },
   {
     "entrant_full_name": "Scott Calkins",
@@ -1254,28 +1221,6 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Scott Henderson",
-    "label": "Scott H",
-    "pairing_id": "Scott H-6",
-    "golfers": [
-      "Scottie Scheffler",
-      "Xander Schauffele",
-      "Jordan Spieth"
-    ],
-    "side_pool": false
-  },
-  {
-    "entrant_full_name": "Scott Hobbs",
-    "label": "Scott Hobbs",
-    "pairing_id": "Scott Hobbs-1",
-    "golfers": [
-      "Scottie Scheffler",
-      "Xander Schauffele",
-      "Michael Kim"
-    ],
-    "side_pool": false
-  },
-  {
     "entrant_full_name": "Scott Hobbs",
     "label": "Scott Hobbs",
     "pairing_id": "Scott Hobbs-2",
@@ -1294,28 +1239,6 @@
       "Scottie Scheffler",
       "Collin Morikawa",
       "Nico Echavarria"
-    ],
-    "side_pool": false
-  },
-  {
-    "entrant_full_name": "Scott Hobbs",
-    "label": "Scott Hobbs",
-    "pairing_id": "Scott Hobbs-4",
-    "golfers": [
-      "Scottie Scheffler",
-      "Wyndham Clark",
-      "Jackson Koivun"
-    ],
-    "side_pool": false
-  },
-  {
-    "entrant_full_name": "Scott Hobbs",
-    "label": "Scott Hobbs",
-    "pairing_id": "Scott Hobbs-5",
-    "golfers": [
-      "Rory McIlroy",
-      "Collin Morikawa",
-      "Michael Kim"
     ],
     "side_pool": false
   },

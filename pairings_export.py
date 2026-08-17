@@ -23,13 +23,21 @@ Pairings sheet by label in column K. (Corrected 2026-08-14 — columns had
 shifted one over from the H/I/J originally assumed here; see Master row 1
 headers if this ever needs reconfirming.)
 
-side_pool reflects Master column AH ("Side Pool"), which Dale marks per
-entrant (fill-down formula covers every pairing row for that entrant — see
-Reference Document Section 15.3). Membership is set per tournament.
+side_pool reflects Master column AH ("Side Pool") on a PER-PAIRING basis:
+each pairing's own AH cell is checked individually — a "Yes" on that
+specific row puts that specific pairing in the Side Pool, and nothing else
+is implied about that entrant's other pairings. There is no cap on how many
+pairings per entrant can be marked; Dale controls that per tournament simply
+by how many rows he marks "Yes" for a given entrant, with no code change
+required. (Rewritten 2026-08-17 — the prior version checked only whether an
+entrant's label appeared ANYWHERE with "Yes" and then flagged ALL of that
+entrant's pairings as side_pool, ignoring which specific rows were actually
+marked. That was an entrant-level, all-or-nothing behavior and did not
+support a per-pairing selection at all — see Reference Document Section 2.7
+for how this was discovered and why it was changed.)
 
-Blocks with fewer than 3 golfers (e.g. an entrant whose data is still pending,
-like Tracy Brown as of this build) are skipped and reported, not written as
-partial/broken entries.
+Blocks with fewer than 3 golfers (e.g. an entrant whose data is still pending)
+are skipped and reported, not written as partial/broken entries.
 """
 
 import sys
@@ -54,19 +62,27 @@ def build_label_to_name_map(master_ws):
     return mapping
 
 
-def build_side_pool_labels(master_ws):
-    """Scan Master!K (label) against AH (Side Pool) -> set of labels marked 'Yes'.
-    AH is filled down for every pairing row of a marked entrant (see Master Section 15.3
-    for the fill-down formula), so checking any row for that label is sufficient."""
-    labels = set()
+def build_side_pool_pairing_set(master_ws):
+    """Scan Master!K (label) + L (Pairing #) against AH (Side Pool), row by row,
+    -> set of (label, pairing_num) tuples whose OWN row is marked 'Yes'.
+
+    This is deliberately per-row, not per-entrant: an entrant can have any
+    number of their pairings marked (0 up to all of them), and only the
+    specific pairings marked 'Yes' are included. Dale adjusts how many
+    pairings per entrant qualify for the Side Pool each tournament purely by
+    how many rows he marks — no code or cap here needs to change to support
+    that.
+    """
+    marked = set()
     r = 2
     while master_ws.cell(r, 11).value:
         k = master_ws.cell(r, 11).value
+        l = master_ws.cell(r, 12).value
         ah = master_ws.cell(r, 34).value  # column AH = Side Pool
         if isinstance(ah, str) and ah.strip().lower() == 'yes':
-            labels.add(k)
+            marked.add((k, l))
         r += 1
-    return labels
+    return marked
 
 
 def export_pairings(workbook_path, output_path):
@@ -75,7 +91,7 @@ def export_pairings(workbook_path, output_path):
     pairings_ws = wb['Pairings']
 
     label_to_name = build_label_to_name_map(master_ws)
-    side_pool_labels = build_side_pool_labels(master_ws)
+    side_pool_pairings = build_side_pool_pairing_set(master_ws)
 
     records = []
     skipped = []
@@ -98,7 +114,7 @@ def export_pairings(workbook_path, output_path):
                     "label": label,
                     "pairing_id": f"{label}-{pairing_num}",
                     "golfers": golfers,
-                    "side_pool": label in side_pool_labels,
+                    "side_pool": (label, pairing_num) in side_pool_pairings,
                 })
             r += 4  # advance to next block (3 golfer rows + 1 blank separator)
         else:
@@ -108,6 +124,8 @@ def export_pairings(workbook_path, output_path):
         json.dump(records, f, indent=2)
 
     print(f"Wrote {len(records)} pairings to {output_path}")
+    side_count = sum(1 for rec in records if rec['side_pool'])
+    print(f"Side Pool pairings: {side_count}")
     if skipped:
         print(f"Skipped {len(skipped)} incomplete pairing(s) (no golfer data yet):")
         for label, pnum in skipped:
