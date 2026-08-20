@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T22:45:13.285009+00:00",
+  "last_updated": "2026-08-20T22:51:43.933810+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Sean Hogan",
@@ -1154,6 +1154,38 @@
       "rank": 36
     },
     {
+      "entrant_full_name": "James Clark",
+      "label": "Jim C",
+      "pairing_id": "Jim C-4",
+      "golfers": [
+        {
+          "name": "Russell Henley",
+          "score": -3,
+          "thru": 17,
+          "today": -3,
+          "status": "LIVE"
+        },
+        {
+          "name": "Collin Morikawa",
+          "score": -2,
+          "thru": 18,
+          "today": -2,
+          "status": "LIVE"
+        },
+        {
+          "name": "Maverick McNealy",
+          "score": -2,
+          "thru": 17,
+          "today": -2,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -7,
+      "status": "LIVE",
+      "side_pool": false,
+      "rank": 37
+    },
+    {
       "entrant_full_name": "Jennifer Thomas",
       "label": "Jennifer T",
       "pairing_id": "Jennifer T-4",
@@ -1183,7 +1215,7 @@
       "total_score": -7,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 37
+      "rank": 38
     },
     {
       "entrant_full_name": "Max Hensley",
@@ -1215,7 +1247,7 @@
       "total_score": -7,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 38
+      "rank": 39
     },
     {
       "entrant_full_name": "Niall Johnston",
@@ -1247,7 +1279,7 @@
       "total_score": -7,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 39
+      "rank": 40
     },
     {
       "entrant_full_name": "Teddy Minner",
@@ -1279,7 +1311,7 @@
       "total_score": -7,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 40
+      "rank": 41
     },
     {
       "entrant_full_name": "Broc Mushet",
@@ -1311,7 +1343,7 @@
       "total_score": -6,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 41
+      "rank": 42
     },
     {
       "entrant_full_name": "Brian Young",
@@ -1337,38 +1369,6 @@
           "score": 1,
           "thru": 18,
           "today": 1,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -6,
-      "status": "LIVE",
-      "side_pool": false,
-      "rank": 42
-    },
-    {
-      "entrant_full_name": "James Clark",
-      "label": "Jim C",
-      "pairing_id": "Jim C-4",
-      "golfers": [
-        {
-          "name": "Russell Henley",
-          "score": -3,
-          "thru": 17,
-          "today": -3,
-          "status": "LIVE"
-        },
-        {
-          "name": "Collin Morikawa",
-          "score": -2,
-          "thru": 18,
-          "today": -2,
-          "status": "LIVE"
-        },
-        {
-          "name": "Maverick McNealy",
-          "score": -1,
-          "thru": 16,
-          "today": -1,
           "status": "LIVE"
         }
       ],
