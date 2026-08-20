@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T23:00:17.175499+00:00",
+  "last_updated": "2026-08-20T23:15:12.958961+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Sean Hogan",
@@ -1058,6 +1058,38 @@
       "rank": 33
     },
     {
+      "entrant_full_name": "James Clark",
+      "label": "Jim C",
+      "pairing_id": "Jim C-4",
+      "golfers": [
+        {
+          "name": "Russell Henley",
+          "score": -3,
+          "thru": 18,
+          "today": -3,
+          "status": "LIVE"
+        },
+        {
+          "name": "Collin Morikawa",
+          "score": -2,
+          "thru": 18,
+          "today": -2,
+          "status": "LIVE"
+        },
+        {
+          "name": "Maverick McNealy",
+          "score": -3,
+          "thru": 18,
+          "today": -3,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -8,
+      "status": "LIVE",
+      "side_pool": false,
+      "rank": 34
+    },
+    {
       "entrant_full_name": "Scott Hobbs",
       "label": "Scott Hobbs",
       "pairing_id": "Scott Hobbs-2",
@@ -1087,7 +1119,7 @@
       "total_score": -8,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 34
+      "rank": 35
     },
     {
       "entrant_full_name": "Bilal Ashraf",
@@ -1119,7 +1151,7 @@
       "total_score": -7,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 35
+      "rank": 36
     },
     {
       "entrant_full_name": "Donovan Jacob",
@@ -1145,38 +1177,6 @@
           "score": 0,
           "thru": 18,
           "today": 0,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -7,
-      "status": "LIVE",
-      "side_pool": false,
-      "rank": 36
-    },
-    {
-      "entrant_full_name": "James Clark",
-      "label": "Jim C",
-      "pairing_id": "Jim C-4",
-      "golfers": [
-        {
-          "name": "Russell Henley",
-          "score": -3,
-          "thru": 18,
-          "today": -3,
-          "status": "LIVE"
-        },
-        {
-          "name": "Collin Morikawa",
-          "score": -2,
-          "thru": 18,
-          "today": -2,
-          "status": "LIVE"
-        },
-        {
-          "name": "Maverick McNealy",
-          "score": -2,
-          "thru": 17,
-          "today": -2,
           "status": "LIVE"
         }
       ],
