@@ -52,7 +52,7 @@
       "Tommy Fleetwood",
       "Ludvig Aberg"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Anthony Green",
@@ -63,7 +63,7 @@
       "Ludvig Aberg",
       "Sam Burns"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Anthony Green",
@@ -74,7 +74,7 @@
       "Xander Schauffele",
       "Ludvig Aberg"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Anthony Green",
@@ -129,7 +129,7 @@
       "Tommy Fleetwood",
       "Sam Burns"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Bilal Ashraf",
@@ -140,7 +140,7 @@
       "Collin Morikawa",
       "Hideki Matsuyama"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Bilal Ashraf",
@@ -162,7 +162,7 @@
       "Xander Schauffele",
       "Si Woo Kim"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Bilal Ashraf",
@@ -206,7 +206,7 @@
       "Xander Schauffele",
       "Ludvig Aberg"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Broc Mushet",
@@ -228,7 +228,7 @@
       "Chris Gotterup",
       "Sam Burns"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Broc Mushet",
@@ -239,7 +239,7 @@
       "Ludvig Aberg",
       "Sam Burns"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Brian Young",
@@ -283,7 +283,7 @@
       "Xander Schauffele",
       "Robert MacIntyre"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
     "entrant_full_name": "Dale Johnson",
@@ -316,7 +316,7 @@
       "Tommy Fleetwood",
       "Justin Thomas"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
     "entrant_full_name": "Dale Johnson",
@@ -327,7 +327,7 @@
       "Xander Schauffele",
       "Min Woo Lee"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
     "entrant_full_name": "Dale Johnson",
@@ -360,7 +360,7 @@
       "Tommy Fleetwood",
       "Ludvig Aberg"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Dennis Picht",
@@ -393,7 +393,7 @@
       "Tommy Fleetwood",
       "Hideki Matsuyama"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Dennis Picht",
@@ -404,7 +404,7 @@
       "Xander Schauffele",
       "Min Woo Lee"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Devin Schad",
@@ -536,7 +536,7 @@
       "Tommy Fleetwood",
       "Sam Burns"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Erik Hetzel",
@@ -547,7 +547,7 @@
       "Collin Morikawa",
       "Hideki Matsuyama"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Erik Hetzel",
@@ -569,7 +569,7 @@
       "Collin Morikawa",
       "Sam Burns"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Erik Hetzel",
@@ -602,7 +602,7 @@
       "Tommy Fleetwood",
       "Justin Thomas"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "James Clark",
@@ -613,7 +613,7 @@
       "Collin Morikawa",
       "Hideki Matsuyama"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
     "entrant_full_name": "James Clark",
@@ -624,7 +624,7 @@
       "Xander Schauffele",
       "Sam Burns"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
     "entrant_full_name": "James Clark",
@@ -635,7 +635,7 @@
       "Collin Morikawa",
       "Maverick McNealy"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
     "entrant_full_name": "James Clark",
@@ -668,7 +668,7 @@
       "Xander Schauffele",
       "Justin Rose"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
     "entrant_full_name": "Jennifer Thomas",
@@ -679,7 +679,7 @@
       "Xander Schauffele",
       "Sam Burns"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Jennifer Thomas",
@@ -690,7 +690,7 @@
       "Tommy Fleetwood",
       "Ludvig Aberg"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Jennifer Thomas",
@@ -712,7 +712,7 @@
       "Chris Gotterup",
       "Justin Thomas"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "John Jerome",
@@ -723,7 +723,7 @@
       "Tommy Fleetwood",
       "Sam Burns"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "John Jerome",
@@ -756,7 +756,7 @@
       "Sam Burns",
       "Justin Rose"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
     "entrant_full_name": "John Jerome",
@@ -767,7 +767,7 @@
       "Justin Rose",
       "Tommy Fleetwood"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
     "entrant_full_name": "Jude Green",
@@ -921,7 +921,7 @@
       "Collin Morikawa",
       "Sam Burns"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Max Hensley",
@@ -954,7 +954,7 @@
       "Tommy Fleetwood",
       "Viktor Hovland"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Max Hensley",
@@ -965,7 +965,7 @@
       "Collin Morikawa",
       "Alex Fitzpatrick"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Max Hensley",
@@ -1020,7 +1020,7 @@
       "Wyndham Clark",
       "Tom Kim"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
     "entrant_full_name": "Niall Johnston",
@@ -1053,7 +1053,7 @@
       "Wyndham Clark",
       "Si Woo Kim"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Nick Lopez",
@@ -1075,7 +1075,7 @@
       "Tommy Fleetwood",
       "Ludvig Aberg"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
     "entrant_full_name": "Nick Lopez",
@@ -1086,7 +1086,7 @@
       "Collin Morikawa",
       "Min Woo Lee"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
     "entrant_full_name": "Nick Lopez",
@@ -1119,7 +1119,7 @@
       "Chris Gotterup",
       "Sam Burns"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Scott Calkins",
@@ -1141,7 +1141,7 @@
       "Xander Schauffele",
       "Gary Woodland"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Scott Calkins",
@@ -1163,7 +1163,7 @@
       "Wyndham Clark",
       "Viktor Hovland"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Scott Henderson",
@@ -1262,7 +1262,7 @@
       "Collin Morikawa",
       "Sam Burns"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Sean Hogan",
@@ -1273,7 +1273,7 @@
       "Tommy Fleetwood",
       "Hideki Matsuyama"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Sean Hogan",
@@ -1284,7 +1284,7 @@
       "Xander Schauffele",
       "Ludvig Aberg"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Sean Hogan",
@@ -1306,7 +1306,7 @@
       "Xander Schauffele",
       "Viktor Hovland"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Shawn Kicherer",
@@ -1328,7 +1328,7 @@
       "Tommy Fleetwood",
       "Patrick Cantlay"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Shawn Kicherer",
@@ -1361,7 +1361,7 @@
       "Collin Morikawa",
       "Ludvig Aberg"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Steve Sawtell",
@@ -1548,7 +1548,7 @@
       "Tom Kim",
       "Si Woo Kim"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Zach Taylor",
@@ -1559,7 +1559,7 @@
       "Xander Schauffele",
       "Si Woo Kim"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Zach Taylor",
@@ -1592,7 +1592,7 @@
       "Wyndham Clark",
       "Si Woo Kim"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Zach Taylor",
