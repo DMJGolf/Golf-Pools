@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T17:45:13.297344+00:00",
+  "last_updated": "2026-08-21T17:55:11.756929+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Bilal Ashraf",
@@ -8,27 +8,27 @@
       "golfers": [
         {
           "name": "Matt Fitzpatrick",
-          "score": -6,
-          "thru": 7,
-          "today": -1,
+          "score": -7,
+          "thru": 8,
+          "today": -2,
           "status": "LIVE"
         },
         {
           "name": "Chris Gotterup",
           "score": -6,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Ludvig Aberg",
           "score": -4,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
       ],
-      "total_score": -16,
+      "total_score": -17,
       "status": "LIVE",
       "side_pool": false,
       "rank": 1
@@ -40,30 +40,62 @@
       "golfers": [
         {
           "name": "Matt Fitzpatrick",
-          "score": -6,
-          "thru": 7,
-          "today": -1,
+          "score": -7,
+          "thru": 8,
+          "today": -2,
           "status": "LIVE"
         },
         {
           "name": "Chris Gotterup",
           "score": -6,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Ludvig Aberg",
           "score": -4,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -17,
+      "status": "LIVE",
+      "side_pool": false,
+      "rank": 2
+    },
+    {
+      "entrant_full_name": "Jennifer Thomas",
+      "label": "Jennifer T",
+      "pairing_id": "Jennifer T-3",
+      "golfers": [
+        {
+          "name": "Matt Fitzpatrick",
+          "score": -7,
+          "thru": 8,
+          "today": -2,
+          "status": "LIVE"
+        },
+        {
+          "name": "Collin Morikawa",
+          "score": -2,
+          "thru": 1,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Patrick Cantlay",
+          "score": -7,
+          "thru": 17,
+          "today": -4,
           "status": "LIVE"
         }
       ],
       "total_score": -16,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 2
+      "rank": 3
     },
     {
       "entrant_full_name": "Sean Hogan",
@@ -73,7 +105,7 @@
         {
           "name": "Chris Gotterup",
           "score": -6,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -87,7 +119,7 @@
         {
           "name": "Ludvig Aberg",
           "score": -4,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -95,7 +127,7 @@
       "total_score": -16,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 3
+      "rank": 4
     },
     {
       "entrant_full_name": "Zach Taylor",
@@ -127,7 +159,7 @@
       "total_score": -16,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 4
+      "rank": 5
     },
     {
       "entrant_full_name": "Anthony Green",
@@ -151,7 +183,7 @@
         {
           "name": "Ludvig Aberg",
           "score": -4,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -159,7 +191,7 @@
       "total_score": -15,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 5
+      "rank": 6
     },
     {
       "entrant_full_name": "Broc Mushet",
@@ -183,7 +215,7 @@
         {
           "name": "Ludvig Aberg",
           "score": -4,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -191,7 +223,103 @@
       "total_score": -15,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "entrant_full_name": "Donovan Jacob",
+      "label": "Donovan J",
+      "pairing_id": "Donovan J-5",
+      "golfers": [
+        {
+          "name": "Matt Fitzpatrick",
+          "score": -7,
+          "thru": 8,
+          "today": -2,
+          "status": "LIVE"
+        },
+        {
+          "name": "Xander Schauffele",
+          "score": -4,
+          "thru": 13,
+          "today": -4,
+          "status": "LIVE"
+        },
+        {
+          "name": "Ludvig Aberg",
+          "score": -4,
+          "thru": 1,
+          "today": 0,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -15,
+      "status": "LIVE",
+      "side_pool": false,
+      "rank": 8
+    },
+    {
+      "entrant_full_name": "Erik Hetzel",
+      "label": "Erik H",
+      "pairing_id": "Erik H-3",
+      "golfers": [
+        {
+          "name": "Matt Fitzpatrick",
+          "score": -7,
+          "thru": 8,
+          "today": -2,
+          "status": "LIVE"
+        },
+        {
+          "name": "Xander Schauffele",
+          "score": -4,
+          "thru": 13,
+          "today": -4,
+          "status": "LIVE"
+        },
+        {
+          "name": "Ludvig Aberg",
+          "score": -4,
+          "thru": 1,
+          "today": 0,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -15,
+      "status": "LIVE",
+      "side_pool": false,
+      "rank": 9
+    },
+    {
+      "entrant_full_name": "Shawn Kicherer",
+      "label": "Shawn K",
+      "pairing_id": "Shawn K-3",
+      "golfers": [
+        {
+          "name": "Rory McIlroy",
+          "score": -7,
+          "thru": 13,
+          "today": -1,
+          "status": "LIVE"
+        },
+        {
+          "name": "Tommy Fleetwood",
+          "score": -1,
+          "thru": 9,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Patrick Cantlay",
+          "score": -7,
+          "thru": 17,
+          "today": -4,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -15,
+      "status": "LIVE",
+      "side_pool": true,
+      "rank": 10
     },
     {
       "entrant_full_name": "Zach Taylor",
@@ -201,7 +329,7 @@
         {
           "name": "Russell Henley",
           "score": -4,
-          "thru": 6,
+          "thru": 7,
           "today": -1,
           "status": "LIVE"
         },
@@ -215,7 +343,7 @@
         {
           "name": "Gary Woodland",
           "score": -7,
-          "thru": 1,
+          "thru": 3,
           "today": -1,
           "status": "LIVE"
         }
@@ -223,103 +351,7 @@
       "total_score": -15,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 7
-    },
-    {
-      "entrant_full_name": "Donovan Jacob",
-      "label": "Donovan J",
-      "pairing_id": "Donovan J-5",
-      "golfers": [
-        {
-          "name": "Matt Fitzpatrick",
-          "score": -6,
-          "thru": 7,
-          "today": -1,
-          "status": "LIVE"
-        },
-        {
-          "name": "Xander Schauffele",
-          "score": -4,
-          "thru": 13,
-          "today": -4,
-          "status": "LIVE"
-        },
-        {
-          "name": "Ludvig Aberg",
-          "score": -4,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -14,
-      "status": "LIVE",
-      "side_pool": false,
-      "rank": 8
-    },
-    {
-      "entrant_full_name": "Erik Hetzel",
-      "label": "Erik H",
-      "pairing_id": "Erik H-3",
-      "golfers": [
-        {
-          "name": "Matt Fitzpatrick",
-          "score": -6,
-          "thru": 7,
-          "today": -1,
-          "status": "LIVE"
-        },
-        {
-          "name": "Xander Schauffele",
-          "score": -4,
-          "thru": 13,
-          "today": -4,
-          "status": "LIVE"
-        },
-        {
-          "name": "Ludvig Aberg",
-          "score": -4,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -14,
-      "status": "LIVE",
-      "side_pool": false,
-      "rank": 9
-    },
-    {
-      "entrant_full_name": "Jennifer Thomas",
-      "label": "Jennifer T",
-      "pairing_id": "Jennifer T-3",
-      "golfers": [
-        {
-          "name": "Matt Fitzpatrick",
-          "score": -6,
-          "thru": 7,
-          "today": -1,
-          "status": "LIVE"
-        },
-        {
-          "name": "Collin Morikawa",
-          "score": -2,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Patrick Cantlay",
-          "score": -6,
-          "thru": 16,
-          "today": -3,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -14,
-      "status": "LIVE",
-      "side_pool": false,
-      "rank": 10
+      "rank": 11
     },
     {
       "entrant_full_name": "Jude Green",
@@ -329,7 +361,7 @@
         {
           "name": "Chris Gotterup",
           "score": -6,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -351,38 +383,6 @@
       "total_score": -14,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 11
-    },
-    {
-      "entrant_full_name": "Shawn Kicherer",
-      "label": "Shawn K",
-      "pairing_id": "Shawn K-3",
-      "golfers": [
-        {
-          "name": "Rory McIlroy",
-          "score": -7,
-          "thru": 13,
-          "today": -1,
-          "status": "LIVE"
-        },
-        {
-          "name": "Tommy Fleetwood",
-          "score": -1,
-          "thru": 8,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Patrick Cantlay",
-          "score": -6,
-          "thru": 16,
-          "today": -3,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -14,
-      "status": "LIVE",
-      "side_pool": true,
       "rank": 12
     },
     {
@@ -400,7 +400,7 @@
         {
           "name": "Chris Gotterup",
           "score": -6,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -425,7 +425,7 @@
         {
           "name": "Russell Henley",
           "score": -4,
-          "thru": 6,
+          "thru": 7,
           "today": -1,
           "status": "LIVE"
         },
@@ -439,7 +439,7 @@
         {
           "name": "Ludvig Aberg",
           "score": -4,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -471,7 +471,7 @@
         {
           "name": "Viktor Hovland",
           "score": -3,
-          "thru": 10,
+          "thru": 11,
           "today": -4,
           "status": "LIVE"
         }
@@ -496,14 +496,14 @@
         {
           "name": "Collin Morikawa",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Ludvig Aberg",
           "score": -4,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -546,27 +546,27 @@
       "rank": 17
     },
     {
-      "entrant_full_name": "Todd Smith",
-      "label": "Todd S",
-      "pairing_id": "Todd S-3",
+      "entrant_full_name": "Max Hensley",
+      "label": "Max H",
+      "pairing_id": "Max H-5",
       "golfers": [
         {
-          "name": "Rory McIlroy",
+          "name": "Matt Fitzpatrick",
           "score": -7,
-          "thru": 13,
-          "today": -1,
+          "thru": 8,
+          "today": -2,
           "status": "LIVE"
         },
         {
-          "name": "Robert MacIntyre",
-          "score": -5,
-          "thru": 13,
-          "today": -3,
+          "name": "Collin Morikawa",
+          "score": -2,
+          "thru": 1,
+          "today": 0,
           "status": "LIVE"
         },
         {
-          "name": "Justin Rose",
-          "score": -1,
+          "name": "Alex Fitzpatrick",
+          "score": -4,
           "thru": 0,
           "today": 0,
           "status": "LIVE"
@@ -574,8 +574,40 @@
       ],
       "total_score": -13,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 18
+    },
+    {
+      "entrant_full_name": "Shawn Kicherer",
+      "label": "Shawn K",
+      "pairing_id": "Shawn K-6",
+      "golfers": [
+        {
+          "name": "Matt Fitzpatrick",
+          "score": -7,
+          "thru": 8,
+          "today": -2,
+          "status": "LIVE"
+        },
+        {
+          "name": "Collin Morikawa",
+          "score": -2,
+          "thru": 1,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Ludvig Aberg",
+          "score": -4,
+          "thru": 1,
+          "today": 0,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -13,
+      "status": "LIVE",
+      "side_pool": true,
+      "rank": 19
     },
     {
       "entrant_full_name": "Becky Cheeks",
@@ -592,14 +624,14 @@
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Ludvig Aberg",
           "score": -4,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -607,7 +639,39 @@
       "total_score": -12,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 19
+      "rank": 20
+    },
+    {
+      "entrant_full_name": "Eric Cheeks",
+      "label": "Eric C",
+      "pairing_id": "Eric C-3",
+      "golfers": [
+        {
+          "name": "Matt Fitzpatrick",
+          "score": -7,
+          "thru": 8,
+          "today": -2,
+          "status": "LIVE"
+        },
+        {
+          "name": "Tommy Fleetwood",
+          "score": -1,
+          "thru": 9,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Ludvig Aberg",
+          "score": -4,
+          "thru": 1,
+          "today": 0,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -12,
+      "status": "LIVE",
+      "side_pool": false,
+      "rank": 21
     },
     {
       "entrant_full_name": "Jennifer Thomas",
@@ -624,14 +688,14 @@
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Ludvig Aberg",
           "score": -4,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -639,39 +703,7 @@
       "total_score": -12,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 20
-    },
-    {
-      "entrant_full_name": "Max Hensley",
-      "label": "Max H",
-      "pairing_id": "Max H-5",
-      "golfers": [
-        {
-          "name": "Matt Fitzpatrick",
-          "score": -6,
-          "thru": 7,
-          "today": -1,
-          "status": "LIVE"
-        },
-        {
-          "name": "Collin Morikawa",
-          "score": -2,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Alex Fitzpatrick",
-          "score": -4,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -12,
-      "status": "LIVE",
-      "side_pool": true,
-      "rank": 21
+      "rank": 22
     },
     {
       "entrant_full_name": "Scott Calkins",
@@ -688,14 +720,14 @@
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Justin Thomas",
           "score": -4,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         }
@@ -703,7 +735,7 @@
       "total_score": -12,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 22
+      "rank": 23
     },
     {
       "entrant_full_name": "Scott Henderson",
@@ -735,30 +767,30 @@
       "total_score": -12,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 23
+      "rank": 24
     },
     {
-      "entrant_full_name": "Shawn Kicherer",
-      "label": "Shawn K",
-      "pairing_id": "Shawn K-6",
+      "entrant_full_name": "Steve Sawtell",
+      "label": "Steve S",
+      "pairing_id": "Steve S-2",
       "golfers": [
         {
           "name": "Matt Fitzpatrick",
-          "score": -6,
-          "thru": 7,
-          "today": -1,
+          "score": -7,
+          "thru": 8,
+          "today": -2,
           "status": "LIVE"
         },
         {
-          "name": "Collin Morikawa",
-          "score": -2,
-          "thru": 0,
+          "name": "Chris Gotterup",
+          "score": -6,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
         {
-          "name": "Ludvig Aberg",
-          "score": -4,
+          "name": "Sam Burns",
+          "score": 1,
           "thru": 0,
           "today": 0,
           "status": "LIVE"
@@ -766,8 +798,8 @@
       ],
       "total_score": -12,
       "status": "LIVE",
-      "side_pool": true,
-      "rank": 24
+      "side_pool": false,
+      "rank": 25
     },
     {
       "entrant_full_name": "Teddy Minner",
@@ -799,7 +831,39 @@
       "total_score": -12,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 25
+      "rank": 26
+    },
+    {
+      "entrant_full_name": "Todd Smith",
+      "label": "Todd S",
+      "pairing_id": "Todd S-3",
+      "golfers": [
+        {
+          "name": "Rory McIlroy",
+          "score": -7,
+          "thru": 13,
+          "today": -1,
+          "status": "LIVE"
+        },
+        {
+          "name": "Robert MacIntyre",
+          "score": -4,
+          "thru": 14,
+          "today": -2,
+          "status": "LIVE"
+        },
+        {
+          "name": "Justin Rose",
+          "score": -1,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -12,
+      "status": "LIVE",
+      "side_pool": false,
+      "rank": 27
     },
     {
       "entrant_full_name": "Amy Foley",
@@ -816,7 +880,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -831,7 +895,7 @@
       "total_score": -11,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 26
+      "rank": 28
     },
     {
       "entrant_full_name": "Dennis Picht",
@@ -848,71 +912,7 @@
         {
           "name": "Chris Gotterup",
           "score": -6,
-          "thru": 8,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Tom Kim",
-          "score": 2,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -11,
-      "status": "LIVE",
-      "side_pool": false,
-      "rank": 27
-    },
-    {
-      "entrant_full_name": "Eric Cheeks",
-      "label": "Eric C",
-      "pairing_id": "Eric C-3",
-      "golfers": [
-        {
-          "name": "Matt Fitzpatrick",
-          "score": -6,
-          "thru": 7,
-          "today": -1,
-          "status": "LIVE"
-        },
-        {
-          "name": "Tommy Fleetwood",
-          "score": -1,
-          "thru": 8,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Ludvig Aberg",
-          "score": -4,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -11,
-      "status": "LIVE",
-      "side_pool": false,
-      "rank": 28
-    },
-    {
-      "entrant_full_name": "Max Hensley",
-      "label": "Max H",
-      "pairing_id": "Max H-2",
-      "golfers": [
-        {
-          "name": "Rory McIlroy",
-          "score": -7,
-          "thru": 13,
-          "today": -1,
-          "status": "LIVE"
-        },
-        {
-          "name": "Chris Gotterup",
-          "score": -6,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -930,27 +930,27 @@
       "rank": 29
     },
     {
-      "entrant_full_name": "Steve Sawtell",
-      "label": "Steve S",
-      "pairing_id": "Steve S-2",
+      "entrant_full_name": "Max Hensley",
+      "label": "Max H",
+      "pairing_id": "Max H-2",
       "golfers": [
         {
-          "name": "Matt Fitzpatrick",
-          "score": -6,
-          "thru": 7,
+          "name": "Rory McIlroy",
+          "score": -7,
+          "thru": 13,
           "today": -1,
           "status": "LIVE"
         },
         {
           "name": "Chris Gotterup",
           "score": -6,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
         {
-          "name": "Sam Burns",
-          "score": 1,
+          "name": "Tom Kim",
+          "score": 2,
           "thru": 0,
           "today": 0,
           "status": "LIVE"
@@ -976,14 +976,14 @@
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Viktor Hovland",
           "score": -3,
-          "thru": 10,
+          "thru": 11,
           "today": -4,
           "status": "LIVE"
         }
@@ -992,6 +992,38 @@
       "status": "LIVE",
       "side_pool": false,
       "rank": 31
+    },
+    {
+      "entrant_full_name": "Todd Smith",
+      "label": "Todd S",
+      "pairing_id": "Todd S-4",
+      "golfers": [
+        {
+          "name": "Matt Fitzpatrick",
+          "score": -7,
+          "thru": 8,
+          "today": -2,
+          "status": "LIVE"
+        },
+        {
+          "name": "Wyndham Clark",
+          "score": -6,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Tom Kim",
+          "score": 2,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -11,
+      "status": "LIVE",
+      "side_pool": false,
+      "rank": 32
     },
     {
       "entrant_full_name": "Erik Hetzel",
@@ -1023,7 +1055,7 @@
       "total_score": -10,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 32
+      "rank": 33
     },
     {
       "entrant_full_name": "James Clark",
@@ -1055,30 +1087,30 @@
       "total_score": -10,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 33
+      "rank": 34
     },
     {
-      "entrant_full_name": "Todd Smith",
-      "label": "Todd S",
-      "pairing_id": "Todd S-4",
+      "entrant_full_name": "Kristina Kinard",
+      "label": "Kristina K",
+      "pairing_id": "Kristina K-3",
       "golfers": [
         {
           "name": "Matt Fitzpatrick",
-          "score": -6,
-          "thru": 7,
-          "today": -1,
+          "score": -7,
+          "thru": 8,
+          "today": -2,
           "status": "LIVE"
         },
         {
-          "name": "Wyndham Clark",
-          "score": -6,
-          "thru": 0,
-          "today": 0,
+          "name": "Xander Schauffele",
+          "score": -4,
+          "thru": 13,
+          "today": -4,
           "status": "LIVE"
         },
         {
-          "name": "Tom Kim",
-          "score": 2,
+          "name": "Sam Burns",
+          "score": 1,
           "thru": 0,
           "today": 0,
           "status": "LIVE"
@@ -1087,7 +1119,71 @@
       "total_score": -10,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 34
+      "rank": 35
+    },
+    {
+      "entrant_full_name": "Nick Lopez",
+      "label": "Nick L",
+      "pairing_id": "Nick L-2",
+      "golfers": [
+        {
+          "name": "Matt Fitzpatrick",
+          "score": -7,
+          "thru": 8,
+          "today": -2,
+          "status": "LIVE"
+        },
+        {
+          "name": "Xander Schauffele",
+          "score": -4,
+          "thru": 13,
+          "today": -4,
+          "status": "LIVE"
+        },
+        {
+          "name": "Sam Burns",
+          "score": 1,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -10,
+      "status": "LIVE",
+      "side_pool": false,
+      "rank": 36
+    },
+    {
+      "entrant_full_name": "Dale Johnson",
+      "label": "Dale J",
+      "pairing_id": "Dale J-2",
+      "golfers": [
+        {
+          "name": "Scottie Scheffler",
+          "score": 2,
+          "thru": 8,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Xander Schauffele",
+          "score": -4,
+          "thru": 13,
+          "today": -4,
+          "status": "LIVE"
+        },
+        {
+          "name": "Patrick Cantlay",
+          "score": -7,
+          "thru": 17,
+          "today": -4,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -9,
+      "status": "LIVE",
+      "side_pool": true,
+      "rank": 37
     },
     {
       "entrant_full_name": "Dennis Picht",
@@ -1104,7 +1200,7 @@
         {
           "name": "Collin Morikawa",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -1119,30 +1215,30 @@
       "total_score": -9,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 35
+      "rank": 38
     },
     {
-      "entrant_full_name": "Kristina Kinard",
-      "label": "Kristina K",
-      "pairing_id": "Kristina K-3",
+      "entrant_full_name": "Donovan Jacob",
+      "label": "Donovan J",
+      "pairing_id": "Donovan J-6",
       "golfers": [
         {
           "name": "Matt Fitzpatrick",
-          "score": -6,
-          "thru": 7,
-          "today": -1,
+          "score": -7,
+          "thru": 8,
+          "today": -2,
           "status": "LIVE"
         },
         {
-          "name": "Xander Schauffele",
-          "score": -4,
-          "thru": 13,
-          "today": -4,
+          "name": "Collin Morikawa",
+          "score": -2,
+          "thru": 1,
+          "today": 0,
           "status": "LIVE"
         },
         {
-          "name": "Sam Burns",
-          "score": 1,
+          "name": "Si Woo Kim",
+          "score": 0,
           "thru": 0,
           "today": 0,
           "status": "LIVE"
@@ -1151,30 +1247,30 @@
       "total_score": -9,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 36
+      "rank": 39
     },
     {
-      "entrant_full_name": "Nick Lopez",
-      "label": "Nick L",
-      "pairing_id": "Nick L-2",
+      "entrant_full_name": "Niall Johnston",
+      "label": "Niall J",
+      "pairing_id": "Niall J-4",
       "golfers": [
         {
           "name": "Matt Fitzpatrick",
-          "score": -6,
-          "thru": 7,
-          "today": -1,
+          "score": -7,
+          "thru": 8,
+          "today": -2,
           "status": "LIVE"
         },
         {
-          "name": "Xander Schauffele",
-          "score": -4,
-          "thru": 13,
-          "today": -4,
+          "name": "Tommy Fleetwood",
+          "score": -1,
+          "thru": 9,
+          "today": 0,
           "status": "LIVE"
         },
         {
-          "name": "Sam Burns",
-          "score": 1,
+          "name": "Michael Brennan",
+          "score": -1,
           "thru": 0,
           "today": 0,
           "status": "LIVE"
@@ -1182,8 +1278,8 @@
       ],
       "total_score": -9,
       "status": "LIVE",
-      "side_pool": false,
-      "rank": 37
+      "side_pool": true,
+      "rank": 40
     },
     {
       "entrant_full_name": "Scott Calkins",
@@ -1193,7 +1289,7 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
@@ -1207,7 +1303,7 @@
         {
           "name": "Gary Woodland",
           "score": -7,
-          "thru": 1,
+          "thru": 3,
           "today": -1,
           "status": "LIVE"
         }
@@ -1215,7 +1311,7 @@
       "total_score": -9,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 38
+      "rank": 41
     },
     {
       "entrant_full_name": "Scott Hobbs",
@@ -1225,14 +1321,14 @@
         {
           "name": "Russell Henley",
           "score": -4,
-          "thru": 6,
+          "thru": 7,
           "today": -1,
           "status": "LIVE"
         },
         {
           "name": "Chris Gotterup",
           "score": -6,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -1247,7 +1343,7 @@
       "total_score": -9,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 39
+      "rank": 42
     },
     {
       "entrant_full_name": "Shawn Kicherer",
@@ -1279,62 +1375,30 @@
       "total_score": -9,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 40
+      "rank": 43
     },
     {
-      "entrant_full_name": "Dale Johnson",
-      "label": "Dale J",
-      "pairing_id": "Dale J-2",
-      "golfers": [
-        {
-          "name": "Scottie Scheffler",
-          "score": 2,
-          "thru": 7,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Xander Schauffele",
-          "score": -4,
-          "thru": 13,
-          "today": -4,
-          "status": "LIVE"
-        },
-        {
-          "name": "Patrick Cantlay",
-          "score": -6,
-          "thru": 16,
-          "today": -3,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -8,
-      "status": "LIVE",
-      "side_pool": true,
-      "rank": 41
-    },
-    {
-      "entrant_full_name": "Donovan Jacob",
-      "label": "Donovan J",
-      "pairing_id": "Donovan J-6",
+      "entrant_full_name": "Brian Young",
+      "label": "Brian",
+      "pairing_id": "Brian-3",
       "golfers": [
         {
           "name": "Matt Fitzpatrick",
-          "score": -6,
-          "thru": 7,
-          "today": -1,
+          "score": -7,
+          "thru": 8,
+          "today": -2,
           "status": "LIVE"
         },
         {
           "name": "Collin Morikawa",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
         {
-          "name": "Si Woo Kim",
-          "score": 0,
+          "name": "Sam Burns",
+          "score": 1,
           "thru": 0,
           "today": 0,
           "status": "LIVE"
@@ -1343,7 +1407,7 @@
       "total_score": -8,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 42
+      "rank": 44
     },
     {
       "entrant_full_name": "James Clark",
@@ -1353,14 +1417,14 @@
         {
           "name": "Russell Henley",
           "score": -4,
-          "thru": 6,
+          "thru": 7,
           "today": -1,
           "status": "LIVE"
         },
         {
           "name": "Collin Morikawa",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -1375,7 +1439,7 @@
       "total_score": -8,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 43
+      "rank": 45
     },
     {
       "entrant_full_name": "James Clark",
@@ -1392,7 +1456,7 @@
         {
           "name": "Chris Gotterup",
           "score": -6,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -1407,7 +1471,7 @@
       "total_score": -8,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 44
+      "rank": 46
     },
     {
       "entrant_full_name": "Jennifer Thomas",
@@ -1417,21 +1481,21 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Chris Gotterup",
           "score": -6,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Justin Thomas",
           "score": -4,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         }
@@ -1439,39 +1503,39 @@
       "total_score": -8,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 45
+      "rank": 47
     },
     {
-      "entrant_full_name": "Niall Johnston",
-      "label": "Niall J",
-      "pairing_id": "Niall J-4",
+      "entrant_full_name": "Nick Lopez",
+      "label": "Nick L",
+      "pairing_id": "Nick L-4",
       "golfers": [
         {
-          "name": "Matt Fitzpatrick",
-          "score": -6,
-          "thru": 7,
+          "name": "Rory McIlroy",
+          "score": -7,
+          "thru": 13,
           "today": -1,
           "status": "LIVE"
         },
         {
-          "name": "Tommy Fleetwood",
-          "score": -1,
-          "thru": 8,
+          "name": "Collin Morikawa",
+          "score": -2,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
         {
-          "name": "Michael Brennan",
-          "score": -1,
-          "thru": 0,
-          "today": 0,
+          "name": "Min Woo Lee",
+          "score": 1,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         }
       ],
       "total_score": -8,
       "status": "LIVE",
-      "side_pool": true,
-      "rank": 46
+      "side_pool": false,
+      "rank": 48
     },
     {
       "entrant_full_name": "Teddy Minner",
@@ -1488,7 +1552,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -1503,7 +1567,39 @@
       "total_score": -8,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 47
+      "rank": 49
+    },
+    {
+      "entrant_full_name": "Zach Taylor",
+      "label": "Zach T",
+      "pairing_id": "Zach T-4",
+      "golfers": [
+        {
+          "name": "Matt Fitzpatrick",
+          "score": -7,
+          "thru": 8,
+          "today": -2,
+          "status": "LIVE"
+        },
+        {
+          "name": "Collin Morikawa",
+          "score": -2,
+          "thru": 1,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Ryan Fox",
+          "score": 1,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -8,
+      "status": "LIVE",
+      "side_pool": false,
+      "rank": 50
     },
     {
       "entrant_full_name": "Bilal Ashraf",
@@ -1513,21 +1609,21 @@
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Collin Morikawa",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Ludvig Aberg",
           "score": -4,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -1535,7 +1631,7 @@
       "total_score": -7,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 48
+      "rank": 51
     },
     {
       "entrant_full_name": "Broc Mushet",
@@ -1552,7 +1648,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -1567,7 +1663,7 @@
       "total_score": -7,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 49
+      "rank": 52
     },
     {
       "entrant_full_name": "Brian Young",
@@ -1591,7 +1687,7 @@
         {
           "name": "Ludvig Aberg",
           "score": -4,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -1599,71 +1695,39 @@
       "total_score": -7,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 50
+      "rank": 53
     },
     {
-      "entrant_full_name": "Brian Young",
-      "label": "Brian",
-      "pairing_id": "Brian-3",
+      "entrant_full_name": "James Clark",
+      "label": "Jim C",
+      "pairing_id": "Jim C-2",
       "golfers": [
         {
           "name": "Matt Fitzpatrick",
-          "score": -6,
-          "thru": 7,
-          "today": -1,
+          "score": -7,
+          "thru": 8,
+          "today": -2,
           "status": "LIVE"
         },
         {
           "name": "Collin Morikawa",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
         {
-          "name": "Sam Burns",
-          "score": 1,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -7,
-      "status": "LIVE",
-      "side_pool": false,
-      "rank": 51
-    },
-    {
-      "entrant_full_name": "Dale Johnson",
-      "label": "Dale J",
-      "pairing_id": "Dale J-1",
-      "golfers": [
-        {
-          "name": "Scottie Scheffler",
+          "name": "Hideki Matsuyama",
           "score": 2,
-          "thru": 7,
+          "thru": 0,
           "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Xander Schauffele",
-          "score": -4,
-          "thru": 13,
-          "today": -4,
-          "status": "LIVE"
-        },
-        {
-          "name": "Robert MacIntyre",
-          "score": -5,
-          "thru": 13,
-          "today": -3,
           "status": "LIVE"
         }
       ],
       "total_score": -7,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 52
+      "rank": 54
     },
     {
       "entrant_full_name": "John Jerome",
@@ -1695,7 +1759,7 @@
       "total_score": -7,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 53
+      "rank": 55
     },
     {
       "entrant_full_name": "Jude Green",
@@ -1719,7 +1783,7 @@
         {
           "name": "Ludvig Aberg",
           "score": -4,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -1727,7 +1791,7 @@
       "total_score": -7,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 54
+      "rank": 56
     },
     {
       "entrant_full_name": "Mark Johnson",
@@ -1744,7 +1808,7 @@
         {
           "name": "Collin Morikawa",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -1759,7 +1823,7 @@
       "total_score": -7,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 55
+      "rank": 57
     },
     {
       "entrant_full_name": "Max Hensley",
@@ -1769,14 +1833,14 @@
         {
           "name": "Chris Gotterup",
           "score": -6,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Collin Morikawa",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -1791,39 +1855,7 @@
       "total_score": -7,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 56
-    },
-    {
-      "entrant_full_name": "Nick Lopez",
-      "label": "Nick L",
-      "pairing_id": "Nick L-4",
-      "golfers": [
-        {
-          "name": "Rory McIlroy",
-          "score": -7,
-          "thru": 13,
-          "today": -1,
-          "status": "LIVE"
-        },
-        {
-          "name": "Collin Morikawa",
-          "score": -2,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Min Woo Lee",
-          "score": 2,
-          "thru": 9,
-          "today": 3,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -7,
-      "status": "LIVE",
-      "side_pool": false,
-      "rank": 57
+      "rank": 58
     },
     {
       "entrant_full_name": "Scott Calkins",
@@ -1833,7 +1865,7 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
@@ -1847,7 +1879,7 @@
         {
           "name": "Viktor Hovland",
           "score": -3,
-          "thru": 10,
+          "thru": 11,
           "today": -4,
           "status": "LIVE"
         }
@@ -1855,7 +1887,7 @@
       "total_score": -7,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 58
+      "rank": 59
     },
     {
       "entrant_full_name": "Scott Henderson",
@@ -1872,7 +1904,7 @@
         {
           "name": "Collin Morikawa",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -1887,7 +1919,7 @@
       "total_score": -7,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 59
+      "rank": 60
     },
     {
       "entrant_full_name": "Sean Hogan",
@@ -1911,7 +1943,7 @@
         {
           "name": "Ludvig Aberg",
           "score": -4,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -1919,7 +1951,7 @@
       "total_score": -7,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 60
+      "rank": 61
     },
     {
       "entrant_full_name": "Steve Sawtell",
@@ -1929,7 +1961,7 @@
         {
           "name": "Russell Henley",
           "score": -4,
-          "thru": 6,
+          "thru": 7,
           "today": -1,
           "status": "LIVE"
         },
@@ -1951,38 +1983,6 @@
       "total_score": -7,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 61
-    },
-    {
-      "entrant_full_name": "Zach Taylor",
-      "label": "Zach T",
-      "pairing_id": "Zach T-4",
-      "golfers": [
-        {
-          "name": "Matt Fitzpatrick",
-          "score": -6,
-          "thru": 7,
-          "today": -1,
-          "status": "LIVE"
-        },
-        {
-          "name": "Collin Morikawa",
-          "score": -2,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Ryan Fox",
-          "score": 1,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -7,
-      "status": "LIVE",
-      "side_pool": false,
       "rank": 62
     },
     {
@@ -1993,7 +1993,7 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
@@ -2018,21 +2018,53 @@
       "rank": 63
     },
     {
-      "entrant_full_name": "James Clark",
-      "label": "Jim C",
-      "pairing_id": "Jim C-2",
+      "entrant_full_name": "Dale Johnson",
+      "label": "Dale J",
+      "pairing_id": "Dale J-1",
       "golfers": [
         {
-          "name": "Matt Fitzpatrick",
-          "score": -6,
-          "thru": 7,
-          "today": -1,
+          "name": "Scottie Scheffler",
+          "score": 2,
+          "thru": 8,
+          "today": 0,
           "status": "LIVE"
         },
         {
-          "name": "Collin Morikawa",
-          "score": -2,
-          "thru": 0,
+          "name": "Xander Schauffele",
+          "score": -4,
+          "thru": 13,
+          "today": -4,
+          "status": "LIVE"
+        },
+        {
+          "name": "Robert MacIntyre",
+          "score": -4,
+          "thru": 14,
+          "today": -2,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -6,
+      "status": "LIVE",
+      "side_pool": false,
+      "rank": 64
+    },
+    {
+      "entrant_full_name": "Dennis Picht",
+      "label": "Dennis P",
+      "pairing_id": "Dennis P-5",
+      "golfers": [
+        {
+          "name": "Matt Fitzpatrick",
+          "score": -7,
+          "thru": 8,
+          "today": -2,
+          "status": "LIVE"
+        },
+        {
+          "name": "Tommy Fleetwood",
+          "score": -1,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -2046,8 +2078,8 @@
       ],
       "total_score": -6,
       "status": "LIVE",
-      "side_pool": false,
-      "rank": 64
+      "side_pool": true,
+      "rank": 65
     },
     {
       "entrant_full_name": "James Clark",
@@ -2057,7 +2089,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -2079,7 +2111,7 @@
       "total_score": -6,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 65
+      "rank": 66
     },
     {
       "entrant_full_name": "Mark Johnson",
@@ -2089,7 +2121,7 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
@@ -2103,7 +2135,7 @@
         {
           "name": "Ludvig Aberg",
           "score": -4,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -2111,7 +2143,7 @@
       "total_score": -6,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 66
+      "rank": 67
     },
     {
       "entrant_full_name": "Niall Johnston",
@@ -2121,21 +2153,21 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Michael Thorbjornsen",
           "score": -7,
-          "thru": 15,
+          "thru": 16,
           "today": -3,
           "status": "LIVE"
         }
@@ -2143,7 +2175,7 @@
       "total_score": -6,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 67
+      "rank": 68
     },
     {
       "entrant_full_name": "Sean Hogan",
@@ -2160,7 +2192,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -2175,7 +2207,7 @@
       "total_score": -6,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 68
+      "rank": 69
     },
     {
       "entrant_full_name": "Teddy Minner",
@@ -2185,7 +2217,7 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
@@ -2199,7 +2231,7 @@
         {
           "name": "Ludvig Aberg",
           "score": -4,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -2207,38 +2239,6 @@
       "total_score": -6,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 69
-    },
-    {
-      "entrant_full_name": "Dennis Picht",
-      "label": "Dennis P",
-      "pairing_id": "Dennis P-5",
-      "golfers": [
-        {
-          "name": "Matt Fitzpatrick",
-          "score": -6,
-          "thru": 7,
-          "today": -1,
-          "status": "LIVE"
-        },
-        {
-          "name": "Tommy Fleetwood",
-          "score": -1,
-          "thru": 8,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Hideki Matsuyama",
-          "score": 2,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -5,
-      "status": "LIVE",
-      "side_pool": true,
       "rank": 70
     },
     {
@@ -2249,7 +2249,7 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
@@ -2263,7 +2263,7 @@
         {
           "name": "Viktor Hovland",
           "score": -3,
-          "thru": 10,
+          "thru": 11,
           "today": -4,
           "status": "LIVE"
         }
@@ -2281,7 +2281,7 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
@@ -2295,7 +2295,7 @@
         {
           "name": "Viktor Hovland",
           "score": -3,
-          "thru": 10,
+          "thru": 11,
           "today": -4,
           "status": "LIVE"
         }
@@ -2320,14 +2320,14 @@
         {
           "name": "Collin Morikawa",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Ludvig Aberg",
           "score": -4,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -2352,14 +2352,14 @@
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Ludvig Aberg",
           "score": -4,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -2384,7 +2384,7 @@
         {
           "name": "Chris Gotterup",
           "score": -6,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -2404,38 +2404,6 @@
     {
       "entrant_full_name": "Dale Johnson",
       "label": "Dale J",
-      "pairing_id": "Dale J-4",
-      "golfers": [
-        {
-          "name": "Scottie Scheffler",
-          "score": 2,
-          "thru": 7,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Tommy Fleetwood",
-          "score": -1,
-          "thru": 8,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Robert MacIntyre",
-          "score": -5,
-          "thru": 13,
-          "today": -3,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -4,
-      "status": "LIVE",
-      "side_pool": true,
-      "rank": 76
-    },
-    {
-      "entrant_full_name": "Dale Johnson",
-      "label": "Dale J",
       "pairing_id": "Dale J-7",
       "golfers": [
         {
@@ -2448,7 +2416,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -2463,7 +2431,7 @@
       "total_score": -4,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 77
+      "rank": 76
     },
     {
       "entrant_full_name": "Donovan Jacob",
@@ -2473,14 +2441,46 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Chris Gotterup",
           "score": -6,
+          "thru": 9,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Si Woo Kim",
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -4,
+      "status": "LIVE",
+      "side_pool": false,
+      "rank": 77
+    },
+    {
+      "entrant_full_name": "Kristina Kinard",
+      "label": "Kristina K",
+      "pairing_id": "Kristina K-2",
+      "golfers": [
+        {
+          "name": "Scottie Scheffler",
+          "score": 2,
           "thru": 8,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Wyndham Clark",
+          "score": -6,
+          "thru": 0,
           "today": 0,
           "status": "LIVE"
         },
@@ -2498,38 +2498,6 @@
       "rank": 78
     },
     {
-      "entrant_full_name": "Kristina Kinard",
-      "label": "Kristina K",
-      "pairing_id": "Kristina K-2",
-      "golfers": [
-        {
-          "name": "Scottie Scheffler",
-          "score": 2,
-          "thru": 7,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Wyndham Clark",
-          "score": -6,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Si Woo Kim",
-          "score": 0,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -4,
-      "status": "LIVE",
-      "side_pool": false,
-      "rank": 79
-    },
-    {
       "entrant_full_name": "Max Hensley",
       "label": "Max H",
       "pairing_id": "Max H-3",
@@ -2537,7 +2505,7 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
@@ -2551,7 +2519,7 @@
         {
           "name": "Ryan Gerard",
           "score": -2,
-          "thru": 9,
+          "thru": 10,
           "today": -2,
           "status": "LIVE"
         }
@@ -2559,7 +2527,7 @@
       "total_score": -4,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 80
+      "rank": 79
     },
     {
       "entrant_full_name": "Nick Lopez",
@@ -2569,7 +2537,7 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
@@ -2591,7 +2559,7 @@
       "total_score": -4,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 81
+      "rank": 80
     },
     {
       "entrant_full_name": "Nick Lopez",
@@ -2608,14 +2576,14 @@
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Ludvig Aberg",
           "score": -4,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -2623,7 +2591,7 @@
       "total_score": -4,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 82
+      "rank": 81
     },
     {
       "entrant_full_name": "Scott Calkins",
@@ -2640,7 +2608,7 @@
         {
           "name": "Chris Gotterup",
           "score": -6,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -2655,7 +2623,7 @@
       "total_score": -4,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 83
+      "rank": 82
     },
     {
       "entrant_full_name": "Steve Sawtell",
@@ -2665,7 +2633,7 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
@@ -2687,7 +2655,7 @@
       "total_score": -4,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 84
+      "rank": 83
     },
     {
       "entrant_full_name": "Zach Taylor",
@@ -2697,7 +2665,7 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
@@ -2719,7 +2687,7 @@
       "total_score": -4,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 85
+      "rank": 84
     },
     {
       "entrant_full_name": "Amy Foley",
@@ -2729,14 +2697,14 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -2751,7 +2719,7 @@
       "total_score": -3,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 86
+      "rank": 85
     },
     {
       "entrant_full_name": "Becky Cheeks",
@@ -2761,7 +2729,7 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
@@ -2783,7 +2751,7 @@
       "total_score": -3,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 87
+      "rank": 86
     },
     {
       "entrant_full_name": "Becky Cheeks",
@@ -2815,7 +2783,7 @@
       "total_score": -3,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 88
+      "rank": 87
     },
     {
       "entrant_full_name": "Bilal Ashraf",
@@ -2847,7 +2815,7 @@
       "total_score": -3,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 89
+      "rank": 88
     },
     {
       "entrant_full_name": "Broc Mushet",
@@ -2857,21 +2825,21 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Collin Morikawa",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Viktor Hovland",
           "score": -3,
-          "thru": 10,
+          "thru": 11,
           "today": -4,
           "status": "LIVE"
         }
@@ -2879,6 +2847,38 @@
       "total_score": -3,
       "status": "LIVE",
       "side_pool": false,
+      "rank": 89
+    },
+    {
+      "entrant_full_name": "Dale Johnson",
+      "label": "Dale J",
+      "pairing_id": "Dale J-4",
+      "golfers": [
+        {
+          "name": "Scottie Scheffler",
+          "score": 2,
+          "thru": 8,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Tommy Fleetwood",
+          "score": -1,
+          "thru": 9,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Robert MacIntyre",
+          "score": -4,
+          "thru": 14,
+          "today": -2,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -3,
+      "status": "LIVE",
+      "side_pool": true,
       "rank": 90
     },
     {
@@ -2889,21 +2889,21 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Justin Thomas",
           "score": -4,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         }
@@ -2921,21 +2921,21 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Ludvig Aberg",
           "score": -4,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -2953,21 +2953,21 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Ludvig Aberg",
           "score": -4,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -2985,7 +2985,7 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
@@ -3017,14 +3017,14 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Chris Gotterup",
           "score": -6,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -3081,14 +3081,14 @@
         {
           "name": "Russell Henley",
           "score": -4,
-          "thru": 6,
+          "thru": 7,
           "today": -1,
           "status": "LIVE"
         },
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -3113,21 +3113,21 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Justin Thomas",
           "score": -4,
-          "thru": 5,
+          "thru": 6,
           "today": -1,
           "status": "LIVE"
         }
@@ -3152,14 +3152,14 @@
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Viktor Hovland",
           "score": -3,
-          "thru": 10,
+          "thru": 11,
           "today": -4,
           "status": "LIVE"
         }
@@ -3184,14 +3184,14 @@
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Viktor Hovland",
           "score": -3,
-          "thru": 10,
+          "thru": 11,
           "today": -4,
           "status": "LIVE"
         }
@@ -3216,7 +3216,7 @@
         {
           "name": "Chris Gotterup",
           "score": -6,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -3241,14 +3241,14 @@
         {
           "name": "Russell Henley",
           "score": -4,
-          "thru": 6,
+          "thru": 7,
           "today": -1,
           "status": "LIVE"
         },
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -3280,7 +3280,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -3312,7 +3312,7 @@
         {
           "name": "Chris Gotterup",
           "score": -6,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -3337,7 +3337,7 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
@@ -3408,7 +3408,7 @@
         {
           "name": "Ludvig Aberg",
           "score": -4,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -3426,6 +3426,38 @@
       "rank": 107
     },
     {
+      "entrant_full_name": "Dennis Picht",
+      "label": "Dennis P",
+      "pairing_id": "Dennis P-6",
+      "golfers": [
+        {
+          "name": "Cameron Young",
+          "score": 1,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Xander Schauffele",
+          "score": -4,
+          "thru": 13,
+          "today": -4,
+          "status": "LIVE"
+        },
+        {
+          "name": "Min Woo Lee",
+          "score": 1,
+          "thru": 10,
+          "today": 2,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -2,
+      "status": "LIVE",
+      "side_pool": true,
+      "rank": 108
+    },
+    {
       "entrant_full_name": "Niall Johnston",
       "label": "Niall J",
       "pairing_id": "Niall J-2",
@@ -3433,7 +3465,7 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
@@ -3455,7 +3487,7 @@
       "total_score": -2,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 108
+      "rank": 109
     },
     {
       "entrant_full_name": "Shawn Kicherer",
@@ -3487,7 +3519,7 @@
       "total_score": -2,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 109
+      "rank": 110
     },
     {
       "entrant_full_name": "Amy Foley",
@@ -3519,7 +3551,7 @@
       "total_score": -1,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 110
+      "rank": 111
     },
     {
       "entrant_full_name": "Anthony Green",
@@ -3529,46 +3561,14 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Ludvig Aberg",
           "score": -4,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Sam Burns",
-          "score": 1,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -1,
-      "status": "LIVE",
-      "side_pool": true,
-      "rank": 111
-    },
-    {
-      "entrant_full_name": "Broc Mushet",
-      "label": "Broc M",
-      "pairing_id": "Broc M-5",
-      "golfers": [
-        {
-          "name": "Scottie Scheffler",
-          "score": 2,
-          "thru": 7,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Ludvig Aberg",
-          "score": -4,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -3586,22 +3586,22 @@
       "rank": 112
     },
     {
-      "entrant_full_name": "Dennis Picht",
-      "label": "Dennis P",
-      "pairing_id": "Dennis P-1",
+      "entrant_full_name": "Broc Mushet",
+      "label": "Broc M",
+      "pairing_id": "Broc M-5",
       "golfers": [
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
-          "name": "Xander Schauffele",
+          "name": "Ludvig Aberg",
           "score": -4,
-          "thru": 13,
-          "today": -4,
+          "thru": 1,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -3614,18 +3614,18 @@
       ],
       "total_score": -1,
       "status": "LIVE",
-      "side_pool": false,
+      "side_pool": true,
       "rank": 113
     },
     {
-      "entrant_full_name": "Dennis Picht",
-      "label": "Dennis P",
-      "pairing_id": "Dennis P-6",
+      "entrant_full_name": "Dale Johnson",
+      "label": "Dale J",
+      "pairing_id": "Dale J-6",
       "golfers": [
         {
-          "name": "Cameron Young",
-          "score": 1,
-          "thru": 0,
+          "name": "Scottie Scheffler",
+          "score": 2,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
@@ -3638,26 +3638,26 @@
         },
         {
           "name": "Min Woo Lee",
-          "score": 2,
-          "thru": 9,
-          "today": 3,
+          "score": 1,
+          "thru": 10,
+          "today": 2,
           "status": "LIVE"
         }
       ],
       "total_score": -1,
       "status": "LIVE",
-      "side_pool": true,
+      "side_pool": false,
       "rank": 114
     },
     {
-      "entrant_full_name": "Devin Schad",
-      "label": "Devin S",
-      "pairing_id": "Devin S-1",
+      "entrant_full_name": "Dennis Picht",
+      "label": "Dennis P",
+      "pairing_id": "Dennis P-1",
       "golfers": [
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
@@ -3682,14 +3682,14 @@
       "rank": 115
     },
     {
-      "entrant_full_name": "Jennifer Thomas",
-      "label": "Jennifer T",
-      "pairing_id": "Jennifer T-1",
+      "entrant_full_name": "Devin Schad",
+      "label": "Devin S",
+      "pairing_id": "Devin S-1",
       "golfers": [
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
@@ -3710,18 +3710,18 @@
       ],
       "total_score": -1,
       "status": "LIVE",
-      "side_pool": true,
+      "side_pool": false,
       "rank": 116
     },
     {
-      "entrant_full_name": "John Jerome",
-      "label": "John J",
-      "pairing_id": "John J-2",
+      "entrant_full_name": "Jennifer Thomas",
+      "label": "Jennifer T",
+      "pairing_id": "Jennifer T-1",
       "golfers": [
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
@@ -3746,6 +3746,38 @@
       "rank": 117
     },
     {
+      "entrant_full_name": "John Jerome",
+      "label": "John J",
+      "pairing_id": "John J-2",
+      "golfers": [
+        {
+          "name": "Scottie Scheffler",
+          "score": 2,
+          "thru": 8,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Xander Schauffele",
+          "score": -4,
+          "thru": 13,
+          "today": -4,
+          "status": "LIVE"
+        },
+        {
+          "name": "Sam Burns",
+          "score": 1,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -1,
+      "status": "LIVE",
+      "side_pool": true,
+      "rank": 118
+    },
+    {
       "entrant_full_name": "Todd Smith",
       "label": "Todd S",
       "pairing_id": "Todd S-1",
@@ -3753,7 +3785,7 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
@@ -3775,38 +3807,6 @@
       "total_score": -1,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 118
-    },
-    {
-      "entrant_full_name": "Dale Johnson",
-      "label": "Dale J",
-      "pairing_id": "Dale J-6",
-      "golfers": [
-        {
-          "name": "Scottie Scheffler",
-          "score": 2,
-          "thru": 7,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Xander Schauffele",
-          "score": -4,
-          "thru": 13,
-          "today": -4,
-          "status": "LIVE"
-        },
-        {
-          "name": "Min Woo Lee",
-          "score": 2,
-          "thru": 9,
-          "today": 3,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": 0,
-      "status": "LIVE",
-      "side_pool": false,
       "rank": 119
     },
     {
@@ -3817,14 +3817,14 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Collin Morikawa",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -3856,7 +3856,7 @@
         {
           "name": "Collin Morikawa",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -3881,7 +3881,7 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
@@ -3895,7 +3895,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         }
@@ -3913,7 +3913,7 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
@@ -3945,7 +3945,7 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
@@ -3984,7 +3984,7 @@
         {
           "name": "Collin Morikawa",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -4016,7 +4016,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -4048,7 +4048,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -4073,14 +4073,14 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Collin Morikawa",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -4112,7 +4112,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -4137,14 +4137,14 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Collin Morikawa",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -4169,14 +4169,14 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Collin Morikawa",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -4201,14 +4201,14 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Collin Morikawa",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -4240,7 +4240,7 @@
         {
           "name": "Collin Morikawa",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -4265,14 +4265,14 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -4297,14 +4297,14 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Collin Morikawa",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -4329,14 +4329,14 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -4361,14 +4361,14 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Collin Morikawa",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -4393,14 +4393,14 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -4425,14 +4425,14 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -4464,7 +4464,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -4489,21 +4489,21 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Rickie Fowler",
           "score": 1,
-          "thru": 13,
+          "thru": 14,
           "today": 0,
           "status": "LIVE"
         }
@@ -4521,14 +4521,14 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -4553,14 +4553,14 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Tommy Fleetwood",
           "score": -1,
-          "thru": 8,
+          "thru": 9,
           "today": 0,
           "status": "LIVE"
         },
@@ -4585,14 +4585,14 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
         {
           "name": "Collin Morikawa",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -4617,7 +4617,7 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
@@ -4649,7 +4649,7 @@
         {
           "name": "Scottie Scheffler",
           "score": 2,
-          "thru": 7,
+          "thru": 8,
           "today": 0,
           "status": "LIVE"
         },
