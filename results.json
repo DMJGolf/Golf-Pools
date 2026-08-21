@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T15:23:41.700887+00:00",
+  "last_updated": "2026-08-21T15:30:15.867849+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Sean Hogan",
@@ -944,7 +944,7 @@
         {
           "name": "Robert MacIntyre",
           "score": -2,
-          "thru": 3,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         },
@@ -3095,7 +3095,7 @@
         {
           "name": "Robert MacIntyre",
           "score": -2,
-          "thru": 3,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         }
@@ -3127,7 +3127,7 @@
         {
           "name": "Robert MacIntyre",
           "score": -2,
-          "thru": 3,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         }
@@ -4578,6 +4578,38 @@
       "rank": 143
     },
     {
+      "entrant_full_name": "Scott Henderson",
+      "label": "Scott H",
+      "pairing_id": "Scott H-3",
+      "golfers": [
+        {
+          "name": "Scottie Scheffler",
+          "score": 2,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Tommy Fleetwood",
+          "score": -1,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Rickie Fowler",
+          "score": 2,
+          "thru": 4,
+          "today": 1,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": 3,
+      "status": "LIVE",
+      "side_pool": false,
+      "rank": 144
+    },
+    {
       "entrant_full_name": "Shawn Kicherer",
       "label": "Shawn K",
       "pairing_id": "Shawn K-4",
@@ -4605,38 +4637,6 @@
         }
       ],
       "total_score": 3,
-      "status": "LIVE",
-      "side_pool": false,
-      "rank": 144
-    },
-    {
-      "entrant_full_name": "Scott Henderson",
-      "label": "Scott H",
-      "pairing_id": "Scott H-3",
-      "golfers": [
-        {
-          "name": "Scottie Scheffler",
-          "score": 2,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Tommy Fleetwood",
-          "score": -1,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Rickie Fowler",
-          "score": 3,
-          "thru": 3,
-          "today": 2,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": 4,
       "status": "LIVE",
       "side_pool": false,
       "rank": 145
