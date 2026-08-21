@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T14:51:15.536630+00:00",
+  "last_updated": "2026-08-21T15:00:21.331271+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Sean Hogan",
@@ -663,7 +663,7 @@
         {
           "name": "Patrick Cantlay",
           "score": -3,
-          "thru": 3,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         }
@@ -759,7 +759,7 @@
         {
           "name": "Patrick Cantlay",
           "score": -3,
-          "thru": 3,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         }
@@ -912,7 +912,7 @@
         {
           "name": "Robert MacIntyre",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         },
@@ -3063,7 +3063,7 @@
         {
           "name": "Patrick Cantlay",
           "score": -3,
-          "thru": 3,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         }
@@ -3095,7 +3095,7 @@
         {
           "name": "Robert MacIntyre",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -3127,7 +3127,7 @@
         {
           "name": "Robert MacIntyre",
           "score": -2,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
@@ -3735,7 +3735,7 @@
         {
           "name": "Nico Echavarria",
           "score": 1,
-          "thru": 2,
+          "thru": 3,
           "today": 2,
           "status": "LIVE"
         }
@@ -4183,7 +4183,7 @@
         {
           "name": "Rickie Fowler",
           "score": 1,
-          "thru": 0,
+          "thru": 1,
           "today": 0,
           "status": "LIVE"
         }
