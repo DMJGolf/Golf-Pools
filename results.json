@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T14:15:14.005600+00:00",
+  "last_updated": "2026-08-22T14:17:50.169369+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Sean Hogan",
@@ -1079,7 +1079,7 @@
         {
           "name": "Tom Kim",
           "score": 1,
-          "thru": 3,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         }
@@ -1111,7 +1111,7 @@
         {
           "name": "Tom Kim",
           "score": 1,
-          "thru": 3,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         }
@@ -1335,7 +1335,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": 0,
-          "thru": 1,
+          "thru": 2,
           "today": 0,
           "status": "LIVE"
         }
@@ -1367,7 +1367,7 @@
         {
           "name": "Tom Kim",
           "score": 1,
-          "thru": 3,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         }
@@ -1495,7 +1495,7 @@
         {
           "name": "Tom Kim",
           "score": 1,
-          "thru": 3,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         }
@@ -1783,7 +1783,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": 0,
-          "thru": 1,
+          "thru": 2,
           "today": 0,
           "status": "LIVE"
         }
@@ -1879,7 +1879,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": 0,
-          "thru": 1,
+          "thru": 2,
           "today": 0,
           "status": "LIVE"
         }
@@ -1911,7 +1911,7 @@
         {
           "name": "Tom Kim",
           "score": 1,
-          "thru": 3,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         }
@@ -2167,7 +2167,7 @@
         {
           "name": "Tom Kim",
           "score": 1,
-          "thru": 3,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         }
@@ -2338,38 +2338,6 @@
       "rank": 73
     },
     {
-      "entrant_full_name": "Nick Lopez",
-      "label": "Nick L",
-      "pairing_id": "Nick L-4",
-      "golfers": [
-        {
-          "name": "Rory McIlroy",
-          "score": -7,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Collin Morikawa",
-          "score": -7,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Min Woo Lee",
-          "score": 2,
-          "thru": 2,
-          "today": 1,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -12,
-      "status": "LIVE",
-      "side_pool": false,
-      "rank": 74
-    },
-    {
       "entrant_full_name": "Sean Hogan",
       "label": "Sean Hogan",
       "pairing_id": "Sean Hogan-1",
@@ -2399,7 +2367,7 @@
       "total_score": -12,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 75
+      "rank": 74
     },
     {
       "entrant_full_name": "Sean Hogan",
@@ -2431,7 +2399,7 @@
       "total_score": -12,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 76
+      "rank": 75
     },
     {
       "entrant_full_name": "Teddy Minner",
@@ -2463,7 +2431,7 @@
       "total_score": -12,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 77
+      "rank": 76
     },
     {
       "entrant_full_name": "Broc Mushet",
@@ -2495,7 +2463,7 @@
       "total_score": -11,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 78
+      "rank": 77
     },
     {
       "entrant_full_name": "Dale Johnson",
@@ -2527,7 +2495,7 @@
       "total_score": -11,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 79
+      "rank": 78
     },
     {
       "entrant_full_name": "Donovan Jacob",
@@ -2559,7 +2527,7 @@
       "total_score": -11,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 80
+      "rank": 79
     },
     {
       "entrant_full_name": "Donovan Jacob",
@@ -2591,7 +2559,7 @@
       "total_score": -11,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 81
+      "rank": 80
     },
     {
       "entrant_full_name": "Eric Cheeks",
@@ -2623,7 +2591,7 @@
       "total_score": -11,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 82
+      "rank": 81
     },
     {
       "entrant_full_name": "Erik Hetzel",
@@ -2655,7 +2623,7 @@
       "total_score": -11,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 83
+      "rank": 82
     },
     {
       "entrant_full_name": "James Clark",
@@ -2687,7 +2655,7 @@
       "total_score": -11,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 84
+      "rank": 83
     },
     {
       "entrant_full_name": "Mark Johnson",
@@ -2719,7 +2687,7 @@
       "total_score": -11,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 85
+      "rank": 84
     },
     {
       "entrant_full_name": "Max Hensley",
@@ -2751,7 +2719,7 @@
       "total_score": -11,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 86
+      "rank": 85
     },
     {
       "entrant_full_name": "Niall Johnston",
@@ -2783,6 +2751,38 @@
       "total_score": -11,
       "status": "LIVE",
       "side_pool": true,
+      "rank": 86
+    },
+    {
+      "entrant_full_name": "Nick Lopez",
+      "label": "Nick L",
+      "pairing_id": "Nick L-4",
+      "golfers": [
+        {
+          "name": "Rory McIlroy",
+          "score": -7,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Collin Morikawa",
+          "score": -7,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Min Woo Lee",
+          "score": 3,
+          "thru": 3,
+          "today": 2,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -11,
+      "status": "LIVE",
+      "side_pool": false,
       "rank": 87
     },
     {
@@ -2839,7 +2839,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": 0,
-          "thru": 1,
+          "thru": 2,
           "today": 0,
           "status": "LIVE"
         }
@@ -2903,7 +2903,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": 0,
-          "thru": 1,
+          "thru": 2,
           "today": 0,
           "status": "LIVE"
         }
@@ -2999,7 +2999,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": 0,
-          "thru": 1,
+          "thru": 2,
           "today": 0,
           "status": "LIVE"
         }
@@ -3063,7 +3063,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": 0,
-          "thru": 1,
+          "thru": 2,
           "today": 0,
           "status": "LIVE"
         }
@@ -3095,7 +3095,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": 0,
-          "thru": 1,
+          "thru": 2,
           "today": 0,
           "status": "LIVE"
         }
@@ -3255,7 +3255,7 @@
         {
           "name": "Ryan Fox",
           "score": 0,
-          "thru": 1,
+          "thru": 2,
           "today": 0,
           "status": "LIVE"
         }
@@ -3799,7 +3799,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": 0,
-          "thru": 1,
+          "thru": 2,
           "today": 0,
           "status": "LIVE"
         }
@@ -3831,7 +3831,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": 0,
-          "thru": 1,
+          "thru": 2,
           "today": 0,
           "status": "LIVE"
         }
@@ -3927,7 +3927,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": 0,
-          "thru": 1,
+          "thru": 2,
           "today": 0,
           "status": "LIVE"
         }
@@ -4055,7 +4055,7 @@
         {
           "name": "Tom Kim",
           "score": 1,
-          "thru": 3,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         }
@@ -4322,38 +4322,6 @@
       "rank": 135
     },
     {
-      "entrant_full_name": "Dennis Picht",
-      "label": "Dennis P",
-      "pairing_id": "Dennis P-6",
-      "golfers": [
-        {
-          "name": "Cameron Young",
-          "score": -4,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Xander Schauffele",
-          "score": -4,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Min Woo Lee",
-          "score": 2,
-          "thru": 2,
-          "today": 1,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -6,
-      "status": "LIVE",
-      "side_pool": true,
-      "rank": 136
-    },
-    {
       "entrant_full_name": "Kristina Kinard",
       "label": "Kristina K",
       "pairing_id": "Kristina K-1",
@@ -4375,7 +4343,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": 0,
-          "thru": 1,
+          "thru": 2,
           "today": 0,
           "status": "LIVE"
         }
@@ -4383,7 +4351,7 @@
       "total_score": -6,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 137
+      "rank": 136
     },
     {
       "entrant_full_name": "Michael Eckloff",
@@ -4407,7 +4375,7 @@
         {
           "name": "Tom Kim",
           "score": 1,
-          "thru": 3,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         }
@@ -4415,7 +4383,7 @@
       "total_score": -6,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 138
+      "rank": 137
     },
     {
       "entrant_full_name": "Nick Lopez",
@@ -4439,7 +4407,7 @@
         {
           "name": "Tom Kim",
           "score": 1,
-          "thru": 3,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         }
@@ -4447,7 +4415,7 @@
       "total_score": -6,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 139
+      "rank": 138
     },
     {
       "entrant_full_name": "Shawn Kicherer",
@@ -4479,7 +4447,7 @@
       "total_score": -6,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 140
+      "rank": 139
     },
     {
       "entrant_full_name": "Brian Young",
@@ -4503,47 +4471,15 @@
         {
           "name": "Hideki Matsuyama",
           "score": 0,
-          "thru": 1,
-          "today": 0,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -5,
-      "status": "LIVE",
-      "side_pool": false,
-      "rank": 141
-    },
-    {
-      "entrant_full_name": "Dale Johnson",
-      "label": "Dale J",
-      "pairing_id": "Dale J-6",
-      "golfers": [
-        {
-          "name": "Scottie Scheffler",
-          "score": -3,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Xander Schauffele",
-          "score": -4,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Min Woo Lee",
-          "score": 2,
           "thru": 2,
-          "today": 1,
+          "today": 0,
           "status": "LIVE"
         }
       ],
       "total_score": -5,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 142
+      "rank": 140
     },
     {
       "entrant_full_name": "Dennis Picht",
@@ -4567,7 +4503,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": 0,
-          "thru": 1,
+          "thru": 2,
           "today": 0,
           "status": "LIVE"
         }
@@ -4575,7 +4511,39 @@
       "total_score": -5,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 143
+      "rank": 141
+    },
+    {
+      "entrant_full_name": "Dennis Picht",
+      "label": "Dennis P",
+      "pairing_id": "Dennis P-6",
+      "golfers": [
+        {
+          "name": "Cameron Young",
+          "score": -4,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Xander Schauffele",
+          "score": -4,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Min Woo Lee",
+          "score": 3,
+          "thru": 3,
+          "today": 2,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -5,
+      "status": "LIVE",
+      "side_pool": true,
+      "rank": 142
     },
     {
       "entrant_full_name": "Scott Henderson",
@@ -4607,6 +4575,38 @@
       "total_score": -5,
       "status": "LIVE",
       "side_pool": false,
+      "rank": 143
+    },
+    {
+      "entrant_full_name": "Dale Johnson",
+      "label": "Dale J",
+      "pairing_id": "Dale J-6",
+      "golfers": [
+        {
+          "name": "Scottie Scheffler",
+          "score": -3,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Xander Schauffele",
+          "score": -4,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Min Woo Lee",
+          "score": 3,
+          "thru": 3,
+          "today": 2,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -4,
+      "status": "LIVE",
+      "side_pool": false,
       "rank": 144
     },
     {
@@ -4631,7 +4631,7 @@
         {
           "name": "Tom Kim",
           "score": 1,
-          "thru": 3,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         }
@@ -4656,7 +4656,7 @@
         {
           "name": "Tom Kim",
           "score": 1,
-          "thru": 3,
+          "thru": 4,
           "today": 0,
           "status": "LIVE"
         },
