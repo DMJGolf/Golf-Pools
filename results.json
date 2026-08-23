@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T13:45:15.761468+00:00",
+  "last_updated": "2026-08-23T13:50:48.480590+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Zach Taylor",
@@ -848,7 +848,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -1936,7 +1936,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -1968,7 +1968,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -2128,7 +2128,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -2192,7 +2192,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -2384,7 +2384,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -2480,7 +2480,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -2530,6 +2530,38 @@
       "rank": 79
     },
     {
+      "entrant_full_name": "Zach Taylor",
+      "label": "Zach T",
+      "pairing_id": "Zach T-4",
+      "golfers": [
+        {
+          "name": "Matt Fitzpatrick",
+          "score": -4,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Collin Morikawa",
+          "score": -10,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
+        },
+        {
+          "name": "Ryan Fox",
+          "score": 0,
+          "thru": 3,
+          "today": -1,
+          "status": "LIVE"
+        }
+      ],
+      "total_score": -14,
+      "status": "LIVE",
+      "side_pool": false,
+      "rank": 80
+    },
+    {
       "entrant_full_name": "Bilal Ashraf",
       "label": "Bilal A",
       "pairing_id": "Bilal A-6",
@@ -2537,7 +2569,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -2559,7 +2591,7 @@
       "total_score": -13,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 80
+      "rank": 81
     },
     {
       "entrant_full_name": "Brian Young",
@@ -2591,7 +2623,7 @@
       "total_score": -13,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 81
+      "rank": 82
     },
     {
       "entrant_full_name": "Dale Johnson",
@@ -2623,7 +2655,7 @@
       "total_score": -13,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 82
+      "rank": 83
     },
     {
       "entrant_full_name": "Jude Green",
@@ -2655,7 +2687,7 @@
       "total_score": -13,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 83
+      "rank": 84
     },
     {
       "entrant_full_name": "Mark Johnson",
@@ -2687,7 +2719,7 @@
       "total_score": -13,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 84
+      "rank": 85
     },
     {
       "entrant_full_name": "Max Hensley",
@@ -2719,7 +2751,7 @@
       "total_score": -13,
       "status": "LIVE",
       "side_pool": false,
-      "rank": 85
+      "rank": 86
     },
     {
       "entrant_full_name": "Sean Hogan",
@@ -2751,7 +2783,7 @@
       "total_score": -13,
       "status": "LIVE",
       "side_pool": true,
-      "rank": 86
+      "rank": 87
     },
     {
       "entrant_full_name": "Teddy Minner",
@@ -2776,38 +2808,6 @@
           "name": "Ludvig Aberg",
           "score": -5,
           "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        }
-      ],
-      "total_score": -13,
-      "status": "LIVE",
-      "side_pool": false,
-      "rank": 87
-    },
-    {
-      "entrant_full_name": "Zach Taylor",
-      "label": "Zach T",
-      "pairing_id": "Zach T-4",
-      "golfers": [
-        {
-          "name": "Matt Fitzpatrick",
-          "score": -4,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Collin Morikawa",
-          "score": -10,
-          "thru": 0,
-          "today": 0,
-          "status": "LIVE"
-        },
-        {
-          "name": "Ryan Fox",
-          "score": 1,
-          "thru": 2,
           "today": 0,
           "status": "LIVE"
         }
@@ -3216,7 +3216,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -3248,7 +3248,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -3472,7 +3472,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -3600,7 +3600,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -3632,7 +3632,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -3664,7 +3664,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -3696,7 +3696,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -3728,7 +3728,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -3760,7 +3760,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -3792,7 +3792,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -3824,7 +3824,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -3888,7 +3888,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -3984,7 +3984,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -4016,7 +4016,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -4048,7 +4048,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -4080,7 +4080,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -4112,7 +4112,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -4144,7 +4144,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -4176,7 +4176,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -4208,7 +4208,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -4240,7 +4240,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -4304,7 +4304,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -4336,7 +4336,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -4368,7 +4368,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -4400,7 +4400,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -4432,7 +4432,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -4471,7 +4471,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         }
@@ -4496,7 +4496,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -4528,7 +4528,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -4560,7 +4560,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -4592,7 +4592,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -4624,7 +4624,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
@@ -4649,7 +4649,7 @@
         {
           "name": "Tommy Fleetwood",
           "score": 2,
-          "thru": 2,
+          "thru": 3,
           "today": 0,
           "status": "LIVE"
         },
