@@ -140,7 +140,7 @@
       "Collin Morikawa",
       "Hideki Matsuyama"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
     "entrant_full_name": "Bilal Ashraf",
@@ -151,7 +151,7 @@
       "Chris Gotterup",
       "Ludvig Aberg"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
     "entrant_full_name": "Bilal Ashraf",
@@ -206,7 +206,7 @@
       "Xander Schauffele",
       "Ludvig Aberg"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
     "entrant_full_name": "Broc Mushet",
@@ -228,7 +228,7 @@
       "Chris Gotterup",
       "Sam Burns"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
     "entrant_full_name": "Broc Mushet",
@@ -239,7 +239,7 @@
       "Ludvig Aberg",
       "Sam Burns"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
     "entrant_full_name": "Brian Young",
@@ -310,17 +310,6 @@
   {
     "entrant_full_name": "Dale Johnson",
     "label": "Dale J",
-    "pairing_id": "Dale J-5",
-    "golfers": [
-      "Scottie Scheffler",
-      "Tommy Fleetwood",
-      "Justin Thomas"
-    ],
-    "side_pool": false
-  },
-  {
-    "entrant_full_name": "Dale Johnson",
-    "label": "Dale J",
     "pairing_id": "Dale J-6",
     "golfers": [
       "Scottie Scheffler",
@@ -341,7 +330,7 @@
     "side_pool": true
   },
   {
-    "entrant_full_name": "Dennis Picht",
+    "entrant_full_name": "Dale Johnson",
     "label": "Dennis P",
     "pairing_id": "Dennis P-1",
     "golfers": [
@@ -352,7 +341,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Dennis Picht",
+    "entrant_full_name": "Dale Johnson",
     "label": "Dennis P",
     "pairing_id": "Dennis P-2",
     "golfers": [
@@ -363,7 +352,7 @@
     "side_pool": true
   },
   {
-    "entrant_full_name": "Dennis Picht",
+    "entrant_full_name": "Dale Johnson",
     "label": "Dennis P",
     "pairing_id": "Dennis P-3",
     "golfers": [
@@ -374,7 +363,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Dennis Picht",
+    "entrant_full_name": "Dale Johnson",
     "label": "Dennis P",
     "pairing_id": "Dennis P-4",
     "golfers": [
@@ -382,10 +371,10 @@
       "Chris Gotterup",
       "Tom Kim"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
-    "entrant_full_name": "Dennis Picht",
+    "entrant_full_name": "Dale Johnson",
     "label": "Dennis P",
     "pairing_id": "Dennis P-5",
     "golfers": [
@@ -396,7 +385,7 @@
     "side_pool": true
   },
   {
-    "entrant_full_name": "Dennis Picht",
+    "entrant_full_name": "Dale Johnson",
     "label": "Dennis P",
     "pairing_id": "Dennis P-6",
     "golfers": [
@@ -404,10 +393,10 @@
       "Xander Schauffele",
       "Min Woo Lee"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
-    "entrant_full_name": "Devin Schad",
+    "entrant_full_name": "Dennis Picht",
     "label": "Devin S",
     "pairing_id": "Devin S-1",
     "golfers": [
@@ -418,7 +407,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Donovan Jacob",
+    "entrant_full_name": "Devin Schad",
     "label": "Donovan J",
     "pairing_id": "Donovan J-1",
     "golfers": [
@@ -429,7 +418,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Donovan Jacob",
+    "entrant_full_name": "Devin Schad",
     "label": "Donovan J",
     "pairing_id": "Donovan J-2",
     "golfers": [
@@ -440,7 +429,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Donovan Jacob",
+    "entrant_full_name": "Devin Schad",
     "label": "Donovan J",
     "pairing_id": "Donovan J-3",
     "golfers": [
@@ -451,7 +440,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Donovan Jacob",
+    "entrant_full_name": "Devin Schad",
     "label": "Donovan J",
     "pairing_id": "Donovan J-4",
     "golfers": [
@@ -462,7 +451,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Donovan Jacob",
+    "entrant_full_name": "Devin Schad",
     "label": "Donovan J",
     "pairing_id": "Donovan J-5",
     "golfers": [
@@ -473,7 +462,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Donovan Jacob",
+    "entrant_full_name": "Devin Schad",
     "label": "Donovan J",
     "pairing_id": "Donovan J-6",
     "golfers": [
@@ -484,7 +473,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Eric Cheeks",
+    "entrant_full_name": "Donovan Jacob",
     "label": "Eric C",
     "pairing_id": "Eric C-1",
     "golfers": [
@@ -495,7 +484,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Eric Cheeks",
+    "entrant_full_name": "Donovan Jacob",
     "label": "Eric C",
     "pairing_id": "Eric C-2",
     "golfers": [
@@ -506,7 +495,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Eric Cheeks",
+    "entrant_full_name": "Donovan Jacob",
     "label": "Eric C",
     "pairing_id": "Eric C-3",
     "golfers": [
@@ -517,7 +506,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Eric Cheeks",
+    "entrant_full_name": "Donovan Jacob",
     "label": "Eric C",
     "pairing_id": "Eric C-4",
     "golfers": [
@@ -528,7 +517,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Erik Hetzel",
+    "entrant_full_name": "Eric Cheeks",
     "label": "Erik H",
     "pairing_id": "Erik H-1",
     "golfers": [
@@ -536,10 +525,10 @@
       "Tommy Fleetwood",
       "Sam Burns"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
-    "entrant_full_name": "Erik Hetzel",
+    "entrant_full_name": "Eric Cheeks",
     "label": "Erik H",
     "pairing_id": "Erik H-2",
     "golfers": [
@@ -547,10 +536,10 @@
       "Collin Morikawa",
       "Hideki Matsuyama"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
-    "entrant_full_name": "Erik Hetzel",
+    "entrant_full_name": "Eric Cheeks",
     "label": "Erik H",
     "pairing_id": "Erik H-3",
     "golfers": [
@@ -561,7 +550,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Erik Hetzel",
+    "entrant_full_name": "Eric Cheeks",
     "label": "Erik H",
     "pairing_id": "Erik H-4",
     "golfers": [
@@ -569,10 +558,10 @@
       "Collin Morikawa",
       "Sam Burns"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
-    "entrant_full_name": "Erik Hetzel",
+    "entrant_full_name": "Eric Cheeks",
     "label": "Erik H",
     "pairing_id": "Erik H-5",
     "golfers": [
@@ -583,7 +572,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Erik Hetzel",
+    "entrant_full_name": "Eric Cheeks",
     "label": "Erik H",
     "pairing_id": "Erik H-6",
     "golfers": [
@@ -594,18 +583,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "James Clark",
-    "label": "Jim C",
-    "pairing_id": "Jim C-1",
-    "golfers": [
-      "Scottie Scheffler",
-      "Tommy Fleetwood",
-      "Justin Thomas"
-    ],
-    "side_pool": true
-  },
-  {
-    "entrant_full_name": "James Clark",
+    "entrant_full_name": "Erik Hetzel",
     "label": "Jim C",
     "pairing_id": "Jim C-2",
     "golfers": [
@@ -616,7 +594,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "James Clark",
+    "entrant_full_name": "Erik Hetzel",
     "label": "Jim C",
     "pairing_id": "Jim C-3",
     "golfers": [
@@ -627,18 +605,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "James Clark",
-    "label": "Jim C",
-    "pairing_id": "Jim C-4",
-    "golfers": [
-      "Russell Henley",
-      "Collin Morikawa",
-      "Maverick McNealy"
-    ],
-    "side_pool": false
-  },
-  {
-    "entrant_full_name": "James Clark",
+    "entrant_full_name": "Erik Hetzel",
     "label": "Jim C",
     "pairing_id": "Jim C-5",
     "golfers": [
@@ -646,10 +613,10 @@
       "Tommy Fleetwood",
       "Viktor Hovland"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
-    "entrant_full_name": "James Clark",
+    "entrant_full_name": "Erik Hetzel",
     "label": "Jim C",
     "pairing_id": "Jim C-6",
     "golfers": [
@@ -657,10 +624,10 @@
       "Chris Gotterup",
       "Tom Kim"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
-    "entrant_full_name": "James Clark",
+    "entrant_full_name": "Erik Hetzel",
     "label": "Jim C",
     "pairing_id": "Jim C-7",
     "golfers": [
@@ -671,7 +638,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Jennifer Thomas",
+    "entrant_full_name": "James Clark",
     "label": "Jennifer T",
     "pairing_id": "Jennifer T-1",
     "golfers": [
@@ -682,7 +649,7 @@
     "side_pool": true
   },
   {
-    "entrant_full_name": "Jennifer Thomas",
+    "entrant_full_name": "James Clark",
     "label": "Jennifer T",
     "pairing_id": "Jennifer T-2",
     "golfers": [
@@ -693,7 +660,7 @@
     "side_pool": true
   },
   {
-    "entrant_full_name": "Jennifer Thomas",
+    "entrant_full_name": "James Clark",
     "label": "Jennifer T",
     "pairing_id": "Jennifer T-3",
     "golfers": [
@@ -701,21 +668,10 @@
       "Collin Morikawa",
       "Patrick Cantlay"
     ],
-    "side_pool": false
-  },
-  {
-    "entrant_full_name": "Jennifer Thomas",
-    "label": "Jennifer T",
-    "pairing_id": "Jennifer T-4",
-    "golfers": [
-      "Scottie Scheffler",
-      "Chris Gotterup",
-      "Justin Thomas"
-    ],
     "side_pool": true
   },
   {
-    "entrant_full_name": "John Jerome",
+    "entrant_full_name": "Jennifer Thomas",
     "label": "John J",
     "pairing_id": "John J-1",
     "golfers": [
@@ -723,10 +679,10 @@
       "Tommy Fleetwood",
       "Sam Burns"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
-    "entrant_full_name": "John Jerome",
+    "entrant_full_name": "Jennifer Thomas",
     "label": "John J",
     "pairing_id": "John J-2",
     "golfers": [
@@ -734,10 +690,10 @@
       "Xander Schauffele",
       "Sam Burns"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
-    "entrant_full_name": "John Jerome",
+    "entrant_full_name": "Jennifer Thomas",
     "label": "John J",
     "pairing_id": "John J-3",
     "golfers": [
@@ -745,10 +701,10 @@
       "Tommy Fleetwood",
       "Sam Burns"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
-    "entrant_full_name": "John Jerome",
+    "entrant_full_name": "Jennifer Thomas",
     "label": "John J",
     "pairing_id": "John J-4",
     "golfers": [
@@ -759,7 +715,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "John Jerome",
+    "entrant_full_name": "Jennifer Thomas",
     "label": "John J",
     "pairing_id": "John J-5",
     "golfers": [
@@ -770,7 +726,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Jude Green",
+    "entrant_full_name": "John Jerome",
     "label": "Jude",
     "pairing_id": "Jude-1",
     "golfers": [
@@ -778,10 +734,10 @@
       "Tommy Fleetwood",
       "Sam Burns"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
-    "entrant_full_name": "Jude Green",
+    "entrant_full_name": "John Jerome",
     "label": "Jude",
     "pairing_id": "Jude-2",
     "golfers": [
@@ -789,10 +745,10 @@
       "Xander Schauffele",
       "Ludvig Aberg"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
-    "entrant_full_name": "Jude Green",
+    "entrant_full_name": "John Jerome",
     "label": "Jude",
     "pairing_id": "Jude-3",
     "golfers": [
@@ -800,10 +756,10 @@
       "Justin Rose",
       "Rory McIlroy"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
-    "entrant_full_name": "Kristina Kinard",
+    "entrant_full_name": "John Jerome",
     "label": "Kristina K",
     "pairing_id": "Kristina K-1",
     "golfers": [
@@ -814,7 +770,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Kristina Kinard",
+    "entrant_full_name": "John Jerome",
     "label": "Kristina K",
     "pairing_id": "Kristina K-2",
     "golfers": [
@@ -825,7 +781,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Kristina Kinard",
+    "entrant_full_name": "John Jerome",
     "label": "Kristina K",
     "pairing_id": "Kristina K-3",
     "golfers": [
@@ -836,7 +792,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Kristina Kinard",
+    "entrant_full_name": "John Jerome",
     "label": "Kristina K",
     "pairing_id": "Kristina K-4",
     "golfers": [
@@ -847,7 +803,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Mark Johnson",
+    "entrant_full_name": "Kristina Kinard",
     "label": "Mark J",
     "pairing_id": "Mark J-1",
     "golfers": [
@@ -858,7 +814,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Mark Johnson",
+    "entrant_full_name": "Kristina Kinard",
     "label": "Mark J",
     "pairing_id": "Mark J-2",
     "golfers": [
@@ -869,7 +825,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Mark Johnson",
+    "entrant_full_name": "Kristina Kinard",
     "label": "Mark J",
     "pairing_id": "Mark J-3",
     "golfers": [
@@ -880,7 +836,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Mark Johnson",
+    "entrant_full_name": "Kristina Kinard",
     "label": "Mark J",
     "pairing_id": "Mark J-4",
     "golfers": [
@@ -891,7 +847,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Mark Johnson",
+    "entrant_full_name": "Kristina Kinard",
     "label": "Mark J",
     "pairing_id": "Mark J-5",
     "golfers": [
@@ -902,7 +858,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Mark Johnson",
+    "entrant_full_name": "Kristina Kinard",
     "label": "Mark J",
     "pairing_id": "Mark J-6",
     "golfers": [
@@ -913,7 +869,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Max Hensley",
+    "entrant_full_name": "Mark Johnson",
     "label": "Max H",
     "pairing_id": "Max H-1",
     "golfers": [
@@ -924,7 +880,7 @@
     "side_pool": true
   },
   {
-    "entrant_full_name": "Max Hensley",
+    "entrant_full_name": "Mark Johnson",
     "label": "Max H",
     "pairing_id": "Max H-2",
     "golfers": [
@@ -932,10 +888,10 @@
       "Chris Gotterup",
       "Tom Kim"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
-    "entrant_full_name": "Max Hensley",
+    "entrant_full_name": "Mark Johnson",
     "label": "Max H",
     "pairing_id": "Max H-3",
     "golfers": [
@@ -946,7 +902,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Max Hensley",
+    "entrant_full_name": "Mark Johnson",
     "label": "Max H",
     "pairing_id": "Max H-4",
     "golfers": [
@@ -957,7 +913,7 @@
     "side_pool": true
   },
   {
-    "entrant_full_name": "Max Hensley",
+    "entrant_full_name": "Mark Johnson",
     "label": "Max H",
     "pairing_id": "Max H-5",
     "golfers": [
@@ -965,10 +921,10 @@
       "Collin Morikawa",
       "Alex Fitzpatrick"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
-    "entrant_full_name": "Max Hensley",
+    "entrant_full_name": "Mark Johnson",
     "label": "Max H",
     "pairing_id": "Max H-6",
     "golfers": [
@@ -979,7 +935,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Michael Eckloff",
+    "entrant_full_name": "Max Hensley",
     "label": "Michael E",
     "pairing_id": "Michael E-1",
     "golfers": [
@@ -990,7 +946,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Michael Eckloff",
+    "entrant_full_name": "Max Hensley",
     "label": "Michael E",
     "pairing_id": "Michael E-2",
     "golfers": [
@@ -1001,18 +957,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Niall Johnston",
-    "label": "Niall J",
-    "pairing_id": "Niall J-1",
-    "golfers": [
-      "Scottie Scheffler",
-      "Tommy Fleetwood",
-      "Michael Thorbjornsen"
-    ],
-    "side_pool": true
-  },
-  {
-    "entrant_full_name": "Niall Johnston",
+    "entrant_full_name": "Max Hensley",
     "label": "Niall J",
     "pairing_id": "Niall J-2",
     "golfers": [
@@ -1023,7 +968,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Niall Johnston",
+    "entrant_full_name": "Max Hensley",
     "label": "Niall J",
     "pairing_id": "Niall J-3",
     "golfers": [
@@ -1031,21 +976,10 @@
       "Tommy Fleetwood",
       "Tom Kim"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
-    "entrant_full_name": "Niall Johnston",
-    "label": "Niall J",
-    "pairing_id": "Niall J-4",
-    "golfers": [
-      "Matt Fitzpatrick",
-      "Tommy Fleetwood",
-      "Michael Brennan"
-    ],
-    "side_pool": true
-  },
-  {
-    "entrant_full_name": "Nick Lopez",
+    "entrant_full_name": "Michael Eckloff",
     "label": "Nick L",
     "pairing_id": "Nick L-1",
     "golfers": [
@@ -1056,7 +990,7 @@
     "side_pool": true
   },
   {
-    "entrant_full_name": "Nick Lopez",
+    "entrant_full_name": "Michael Eckloff",
     "label": "Nick L",
     "pairing_id": "Nick L-2",
     "golfers": [
@@ -1064,10 +998,10 @@
       "Xander Schauffele",
       "Sam Burns"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
-    "entrant_full_name": "Nick Lopez",
+    "entrant_full_name": "Michael Eckloff",
     "label": "Nick L",
     "pairing_id": "Nick L-3",
     "golfers": [
@@ -1075,10 +1009,10 @@
       "Tommy Fleetwood",
       "Ludvig Aberg"
     ],
-    "side_pool": false
+    "side_pool": true
   },
   {
-    "entrant_full_name": "Nick Lopez",
+    "entrant_full_name": "Michael Eckloff",
     "label": "Nick L",
     "pairing_id": "Nick L-4",
     "golfers": [
@@ -1089,7 +1023,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Nick Lopez",
+    "entrant_full_name": "Michael Eckloff",
     "label": "Nick L",
     "pairing_id": "Nick L-5",
     "golfers": [
@@ -1097,10 +1031,10 @@
       "Tommy Fleetwood",
       "Hideki Matsuyama"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
-    "entrant_full_name": "Nick Lopez",
+    "entrant_full_name": "Michael Eckloff",
     "label": "Nick L",
     "pairing_id": "Nick L-6",
     "golfers": [
@@ -1108,10 +1042,10 @@
       "Xander Schauffele",
       "Tom Kim"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
-    "entrant_full_name": "Scott Calkins",
+    "entrant_full_name": "Nick Lopez",
     "label": "Scott C",
     "pairing_id": "Scott C-2",
     "golfers": [
@@ -1122,7 +1056,7 @@
     "side_pool": true
   },
   {
-    "entrant_full_name": "Scott Calkins",
+    "entrant_full_name": "Nick Lopez",
     "label": "Scott C",
     "pairing_id": "Scott C-3",
     "golfers": [
@@ -1133,7 +1067,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Scott Calkins",
+    "entrant_full_name": "Nick Lopez",
     "label": "Scott C",
     "pairing_id": "Scott C-4",
     "golfers": [
@@ -1144,18 +1078,7 @@
     "side_pool": true
   },
   {
-    "entrant_full_name": "Scott Calkins",
-    "label": "Scott C",
-    "pairing_id": "Scott C-5",
-    "golfers": [
-      "Rory McIlroy",
-      "Tommy Fleetwood",
-      "Justin Thomas"
-    ],
-    "side_pool": false
-  },
-  {
-    "entrant_full_name": "Scott Calkins",
+    "entrant_full_name": "Nick Lopez",
     "label": "Scott C",
     "pairing_id": "Scott C-6",
     "golfers": [
@@ -1163,10 +1086,10 @@
       "Wyndham Clark",
       "Viktor Hovland"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
-    "entrant_full_name": "Scott Henderson",
+    "entrant_full_name": "Nick Lopez",
     "label": "Scott H",
     "pairing_id": "Scott H-1",
     "golfers": [
@@ -1177,7 +1100,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Scott Henderson",
+    "entrant_full_name": "Nick Lopez",
     "label": "Scott H",
     "pairing_id": "Scott H-2",
     "golfers": [
@@ -1188,18 +1111,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Scott Henderson",
-    "label": "Scott H",
-    "pairing_id": "Scott H-3",
-    "golfers": [
-      "Scottie Scheffler",
-      "Tommy Fleetwood",
-      "Rickie Fowler"
-    ],
-    "side_pool": false
-  },
-  {
-    "entrant_full_name": "Scott Henderson",
+    "entrant_full_name": "Nick Lopez",
     "label": "Scott H",
     "pairing_id": "Scott H-4",
     "golfers": [
@@ -1210,7 +1122,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Scott Henderson",
+    "entrant_full_name": "Nick Lopez",
     "label": "Scott H",
     "pairing_id": "Scott H-5",
     "golfers": [
@@ -1221,7 +1133,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Scott Hobbs",
+    "entrant_full_name": "Scott Calkins",
     "label": "Scott Hobbs",
     "pairing_id": "Scott Hobbs-2",
     "golfers": [
@@ -1232,29 +1144,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Scott Hobbs",
-    "label": "Scott Hobbs",
-    "pairing_id": "Scott Hobbs-3",
-    "golfers": [
-      "Scottie Scheffler",
-      "Collin Morikawa",
-      "Nico Echavarria"
-    ],
-    "side_pool": false
-  },
-  {
-    "entrant_full_name": "Scott Hobbs",
-    "label": "Scott Hobbs",
-    "pairing_id": "Scott Hobbs-6",
-    "golfers": [
-      "Scottie Scheffler",
-      "Xander Schauffele",
-      "Michael Brennan"
-    ],
-    "side_pool": false
-  },
-  {
-    "entrant_full_name": "Sean Hogan",
+    "entrant_full_name": "Scott Calkins",
     "label": "Sean Hogan",
     "pairing_id": "Sean Hogan-1",
     "golfers": [
@@ -1265,7 +1155,7 @@
     "side_pool": true
   },
   {
-    "entrant_full_name": "Sean Hogan",
+    "entrant_full_name": "Scott Calkins",
     "label": "Sean Hogan",
     "pairing_id": "Sean Hogan-2",
     "golfers": [
@@ -1276,7 +1166,7 @@
     "side_pool": true
   },
   {
-    "entrant_full_name": "Sean Hogan",
+    "entrant_full_name": "Scott Calkins",
     "label": "Sean Hogan",
     "pairing_id": "Sean Hogan-3",
     "golfers": [
@@ -1287,7 +1177,7 @@
     "side_pool": true
   },
   {
-    "entrant_full_name": "Sean Hogan",
+    "entrant_full_name": "Scott Calkins",
     "label": "Sean Hogan",
     "pairing_id": "Sean Hogan-4",
     "golfers": [
@@ -1298,7 +1188,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Shawn Kicherer",
+    "entrant_full_name": "Scott Henderson",
     "label": "Shawn K",
     "pairing_id": "Shawn K-1",
     "golfers": [
@@ -1306,10 +1196,10 @@
       "Xander Schauffele",
       "Viktor Hovland"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
-    "entrant_full_name": "Shawn Kicherer",
+    "entrant_full_name": "Scott Henderson",
     "label": "Shawn K",
     "pairing_id": "Shawn K-2",
     "golfers": [
@@ -1320,7 +1210,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Shawn Kicherer",
+    "entrant_full_name": "Scott Henderson",
     "label": "Shawn K",
     "pairing_id": "Shawn K-3",
     "golfers": [
@@ -1328,10 +1218,10 @@
       "Tommy Fleetwood",
       "Patrick Cantlay"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
-    "entrant_full_name": "Shawn Kicherer",
+    "entrant_full_name": "Scott Henderson",
     "label": "Shawn K",
     "pairing_id": "Shawn K-4",
     "golfers": [
@@ -1342,7 +1232,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Shawn Kicherer",
+    "entrant_full_name": "Scott Henderson",
     "label": "Shawn K",
     "pairing_id": "Shawn K-5",
     "golfers": [
@@ -1353,7 +1243,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Shawn Kicherer",
+    "entrant_full_name": "Scott Henderson",
     "label": "Shawn K",
     "pairing_id": "Shawn K-6",
     "golfers": [
@@ -1361,10 +1251,10 @@
       "Collin Morikawa",
       "Ludvig Aberg"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
-    "entrant_full_name": "Steve Sawtell",
+    "entrant_full_name": "Sean Hogan",
     "label": "Steve S",
     "pairing_id": "Steve S-1",
     "golfers": [
@@ -1375,7 +1265,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Steve Sawtell",
+    "entrant_full_name": "Sean Hogan",
     "label": "Steve S",
     "pairing_id": "Steve S-2",
     "golfers": [
@@ -1386,7 +1276,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Steve Sawtell",
+    "entrant_full_name": "Sean Hogan",
     "label": "Steve S",
     "pairing_id": "Steve S-3",
     "golfers": [
@@ -1397,7 +1287,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Steve Sawtell",
+    "entrant_full_name": "Sean Hogan",
     "label": "Steve S",
     "pairing_id": "Steve S-4",
     "golfers": [
@@ -1408,7 +1298,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Steve Sawtell",
+    "entrant_full_name": "Sean Hogan",
     "label": "Steve S",
     "pairing_id": "Steve S-5",
     "golfers": [
@@ -1419,7 +1309,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Steve Sawtell",
+    "entrant_full_name": "Sean Hogan",
     "label": "Steve S",
     "pairing_id": "Steve S-6",
     "golfers": [
@@ -1430,7 +1320,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Teddy Minner",
+    "entrant_full_name": "Shawn Kicherer",
     "label": "Teddy M",
     "pairing_id": "Teddy M-1",
     "golfers": [
@@ -1441,7 +1331,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Teddy Minner",
+    "entrant_full_name": "Shawn Kicherer",
     "label": "Teddy M",
     "pairing_id": "Teddy M-2",
     "golfers": [
@@ -1452,7 +1342,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Teddy Minner",
+    "entrant_full_name": "Shawn Kicherer",
     "label": "Teddy M",
     "pairing_id": "Teddy M-3",
     "golfers": [
@@ -1463,7 +1353,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Teddy Minner",
+    "entrant_full_name": "Shawn Kicherer",
     "label": "Teddy M",
     "pairing_id": "Teddy M-4",
     "golfers": [
@@ -1474,7 +1364,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Teddy Minner",
+    "entrant_full_name": "Shawn Kicherer",
     "label": "Teddy M",
     "pairing_id": "Teddy M-5",
     "golfers": [
@@ -1485,7 +1375,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Teddy Minner",
+    "entrant_full_name": "Shawn Kicherer",
     "label": "Teddy M",
     "pairing_id": "Teddy M-6",
     "golfers": [
@@ -1496,7 +1386,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Todd Smith",
+    "entrant_full_name": "Steve Sawtell",
     "label": "Todd S",
     "pairing_id": "Todd S-1",
     "golfers": [
@@ -1507,7 +1397,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Todd Smith",
+    "entrant_full_name": "Steve Sawtell",
     "label": "Todd S",
     "pairing_id": "Todd S-2",
     "golfers": [
@@ -1518,7 +1408,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Todd Smith",
+    "entrant_full_name": "Steve Sawtell",
     "label": "Todd S",
     "pairing_id": "Todd S-3",
     "golfers": [
@@ -1529,7 +1419,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Todd Smith",
+    "entrant_full_name": "Steve Sawtell",
     "label": "Todd S",
     "pairing_id": "Todd S-4",
     "golfers": [
@@ -1540,7 +1430,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Zach Taylor",
+    "entrant_full_name": "Teddy Minner",
     "label": "Zach T",
     "pairing_id": "Zach T-1",
     "golfers": [
@@ -1548,10 +1438,10 @@
       "Tom Kim",
       "Si Woo Kim"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
-    "entrant_full_name": "Zach Taylor",
+    "entrant_full_name": "Teddy Minner",
     "label": "Zach T",
     "pairing_id": "Zach T-2",
     "golfers": [
@@ -1559,10 +1449,10 @@
       "Xander Schauffele",
       "Si Woo Kim"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
-    "entrant_full_name": "Zach Taylor",
+    "entrant_full_name": "Teddy Minner",
     "label": "Zach T",
     "pairing_id": "Zach T-3",
     "golfers": [
@@ -1573,7 +1463,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Zach Taylor",
+    "entrant_full_name": "Teddy Minner",
     "label": "Zach T",
     "pairing_id": "Zach T-4",
     "golfers": [
@@ -1584,7 +1474,7 @@
     "side_pool": false
   },
   {
-    "entrant_full_name": "Zach Taylor",
+    "entrant_full_name": "Teddy Minner",
     "label": "Zach T",
     "pairing_id": "Zach T-5",
     "golfers": [
@@ -1592,10 +1482,10 @@
       "Wyndham Clark",
       "Si Woo Kim"
     ],
-    "side_pool": true
+    "side_pool": false
   },
   {
-    "entrant_full_name": "Zach Taylor",
+    "entrant_full_name": "Teddy Minner",
     "label": "Zach T",
     "pairing_id": "Zach T-6",
     "golfers": [
