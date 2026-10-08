@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T04:30:20.068260+00:00",
+  "last_updated": "2026-10-08T04:45:15.282160+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -39,15 +39,15 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
           "name": "Hideki Matsuyama",
           "score": -1,
-          "thru": 10,
+          "thru": 11,
           "today": -1,
           "status": "LIVE"
         }
@@ -95,9 +95,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -175,9 +175,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -230,7 +230,7 @@
         {
           "name": "Wyndham Clark",
           "score": -3,
-          "thru": 10,
+          "thru": 11,
           "today": -3,
           "status": "LIVE"
         },
@@ -257,9 +257,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -338,14 +338,14 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
         {
           "name": "Hideki Matsuyama",
           "score": -1,
-          "thru": 10,
+          "thru": 11,
           "today": -1,
           "status": "LIVE"
         }
@@ -393,9 +393,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -448,7 +448,7 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
@@ -476,7 +476,7 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
@@ -503,9 +503,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -615,7 +615,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": -1,
-          "thru": 10,
+          "thru": 11,
           "today": -1,
           "status": "LIVE"
         }
@@ -637,9 +637,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -666,7 +666,7 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
@@ -693,9 +693,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -721,9 +721,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -775,16 +775,16 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
           "name": "Min Woo Lee",
-          "score": -1,
-          "thru": 14,
-          "today": -1,
+          "score": -2,
+          "thru": 16,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -800,9 +800,9 @@
       "golfers": [
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -833,9 +833,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -888,7 +888,7 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
@@ -947,7 +947,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": -1,
-          "thru": 10,
+          "thru": 11,
           "today": -1,
           "status": "LIVE"
         }
@@ -969,16 +969,16 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
           "name": "Min Woo Lee",
-          "score": -1,
-          "thru": 14,
-          "today": -1,
+          "score": -2,
+          "thru": 16,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -999,9 +999,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -1080,7 +1080,7 @@
         {
           "name": "Wyndham Clark",
           "score": -3,
-          "thru": 10,
+          "thru": 11,
           "today": -3,
           "status": "LIVE"
         },
@@ -1133,9 +1133,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -1162,7 +1162,7 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
@@ -1216,7 +1216,7 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
@@ -1269,9 +1269,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -1324,14 +1324,14 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
         {
           "name": "Hideki Matsuyama",
           "score": -1,
-          "thru": 10,
+          "thru": 11,
           "today": -1,
           "status": "LIVE"
         }
@@ -1353,9 +1353,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -1382,7 +1382,7 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
@@ -1435,9 +1435,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -1464,14 +1464,14 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
         {
           "name": "Hideki Matsuyama",
           "score": -1,
-          "thru": 10,
+          "thru": 11,
           "today": -1,
           "status": "LIVE"
         }
@@ -1493,9 +1493,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -1542,9 +1542,9 @@
       "golfers": [
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -1575,9 +1575,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -1603,9 +1603,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -1658,7 +1658,7 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
@@ -1711,9 +1711,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -1843,9 +1843,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -1903,7 +1903,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": -1,
-          "thru": 10,
+          "thru": 11,
           "today": -1,
           "status": "LIVE"
         }
@@ -1926,7 +1926,7 @@
         {
           "name": "Wyndham Clark",
           "score": -3,
-          "thru": 10,
+          "thru": 11,
           "today": -3,
           "status": "LIVE"
         },
@@ -1953,9 +1953,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -1982,7 +1982,7 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
@@ -2010,7 +2010,7 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
@@ -2037,9 +2037,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -2066,7 +2066,7 @@
         {
           "name": "Wyndham Clark",
           "score": -3,
-          "thru": 10,
+          "thru": 11,
           "today": -3,
           "status": "LIVE"
         },
@@ -2146,14 +2146,14 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
         {
           "name": "Hideki Matsuyama",
           "score": -1,
-          "thru": 10,
+          "thru": 11,
           "today": -1,
           "status": "LIVE"
         }
@@ -2176,7 +2176,7 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
@@ -2229,16 +2229,16 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
           "name": "Ryan Gerard",
-          "score": -1,
-          "thru": 10,
-          "today": -1,
+          "score": -2,
+          "thru": 11,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -2286,7 +2286,7 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
@@ -2314,7 +2314,7 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
@@ -2341,9 +2341,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -2375,7 +2375,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": -1,
-          "thru": 10,
+          "thru": 11,
           "today": -1,
           "status": "LIVE"
         }
@@ -2398,7 +2398,7 @@
         {
           "name": "Wyndham Clark",
           "score": -3,
-          "thru": 10,
+          "thru": 11,
           "today": -3,
           "status": "LIVE"
         },
@@ -2452,7 +2452,7 @@
         {
           "name": "Wyndham Clark",
           "score": -3,
-          "thru": 10,
+          "thru": 11,
           "today": -3,
           "status": "LIVE"
         },
@@ -2479,9 +2479,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -2534,15 +2534,15 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
         {
           "name": "Min Woo Lee",
-          "score": -1,
-          "thru": 14,
-          "today": -1,
+          "score": -2,
+          "thru": 16,
+          "today": -2,
           "status": "LIVE"
         }
       ],
@@ -2569,7 +2569,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": -1,
-          "thru": 10,
+          "thru": 11,
           "today": -1,
           "status": "LIVE"
         }
@@ -2591,9 +2591,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -2671,9 +2671,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -2700,7 +2700,7 @@
         {
           "name": "Wyndham Clark",
           "score": -3,
-          "thru": 10,
+          "thru": 11,
           "today": -3,
           "status": "LIVE"
         },
@@ -2727,9 +2727,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -2761,7 +2761,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": -1,
-          "thru": 10,
+          "thru": 11,
           "today": -1,
           "status": "LIVE"
         }
@@ -2784,7 +2784,7 @@
         {
           "name": "Wyndham Clark",
           "score": -3,
-          "thru": 10,
+          "thru": 11,
           "today": -3,
           "status": "LIVE"
         },
@@ -2812,7 +2812,7 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
@@ -2866,7 +2866,7 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
@@ -2899,7 +2899,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": -1,
-          "thru": 10,
+          "thru": 11,
           "today": -1,
           "status": "LIVE"
         }
@@ -2921,9 +2921,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -2950,7 +2950,7 @@
         {
           "name": "Wyndham Clark",
           "score": -3,
-          "thru": 10,
+          "thru": 11,
           "today": -3,
           "status": "LIVE"
         },
@@ -2977,9 +2977,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -3005,9 +3005,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -3085,15 +3085,15 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
           "name": "Hideki Matsuyama",
           "score": -1,
-          "thru": 10,
+          "thru": 11,
           "today": -1,
           "status": "LIVE"
         }
@@ -3116,7 +3116,7 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
@@ -3144,7 +3144,7 @@
         {
           "name": "Wyndham Clark",
           "score": -3,
-          "thru": 10,
+          "thru": 11,
           "today": -3,
           "status": "LIVE"
         },
@@ -3198,7 +3198,7 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
@@ -3251,9 +3251,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -3306,7 +3306,7 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
@@ -3334,7 +3334,7 @@
         {
           "name": "Wyndham Clark",
           "score": -3,
-          "thru": 10,
+          "thru": 11,
           "today": -3,
           "status": "LIVE"
         },
@@ -3361,9 +3361,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -3416,7 +3416,7 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
@@ -3444,7 +3444,7 @@
         {
           "name": "Wyndham Clark",
           "score": -3,
-          "thru": 10,
+          "thru": 11,
           "today": -3,
           "status": "LIVE"
         },
@@ -3471,9 +3471,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -3500,14 +3500,14 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
         {
           "name": "Hideki Matsuyama",
           "score": -1,
-          "thru": 10,
+          "thru": 11,
           "today": -1,
           "status": "LIVE"
         }
@@ -3556,7 +3556,7 @@
         {
           "name": "Wyndham Clark",
           "score": -3,
-          "thru": 10,
+          "thru": 11,
           "today": -3,
           "status": "LIVE"
         },
@@ -3609,9 +3609,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
@@ -3638,7 +3638,7 @@
         {
           "name": "Wyndham Clark",
           "score": -3,
-          "thru": 10,
+          "thru": 11,
           "today": -3,
           "status": "LIVE"
         },
@@ -3666,7 +3666,7 @@
         {
           "name": "Collin Morikawa",
           "score": -4,
-          "thru": 14,
+          "thru": 15,
           "today": -4,
           "status": "LIVE"
         },
@@ -3694,7 +3694,7 @@
         {
           "name": "Wyndham Clark",
           "score": -3,
-          "thru": 10,
+          "thru": 11,
           "today": -3,
           "status": "LIVE"
         },
@@ -3721,9 +3721,9 @@
         },
         {
           "name": "Xander Schauffele",
-          "score": 0,
-          "thru": 14,
-          "today": 0,
+          "score": -1,
+          "thru": 15,
+          "today": -1,
           "status": "LIVE"
         },
         {
