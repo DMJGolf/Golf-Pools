@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T03:30:50.803239+00:00",
+  "last_updated": "2026-10-09T03:45:13.044839+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -47,7 +47,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": -4,
-          "thru": 9,
+          "thru": 10,
           "today": 0,
           "status": "LIVE"
         }
@@ -229,9 +229,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "thru": 10,
-          "today": 1,
+          "score": -1,
+          "thru": 11,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -338,14 +338,14 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
         {
           "name": "Hideki Matsuyama",
           "score": -4,
-          "thru": 9,
+          "thru": 10,
           "today": 0,
           "status": "LIVE"
         }
@@ -448,7 +448,7 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
@@ -476,7 +476,7 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
@@ -615,7 +615,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": -4,
-          "thru": 9,
+          "thru": 10,
           "today": 0,
           "status": "LIVE"
         }
@@ -666,7 +666,7 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
@@ -782,9 +782,9 @@
         },
         {
           "name": "Min Woo Lee",
-          "score": -6,
-          "thru": 7,
-          "today": -2,
+          "score": -7,
+          "thru": 8,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -888,7 +888,7 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
@@ -947,7 +947,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": -4,
-          "thru": 9,
+          "thru": 10,
           "today": 0,
           "status": "LIVE"
         }
@@ -976,9 +976,9 @@
         },
         {
           "name": "Min Woo Lee",
-          "score": -6,
-          "thru": 7,
-          "today": -2,
+          "score": -7,
+          "thru": 8,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -1079,9 +1079,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "thru": 10,
-          "today": 1,
+          "score": -1,
+          "thru": 11,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -1162,7 +1162,7 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
@@ -1216,7 +1216,7 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
@@ -1324,14 +1324,14 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
         {
           "name": "Hideki Matsuyama",
           "score": -4,
-          "thru": 9,
+          "thru": 10,
           "today": 0,
           "status": "LIVE"
         }
@@ -1382,7 +1382,7 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
@@ -1464,14 +1464,14 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
         {
           "name": "Hideki Matsuyama",
           "score": -4,
-          "thru": 9,
+          "thru": 10,
           "today": 0,
           "status": "LIVE"
         }
@@ -1658,7 +1658,7 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
@@ -1903,7 +1903,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": -4,
-          "thru": 9,
+          "thru": 10,
           "today": 0,
           "status": "LIVE"
         }
@@ -1925,9 +1925,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "thru": 10,
-          "today": 1,
+          "score": -1,
+          "thru": 11,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -1982,7 +1982,7 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
@@ -2010,7 +2010,7 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
@@ -2065,9 +2065,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "thru": 10,
-          "today": 1,
+          "score": -1,
+          "thru": 11,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -2146,14 +2146,14 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
         {
           "name": "Hideki Matsuyama",
           "score": -4,
-          "thru": 9,
+          "thru": 10,
           "today": 0,
           "status": "LIVE"
         }
@@ -2176,7 +2176,7 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
@@ -2286,7 +2286,7 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
@@ -2314,7 +2314,7 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
@@ -2375,7 +2375,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": -4,
-          "thru": 9,
+          "thru": 10,
           "today": 0,
           "status": "LIVE"
         }
@@ -2397,9 +2397,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "thru": 10,
-          "today": 1,
+          "score": -1,
+          "thru": 11,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -2451,9 +2451,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "thru": 10,
-          "today": 1,
+          "score": -1,
+          "thru": 11,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -2534,15 +2534,15 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
         {
           "name": "Min Woo Lee",
-          "score": -6,
-          "thru": 7,
-          "today": -2,
+          "score": -7,
+          "thru": 8,
+          "today": -3,
           "status": "LIVE"
         }
       ],
@@ -2569,7 +2569,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": -4,
-          "thru": 9,
+          "thru": 10,
           "today": 0,
           "status": "LIVE"
         }
@@ -2699,9 +2699,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "thru": 10,
-          "today": 1,
+          "score": -1,
+          "thru": 11,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -2761,7 +2761,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": -4,
-          "thru": 9,
+          "thru": 10,
           "today": 0,
           "status": "LIVE"
         }
@@ -2783,9 +2783,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "thru": 10,
-          "today": 1,
+          "score": -1,
+          "thru": 11,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -2812,7 +2812,7 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
@@ -2866,7 +2866,7 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
@@ -2899,7 +2899,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": -4,
-          "thru": 9,
+          "thru": 10,
           "today": 0,
           "status": "LIVE"
         }
@@ -2949,9 +2949,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "thru": 10,
-          "today": 1,
+          "score": -1,
+          "thru": 11,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -3093,7 +3093,7 @@
         {
           "name": "Hideki Matsuyama",
           "score": -4,
-          "thru": 9,
+          "thru": 10,
           "today": 0,
           "status": "LIVE"
         }
@@ -3116,7 +3116,7 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
@@ -3143,9 +3143,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "thru": 10,
-          "today": 1,
+          "score": -1,
+          "thru": 11,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -3198,7 +3198,7 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
@@ -3306,7 +3306,7 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
@@ -3333,9 +3333,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "thru": 10,
-          "today": 1,
+          "score": -1,
+          "thru": 11,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -3416,7 +3416,7 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
@@ -3443,9 +3443,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "thru": 10,
-          "today": 1,
+          "score": -1,
+          "thru": 11,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -3500,14 +3500,14 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
         {
           "name": "Hideki Matsuyama",
           "score": -4,
-          "thru": 9,
+          "thru": 10,
           "today": 0,
           "status": "LIVE"
         }
@@ -3555,9 +3555,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "thru": 10,
-          "today": 1,
+          "score": -1,
+          "thru": 11,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -3637,9 +3637,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "thru": 10,
-          "today": 1,
+          "score": -1,
+          "thru": 11,
+          "today": 0,
           "status": "LIVE"
         },
         {
@@ -3666,7 +3666,7 @@
         {
           "name": "Collin Morikawa",
           "score": -6,
-          "thru": 7,
+          "thru": 8,
           "today": -2,
           "status": "LIVE"
         },
@@ -3693,9 +3693,9 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "thru": 10,
-          "today": 1,
+          "score": -1,
+          "thru": 11,
+          "today": 0,
           "status": "LIVE"
         },
         {
