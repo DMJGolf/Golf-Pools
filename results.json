@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T00:30:16.408835+00:00",
+  "last_updated": "2026-10-11T00:45:14.567465+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -782,9 +782,9 @@
         },
         {
           "name": "Min Woo Lee",
-          "score": -7,
-          "thru": 0,
-          "today": 0,
+          "score": -8,
+          "thru": 1,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -976,9 +976,9 @@
         },
         {
           "name": "Min Woo Lee",
-          "score": -7,
-          "thru": 0,
-          "today": 0,
+          "score": -8,
+          "thru": 1,
+          "today": -1,
           "status": "LIVE"
         }
       ],
@@ -2540,9 +2540,9 @@
         },
         {
           "name": "Min Woo Lee",
-          "score": -7,
-          "thru": 0,
-          "today": 0,
+          "score": -8,
+          "thru": 1,
+          "today": -1,
           "status": "LIVE"
         }
       ],
