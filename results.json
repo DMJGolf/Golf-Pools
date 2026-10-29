@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T09:06:03.282047+00:00",
+  "last_updated": "2026-10-29T16:03:52.417545+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -221,8 +221,10 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Sam Burns",
@@ -876,8 +878,10 @@
         },
         {
           "name": "Tom Kim",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -1027,8 +1031,10 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Sam Burns",
@@ -1344,8 +1350,10 @@
         },
         {
           "name": "Tom Kim",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -1474,8 +1482,10 @@
         },
         {
           "name": "Tom Kim",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -1833,8 +1843,10 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Si Woo Kim",
@@ -1963,8 +1975,10 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Si Woo Kim",
@@ -2098,8 +2112,10 @@
         },
         {
           "name": "Tom Kim",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -2228,8 +2244,10 @@
         },
         {
           "name": "Tom Kim",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -2275,13 +2293,17 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Tom Kim",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -2306,8 +2328,10 @@
         },
         {
           "name": "Tom Kim",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -2327,8 +2351,10 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Si Woo Kim",
@@ -2462,8 +2488,10 @@
         },
         {
           "name": "Tom Kim",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -2561,8 +2589,10 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Viktor Hovland",
@@ -2639,8 +2669,10 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Sam Burns",
@@ -2670,8 +2702,10 @@
         },
         {
           "name": "Tom Kim",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -2795,8 +2829,10 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Ludvig Aberg",
@@ -2977,8 +3013,10 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Si Woo Kim",
@@ -3159,8 +3197,10 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Sam Burns",
@@ -3263,8 +3303,10 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Ludvig Aberg",
@@ -3367,13 +3409,17 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Tom Kim",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -3393,8 +3439,10 @@
         },
         {
           "name": "Tom Kim",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Si Woo Kim",
@@ -3445,8 +3493,10 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Akshay Bhatia",
@@ -3497,8 +3547,10 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": 0,
+          "thru": 0,
+          "today": 0,
+          "status": "LIVE"
         },
         {
           "name": "Si Woo Kim",
