@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T08:43:49.797358+00:00",
+  "last_updated": "2026-11-05T16:51:35.687314+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -221,8 +221,8 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "status": "CUT"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Sam Burns",
@@ -231,7 +231,7 @@
         }
       ],
       "total_score": null,
-      "status": "CUT",
+      "status": "INCOMPLETE_DATA",
       "side_pool": false,
       "rank": null
     },
@@ -876,10 +876,8 @@
         },
         {
           "name": "Tom Kim",
-          "score": -18,
-          "thru": 18,
-          "today": -5,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         }
       ],
       "total_score": null,
@@ -1029,8 +1027,8 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "status": "CUT"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Sam Burns",
@@ -1039,7 +1037,7 @@
         }
       ],
       "total_score": null,
-      "status": "CUT",
+      "status": "INCOMPLETE_DATA",
       "side_pool": false,
       "rank": null
     },
@@ -1346,10 +1344,8 @@
         },
         {
           "name": "Tom Kim",
-          "score": -18,
-          "thru": 18,
-          "today": -5,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         }
       ],
       "total_score": null,
@@ -1478,10 +1474,8 @@
         },
         {
           "name": "Tom Kim",
-          "score": -18,
-          "thru": 18,
-          "today": -5,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         }
       ],
       "total_score": null,
@@ -1839,8 +1833,8 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "status": "CUT"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Si Woo Kim",
@@ -1849,7 +1843,7 @@
         }
       ],
       "total_score": null,
-      "status": "CUT",
+      "status": "INCOMPLETE_DATA",
       "side_pool": false,
       "rank": null
     },
@@ -1969,8 +1963,8 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "status": "CUT"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Si Woo Kim",
@@ -1979,7 +1973,7 @@
         }
       ],
       "total_score": null,
-      "status": "CUT",
+      "status": "INCOMPLETE_DATA",
       "side_pool": false,
       "rank": null
     },
@@ -2104,10 +2098,8 @@
         },
         {
           "name": "Tom Kim",
-          "score": -18,
-          "thru": 18,
-          "today": -5,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         }
       ],
       "total_score": null,
@@ -2132,8 +2124,10 @@
         },
         {
           "name": "Ryan Gerard",
-          "score": null,
-          "status": "NOT_FOUND"
+          "score": -3,
+          "thru": 9,
+          "today": -3,
+          "status": "LIVE"
         }
       ],
       "total_score": null,
@@ -2236,10 +2230,8 @@
         },
         {
           "name": "Tom Kim",
-          "score": -18,
-          "thru": 18,
-          "today": -5,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         }
       ],
       "total_score": null,
@@ -2285,19 +2277,17 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "status": "CUT"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Tom Kim",
-          "score": -18,
-          "thru": 18,
-          "today": -5,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         }
       ],
       "total_score": null,
-      "status": "CUT",
+      "status": "INCOMPLETE_DATA",
       "side_pool": false,
       "rank": null
     },
@@ -2318,10 +2308,8 @@
         },
         {
           "name": "Tom Kim",
-          "score": -18,
-          "thru": 18,
-          "today": -5,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         }
       ],
       "total_score": null,
@@ -2341,8 +2329,8 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "status": "CUT"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Si Woo Kim",
@@ -2351,7 +2339,7 @@
         }
       ],
       "total_score": null,
-      "status": "CUT",
+      "status": "INCOMPLETE_DATA",
       "side_pool": true,
       "rank": null
     },
@@ -2476,10 +2464,8 @@
         },
         {
           "name": "Tom Kim",
-          "score": -18,
-          "thru": 18,
-          "today": -5,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         }
       ],
       "total_score": null,
@@ -2577,8 +2563,8 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "status": "CUT"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Viktor Hovland",
@@ -2587,7 +2573,7 @@
         }
       ],
       "total_score": null,
-      "status": "CUT",
+      "status": "INCOMPLETE_DATA",
       "side_pool": false,
       "rank": null
     },
@@ -2655,8 +2641,8 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "status": "CUT"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Sam Burns",
@@ -2665,7 +2651,7 @@
         }
       ],
       "total_score": null,
-      "status": "CUT",
+      "status": "INCOMPLETE_DATA",
       "side_pool": false,
       "rank": null
     },
@@ -2686,10 +2672,8 @@
         },
         {
           "name": "Tom Kim",
-          "score": -18,
-          "thru": 18,
-          "today": -5,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         }
       ],
       "total_score": null,
@@ -2813,8 +2797,8 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "status": "CUT"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Ludvig Aberg",
@@ -2823,7 +2807,7 @@
         }
       ],
       "total_score": null,
-      "status": "CUT",
+      "status": "INCOMPLETE_DATA",
       "side_pool": false,
       "rank": null
     },
@@ -2995,8 +2979,8 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "status": "CUT"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Si Woo Kim",
@@ -3005,7 +2989,7 @@
         }
       ],
       "total_score": null,
-      "status": "CUT",
+      "status": "INCOMPLETE_DATA",
       "side_pool": false,
       "rank": null
     },
@@ -3177,8 +3161,8 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "status": "CUT"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Sam Burns",
@@ -3187,7 +3171,7 @@
         }
       ],
       "total_score": null,
-      "status": "CUT",
+      "status": "INCOMPLETE_DATA",
       "side_pool": false,
       "rank": null
     },
@@ -3281,8 +3265,8 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "status": "CUT"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Ludvig Aberg",
@@ -3291,7 +3275,7 @@
         }
       ],
       "total_score": null,
-      "status": "CUT",
+      "status": "INCOMPLETE_DATA",
       "side_pool": false,
       "rank": null
     },
@@ -3385,19 +3369,17 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "status": "CUT"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Tom Kim",
-          "score": -18,
-          "thru": 18,
-          "today": -5,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         }
       ],
       "total_score": null,
-      "status": "CUT",
+      "status": "INCOMPLETE_DATA",
       "side_pool": false,
       "rank": null
     },
@@ -3413,10 +3395,8 @@
         },
         {
           "name": "Tom Kim",
-          "score": -18,
-          "thru": 18,
-          "today": -5,
-          "status": "LIVE"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Si Woo Kim",
@@ -3467,8 +3447,8 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "status": "CUT"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Akshay Bhatia",
@@ -3477,7 +3457,7 @@
         }
       ],
       "total_score": null,
-      "status": "CUT",
+      "status": "INCOMPLETE_DATA",
       "side_pool": false,
       "rank": null
     },
@@ -3519,8 +3499,8 @@
         },
         {
           "name": "Wyndham Clark",
-          "score": 0,
-          "status": "CUT"
+          "score": null,
+          "status": "NOT_FOUND"
         },
         {
           "name": "Si Woo Kim",
@@ -3529,7 +3509,7 @@
         }
       ],
       "total_score": null,
-      "status": "CUT",
+      "status": "INCOMPLETE_DATA",
       "side_pool": false,
       "rank": null
     },
