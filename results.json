@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T15:26:07.508816+00:00",
+  "last_updated": "2026-11-08T19:50:17.429123+00:00",
   "leaderboard": [
     {
       "entrant_full_name": "Amy Foley",
@@ -2124,9 +2124,9 @@
         },
         {
           "name": "Ryan Gerard",
-          "score": -17,
-          "thru": 18,
-          "today": -7,
+          "score": -18,
+          "thru": 6,
+          "today": -1,
           "status": "LIVE"
         }
       ],
